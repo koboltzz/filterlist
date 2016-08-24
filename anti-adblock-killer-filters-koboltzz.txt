@@ -204,3 +204,14 @@ vipleague.se##[class^="vip_"]
 trovesaurus.com##div#blocked
 ! dogefaucet.com
 @@dogefaucet.com/initializr/js/ads.js
+! bangaloremirror.com
+@@||bangaloremirror.com/*ad$script
+@@||partner.googleadservices.com^$domain=bangaloremirror.com
+@@||clmbtech.com^$script,domain=bangaloremirror.com
+@@||crwdcntrl.net^$script,domain=bangaloremirror.com
+@@||bangaloremirror.com^$generichide
+@@$image,domain=bangaloremirror.com
+@@||timesinternet.in^$script,domain=bangaloremirror.com
+@@||timestrends.indiatimes.com$script
+@@||b.scorecardresearch.com/beacon.js$script,domain=timesofindia.indiatimes.com
+@@||b.scorecardresearch.com/beacon.js$script,domain=bangaloremirror.com
