@@ -114,6 +114,7 @@ janjuaplayer.com###video_ads_overdiv
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thehomestyle.co
 ! auto-motor-und-sport.de
 @@||auto-motor-und-sport.de/werb.gif
+www.auto-motor-und-sport.de##script:contains(FuckAdBlock)
 ! blockadblock.com
 @@||blockadblock.com^$generichide
 @@.ico$image,domain=blockadblock.com
