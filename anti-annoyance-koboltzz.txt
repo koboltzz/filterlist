@@ -68,3 +68,8 @@ www.windows-7-forum.net###ckch
 www.auto-motor-und-sport.de##.p40
 ! opena.tv
 www.opena.tv###cookieControlWrapper
+! wikia.com
+wikia.com##.banner-notifications-wrapper.float
+wikia.com###WikiaBar
+wikia.com###globalNavigation
+wikia.com##[id^="msg_"]
