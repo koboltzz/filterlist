@@ -217,12 +217,5 @@ trovesaurus.com##div#blocked
 @@||b.scorecardresearch.com/beacon.js$script,domain=bangaloremirror.com
 ! stooorage.com
 ||stooorage.com/frontend_loader.js
-! zippyshare.com
-zippyshare.com##.center_ad
-! wikia.com
-wikia.com##.banner-notifications-wrapper.float
-wikia.com###WikiaBar
-wikia.com###globalNavigation
-wikia.com##[id^="msg_"]
 ! jyllands-posten.dk
 @@||jyllands-posten.dk/*ad$script
