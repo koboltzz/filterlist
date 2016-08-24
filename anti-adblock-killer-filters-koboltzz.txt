@@ -224,3 +224,5 @@ wikia.com##.banner-notifications-wrapper.float
 wikia.com###WikiaBar
 wikia.com###globalNavigation
 wikia.com##[id^="msg_"]
+! jyllands-posten.dk
+@@||jyllands-posten.dk/*ad$script
