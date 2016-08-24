@@ -1,0 +1,205 @@
+! mylifetime.com
+@@||mylifetime.com^$generichide
+@@*$image,domain=mylifetime.com
+@@||budgetedbauer.com$domain=mylifetime.com
+! vvvvid.it
+@@||*$xmlhttprequest,domain=vvvvid.it
+! topserialy.sk
+@@||topserialy.sk^$script
+! paris.onvasortir.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=onvasortir.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onvasortir.com
+! fakty.tvn24.pl
+@@||tvn24.pl^$generichide
+@@||tvn.pl$script
+@@||redcdn.pl/*/TVN-Adserver/*.mp4
+@@||tvn.adocean.pl$xmlhttprequest,domain=tvn24.pl
+! timesofindia.indiatimes.com
+indiatimes.com##div[id^=google_ads_iframe]
+indiatimes.com##div[id^=div-gpt-ad]
+@@||partner.googleadservices.com^$domain=indiatimes.com
+@@||clmbtech.com^$script,domain=indiatimes.com
+@@||crwdcntrl.net^$script,domain=indiatimes.com
+@@||chartbeat.com^$domain=indiatimes.com
+@@$image,domain=indiatimes.com
+@@||ads.pubmatic.com^$script,domain=indiatimes.com
+@@||timesinternet.in^$script,domain=indiatimes.com
+@@||indiatimes.com/*ad$script
+! realkana.com
+@@||realkana.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=realkana.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=realkana.com
+! whattechsays.com
+@@||whattechsays.com^$generichide
+! ndtv.com
+@@||ndtv.com^$elemhide
+@@||zedo.com^$script,domain=ndtv.com
+@@||ndtv.com^$script,domain=ndtv.com
+@@||ads.rubiconproject.com$script,domain=ndtv.com
+||taboola.com^
+! intoday.in
+intoday.in#@#a[href*=".zedo.com/"]
+intoday.in#@#.right-ad
+@@||zedo.com^$image,domain=intoday.in
+indiatoday.intoday.in###aswift_0
+indiatoday.intoday.in###aswift_2
+@@||media2.intoday.in^$script
+! hindustantimes.com
+@@||hindustantimes.com^$script
+! publicleech.xyz
+@@||publicleech.xyz^$generichide
+|http://$script,domain=publicleech.xyz
+@@||publicleech.xyz^$script
+@@||cloudflare.com^$domain=publicleech.xyz
+@@.ico$domain=publicleech.xyz
+! climatempo.com.br
+@@||climatempo.com.br/*ad$script
+@@||climatempo.com.br^$generichide
+! kissanime.to
+@@||adsterra.com^$domain=kissanime.to
+! fastrapidleech.com
+@@||cdn.popcash.net/pop.js$script,domain=fastrapidleech.com
+||flr.cbox.ws/
+@@||fastrapidleech.com^$generichide
+@@||pagead2.googlesyndication.com^$domain=fastrapidleech.com
+@@||code.poptm.com/524.js$domain=fastrapidleech.com
+! faktypilskie.pl
+@@||faktypilskie.plpl/js/show_ads.js$script
+! ki24.info
+@@||ki24.info/pl/js/show_ads.js$script
+! portalplock.pl
+@@||portalplock.pl/pl/js/show_ads.js
+! biznesradar.pl
+@@||biznesradar.pl/*ad$script
+! smashingmagazine.com
+@@||smashingmagazine.com/*ad$script
+! allmusic.com
+@@||allmusic.com^$elemhide
+@@||pagefair.com$script,domain=allmusic.com
+@@||pagefair.net$script,domain=allmusic.com
+allmusic.com#@#.advertising
+! viafree.se
+@@||viafree.se^$xmlhttprequest
+@@||viafree.se^$generichide
+! yafud.pl
+@@||yafud.pl^$generichide
+yafud.pl###adsense_banner_top
+! politiken.dk
+@@||politiken.dk/*ad$script
+! wowebook.org
+@@.ico$domain=wowebook.org
+! 15min.it
+@@||15min.lt^$generichide
+@@||15min.lt/js/ads
+15min.lt###adocean_message
+! wired.com
+@@||$xmlhttprequest,script,domain=wired.com
+||outbrain.com^
+wired.com###around-the-web
+@@||condenastdigital.com^$image,domain=wired.com
+@@||pixel.parsely.com$image,domain=wired.com
+wired.com##[id^="google_ads_iframe"]
+! mymanga.io
+@@||mymanga.io/css/ads.css
+! adage.com
+||gaia.adage.com/assets/js/min/adBlockDetector.js
+! hulkusc.com
+@@||cdn.afairweb.com/js/ads.js
+janjuaplayer.com###video_ads_overdiv
+@@||hulkusc.com^$xmlhttprequest
+! bhaskar.com
+@@||bhaskar.com^$script
+! thehomestyle.co
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=thehomestyle.co
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thehomestyle.co
+! auto-motor-und-sport.de
+@@||auto-motor-und-sport.de/werb.gif
+! blockadblock.com
+@@||blockadblock.com^$generichide
+@@.ico$image,domain=blockadblock.com
+@@.jpg$image,domain=blockadblock.com
+! apk.tw
+@@||apk.tw/*ad$script
+! pinoyhdreplay.me
+@@||pinoyhdreplay.me^$generichide
+pinoyhdreplay.me###bsadsbase
+@@||adnostri.com^$domain=megavideo.pro
+@@|https://*.net/*.js|$domain=openload.co
+@@||adv4biz.com^$domain=megavideo.pro
+! minecraftbuildinginc.com
+@@||minecraftbuildinginc.com^$generichide
+! venstrike.jimdo.com
+@@||jimdo.com^$generichide
+@@||jimcdn.com^$image,domain=venstrike.jimdo.com
+! programasve.blogspot.com.ar
+@@||programasve.blogspot.com.ar^$elemhide
+@@.png#$domain=programasve.blogspot.com.ar
+@@/adblock.js$domain=programasve.blogspot.com.ar
+! hastlegames.com
+@@||hastlegames.com^$generichide
+@@||hastlegames.com/*ad$image
+! pinoy1tv.me
+||dmcdn.net/playerv5/21164592a2e8ab21f8a4.dmp.js
+||dmcdn.net/playerv5/406f9fd1eb77f6862f5b.dmp.js
+||dmcdn.net/playerv5/ca9b8e4a4391f749ab18.dmp.js
+||dmcdn.net/playerv5/e535b47860bb25b01252.dmp.js
+||dmcdn.net/playerv5/eb8722eb6f866d1cf35d.dmp.js
+||dmcdn.net/playerv5/fe5610b5193cd8bfe6a3.dmp.js
+||dmcdn.net/playerv5/786aa946f4f14ce02088.dmp.js
+! tv3play.tv3.ee
+@@||tv3.ee^$generichide
+@@||5d406.v.fwmrm.net/ad/p/1?$object,domain=tv3play.tv3.ee
+@@||5d3e9.v.fwmrm.net/ad/l/1?rnd=$object,domain=tv3play.tv3.ee
+@@||adm.fwmrm.net/p/MTG_Live/Video2AdRenderer.swf$object,domain=tv3play.tv3.ee
+! viasatsport.se
+@@||viasatsport.se^$elemhide
+@@||viasatsport.se^$xmlhttprequest
+@@||adm.fwmrm.net/p/MTG_Brightcove_HTML5/*$domain=viasatsport.se
+! upi.com
+@@||upi.com^$generichide
+! idnes.cz
+@@||1gr.cz^$domain=idnes.cz
+idnes.cz##.space-f + DIV
+! investing.com
+@@||doubleclick.net/instream/ad_status.js
+! hanimesubth.blogspot.co.uk
+@@||hanimesubth.blogspot.co.uk^$generichide
+@@.png#$domain=hanimesubth.blogspot.co.uk
+hanimesubth.blogspot.co.uk###g207
+! htmlgames.com
+@@||imasdk.googleapis.com/js/sdkloader/*$domain=htmlgames.com
+! mindgames.com
+@@||imasdk.googleapis.com/js/sdkloader/*$domain=mindgames.com
+! tudodownloadpt-pt2.com
+tudodownloadpt-pt2.com##[id^="bsa"]
+! onet.pl
+/http://[a-z0-9]{8}.onet.pl/$script
+! loksatta.com
+@@||loksatta.com/*/ads$script
+! kjanime.net
+@@||kjanime.net/*ad$script
+! dvbtmap.eu
+@@||dvbtmap.eu^$generichide
+@@||dvbtmap.eu/*ad$script
+! apkmos.com
+@@||apkmos.com^$generichide
+! lg-firmware-rom.com
+@@||jb51.net/*ad$script,domain=lg-firmware-rom.com
+! pcbolsa.com
+@@||pcbolsa.com/*ad$script
+! happy-hack.ru
+@@||7-link.ru/*.js|$domain=happy-hack.ru
+! al.ly
+@@||al.ly^$generichide
+! independent.co.uk
+independent.co.uk##.adblock-modal.adblock
+! genvideos.org
+@@||genvideos.org/*ad
+! vipleague.se
+vipleague.me##[class^="vip_"]
+vipleague.se##[class^="vip_"]
+! SPECIFIC
+! trovesaurus.com
+trovesaurus.com##div#blocked
+! dogefaucet.com
+@@dogefaucet.com/initializr/js/ads.js

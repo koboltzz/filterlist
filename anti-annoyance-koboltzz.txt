@@ -1,0 +1,70 @@
+! t-online.de
+www.t-online.de###T-brTargtg-cont
+www.t-online.de###Tnotificationoverlay > *
+www.t-online.de###Tnotificationoverlay
+www.t-online.de###TbNewsWrap
+! google.de
+www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
+www.google.de###cnsh > ._eIg
+www.google.de###cnso > ._Udi
+www.google.de###cnsw
+www.google.de###dialog_uid_0 > *
+books.google.de###gb > .gb_g.gb_xc.gb_Xc
+www.google.co.uk###cnsh > ._eIg
+www.google.co.uk###cnso > ._Udi
+www.google.co.uk###cnsw
+www.google.co.uk###dialog_uid_0 > *
+www.google.nl###cnsh > ._eIg
+www.google.nl###cnso > ._Udi
+www.google.nl###cnsw
+www.google.nl###dialog_uid_0 > *
+||consent.google.com/?continue=*
+translate.google.de###wtgbr > .gb_Fa > .gb_Ha
+translate.google.de###wtgbr > .gb_Fa
+translate.google.de###gb > .gb_g.gb_tc.gb_uc
+translate.google.de###gb > .gb_g.gb_vc.gb_wc
+play.google.com###gb > .gb_g.gb_xc.gb_Xc
+! youtube.com
+www.youtube.com###yt-consent-dialog > *
+www.youtube.com###yt-dialog-bg
+www.youtube.com###masthead-positioner > .clearfix.yt-consent-banner.yt-consent
+! wieistmeineip.de
+www.wieistmeineip.de###cookie-notifier-desktop
+! moviepilot.de
+www.moviepilot.de##.is-fixed-to-bottom.is-info.notification
+! asus.com
+www.asus.com###cookie-policy-info
+||www.asus.com/cookienotice.json$xmlhttprequest,domain=www.asus.com
+! filmstarts.de
+www.filmstarts.de##.info-cookie.jui.alert-wrap.alert-info.alert
+! origin.com
+www.origin.com###truste-banner
+! support.mozilla.org
+support.mozilla.org###tabzilla-panel
+! livingathome.de
+www.livingathome.de##.pier12-popup
+! kenhub.com
+www.kenhub.com###panel > .l-container.l-main > .stickem-container.l-row > .span9 > .gallery > .tab-content.grayed-out > .popover-atlas.popover
+www.kenhub.com###panel > .fading-banner-promote.fading-banner > .l-container
+www.kenhub.com##.in.fade.modal-backdrop
+www.kenhub.com###training_cta_modal
+! boerse.de
+||myboerse.bz/anneromo.php$subdocument
+||toplist.raidrush.ws/images/rr_vote_15.jpg$image
+! snacktv.de
+@@||player.snacktv.de/js/ads.js$script
+! druckerchannel.de
+www.druckerchannel.de###DCINFO_COOKIE_AGB
+! deviantart.com
+vokol.deviantart.com###block-notice > .block-notice
+! freenet.de
+www.freenet.de##.cc_banner-wrapper > .cc_container--open.cc_container.cc_banner
+! rlslog.net
+||www.rlslog.net$inline-script,domain=www.rlslog.net
+||www.facebook.com/plugins/like.php$subdocument,domain=www.rlslog.net
+! windows-7-forum.net
+www.windows-7-forum.net###ckch
+! auto-motor-und-sport.de
+www.auto-motor-und-sport.de##.p40
+! opena.tv
+www.opena.tv###cookieControlWrapper
