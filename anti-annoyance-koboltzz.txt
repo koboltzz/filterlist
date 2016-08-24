@@ -73,3 +73,5 @@ wikia.com##.banner-notifications-wrapper.float
 wikia.com###WikiaBar
 wikia.com###globalNavigation
 wikia.com##[id^="msg_"]
+! zippyshare.com
+zippyshare.com##.center_ad
