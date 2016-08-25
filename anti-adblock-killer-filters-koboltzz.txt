@@ -223,3 +223,19 @@ trovesaurus.com##div#blocked
 @@||mp3gratis.cc^$elemhide
 @@|http://$image,domain=mp3gratis.cc
 @@||adreactor.com^$script,domain=mp3gratis.cc
+! geekjunior.fr
+/manycontacts-bars/*
+||bars.manycontacts.com^
+/wp-content/plugins/mailchimp/*
+/mailchimp-for-wp/*
+geekjunior.fr###wbounce-modal
+! history.com
+@@||history.com^$generichide
+@@*$image,domain=history.com
+@@||budgetedbauer.com$domain=history.com
+! hulkusc.com
+@@|https://$xmlhttprequest,domain=hulkusc.com
+! bookdl.org
+@@||bookdl.org^$generichide
+@@|http://$image,domain=bookdl.org
+bookdl.org##A[href^="http://ul.to/"]
