@@ -75,3 +75,5 @@ wikia.com###globalNavigation
 wikia.com##[id^="msg_"]
 ! zippyshare.com
 zippyshare.com##.center_ad
+! label-pub.ch
+##.js-alert-cookies-background
