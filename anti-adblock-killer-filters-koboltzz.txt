@@ -219,3 +219,7 @@ trovesaurus.com##div#blocked
 ||stooorage.com/frontend_loader.js
 ! jyllands-posten.dk
 @@||jyllands-posten.dk/*ad$script
+! mp3gratis.cc
+@@||mp3gratis.cc^$elemhide
+@@|http://$image,domain=mp3gratis.cc
+@@||adreactor.com^$script,domain=mp3gratis.cc
