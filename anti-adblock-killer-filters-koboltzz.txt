@@ -239,3 +239,5 @@ geekjunior.fr###wbounce-modal
 @@||bookdl.org^$generichide
 @@|http://$image,domain=bookdl.org
 bookdl.org##A[href^="http://ul.to/"]
+! m.mid-day.com
+@@||mid-day.com^$script
