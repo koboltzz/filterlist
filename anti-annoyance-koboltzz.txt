@@ -1,3 +1,5 @@
+! EXPERIMENTAL
+||*$websocket
 ! t-online.de
 www.t-online.de###T-brTargtg-cont
 www.t-online.de###Tnotificationoverlay > *
@@ -84,3 +86,11 @@ www.theverge.com###privacy-policy-notice
 ||cloudfront.net^$domain=karanpc.com
 ! saikoanimes.net
 @@||saikoanimes.net^$script
+! flusinews.de
+flusinews.de###cookie-law-info-bar
+! mydealz.de
+www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .overflow--hidden.space--mt-3.aGrid.thread--type-list
+! parentherald.com
+@@||hitwastedgarden.com/ads/.adplacement=
+@@||parentherald.com^$generichide
+||riowrite.com^
