@@ -79,3 +79,8 @@ zippyshare.com##.center_ad
 ##.js-alert-cookies-background
 ! theverge.com
 www.theverge.com###privacy-policy-notice
+! karanpc.com
+||tagcodes.net^
+||cloudfront.net^$domain=karanpc.com
+! saikoanimes.net
+@@||saikoanimes.net^$script
