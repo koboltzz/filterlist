@@ -241,3 +241,11 @@ geekjunior.fr###wbounce-modal
 bookdl.org##A[href^="http://ul.to/"]
 ! m.mid-day.com
 @@||mid-day.com^$script
+! youwatch.org
+@@||smed79.info/js/
+||zidor.info^
+smed79.info###iframebanner
+||smed79.info/prope.html$popup
+||smed79.info/moda1.html$popup
+! mp3juices.cc
+@@||mp3juices.cc/*ad$script
