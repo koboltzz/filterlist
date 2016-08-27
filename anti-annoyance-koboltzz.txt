@@ -98,3 +98,5 @@ www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--ty
 ||riowrite.com^
 ! iplanetwork.com
 google.com.iplanetwork.com###cookieAlert
+! mskd-ru.net
+||ofenop.ru^$third-party
