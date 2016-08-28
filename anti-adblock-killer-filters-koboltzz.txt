@@ -249,3 +249,5 @@ smed79.info###iframebanner
 ||smed79.info/moda1.html$popup
 ! mp3juices.cc
 @@||mp3juices.cc/*ad$script
+! pokewatchers.com
+@@||pokewatchers.com/*ad$script
