@@ -25,6 +25,7 @@ translate.google.de###wtgbr > .gb_Fa > .gb_Ha
 translate.google.de###wtgbr > .gb_Fa
 translate.google.de###gb > .gb_g.gb_tc.gb_uc
 translate.google.de###gb > .gb_g.gb_vc.gb_wc
+translate.google.de###gt-bbar > .jfk-butterBar-shown.jfk-butterBar-info.jfk-butterBar
 play.google.com###gb > .gb_g.gb_xc.gb_Xc
 ! youtube.com
 www.youtube.com###yt-consent-dialog > *
@@ -100,3 +101,7 @@ www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--ty
 google.com.iplanetwork.com###cookieAlert
 ! mskd-ru.net
 ||ofenop.ru^$third-party
+! mp3-torrents.net
+|http://$popup,domain=mp3-torrents.net
+! 15min.lt
+www.15min.lt##.active.cookie-policy
