@@ -251,3 +251,9 @@ smed79.info###iframebanner
 @@||mp3juices.cc/*ad$script
 ! pokewatchers.com
 @@||pokewatchers.com/*ad$script
+! slate.com
+@@||cdnslate.com$domain=www.slate.com
+! doulci.net
+@@||doulci.net^$generichide
+! siamfishing.com
+@@||siamfishing.com/*ad$script
