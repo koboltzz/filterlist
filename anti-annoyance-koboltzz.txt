@@ -31,6 +31,7 @@ play.google.com###gb > .gb_g.gb_xc.gb_Xc
 www.youtube.com###yt-consent-dialog > *
 www.youtube.com###yt-dialog-bg
 www.youtube.com###masthead-positioner > .clearfix.yt-consent-banner.yt-consent
+www.youtube.com###ticker-content > .clearfix.yt-consent-banner.yt-consent
 ! wieistmeineip.de
 www.wieistmeineip.de###cookie-notifier-desktop
 ! moviepilot.de
@@ -91,7 +92,7 @@ www.theverge.com###privacy-policy-notice
 flusinews.de###cookie-law-info-bar
 ! mydealz.de
 www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .overflow--hidden.space--mt-3.aGrid.thread--type-list
-! 27.8.2016, 09:31:49 https://www.mydealz.de/
+www.mydealz.de##body > div:nth-of-type(2)
 www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 ! parentherald.com
 @@||hitwastedgarden.com/ads/.adplacement=
