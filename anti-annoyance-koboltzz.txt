@@ -91,9 +91,9 @@ www.theverge.com###privacy-policy-notice
 ! flusinews.de
 flusinews.de###cookie-law-info-bar
 ! mydealz.de
-!!www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .overflow--hidden.space--mt-3.aGrid.thread--type-list
-!!www.mydealz.de##body > div:nth-of-type(2)
-!!www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
+!www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .overflow--hidden.space--mt-3.aGrid.thread--type-list
+!www.mydealz.de##body > div:nth-of-type(2)
+!www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 ! parentherald.com
 @@||hitwastedgarden.com/ads/.adplacement=
 @@||parentherald.com^$generichide
@@ -106,3 +106,8 @@ google.com.iplanetwork.com###cookieAlert
 |http://$popup,domain=mp3-torrents.net
 ! 15min.lt
 www.15min.lt##.active.cookie-policy
+! netzwelt.de
+www.netzwelt.de###ouibounce-modal > .modal
+www.netzwelt.de###ouibounce-modal > .underlay
+www.netzwelt.de###ouibounce-modal
+www.netzwelt.de###ma > .ckch
