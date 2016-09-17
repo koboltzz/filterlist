@@ -111,3 +111,11 @@ www.netzwelt.de###ouibounce-modal > .modal
 www.netzwelt.de###ouibounce-modal > .underlay
 www.netzwelt.de###ouibounce-modal
 www.netzwelt.de###ma > .ckch
+! telekomhilft.telekom.de
+telekomhilft.telekom.de##.lia-in.ui-draggable.lia-panel-dialog-modal-advanced.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+telekomhilft.telekom.de##.ui-widget-overlay
+! onlinekosten.de
+||cdnstatic.optimonk.com/public/1547/creative/20/popup.html$subdocument
+www.onlinekosten.de###optimonk-iframe-container-campaign-3
+www.onlinekosten.de###optimonk-overlay-campaign-3 > .optimonk-middle
+www.onlinekosten.de###optimonk-overlay-campaign-3
