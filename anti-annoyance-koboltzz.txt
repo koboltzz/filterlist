@@ -91,7 +91,7 @@ www.theverge.com###privacy-policy-notice
 ! flusinews.de
 flusinews.de###cookie-law-info-bar
 ! mydealz.de
-!www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .overflow--hidden.space--mt-3.aGrid.thread--type-list
+www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 !www.mydealz.de##body > div:nth-of-type(2)
 !www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 ! parentherald.com
@@ -119,3 +119,8 @@ telekomhilft.telekom.de##.ui-widget-overlay
 www.onlinekosten.de###optimonk-iframe-container-campaign-3
 www.onlinekosten.de###optimonk-overlay-campaign-3 > .optimonk-middle
 www.onlinekosten.de###optimonk-overlay-campaign-3
+! howtogeek.com
+||www.howtogeek.com/public/images/xemailoverlay4.jpg.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.bdAMUqnBuz.jpg$image
+||www.howtogeek.com/public/images/closebutton2.png$image
+www.howtogeek.com###subscribeoverlay
+www.howtogeek.com##.overlay-bg
