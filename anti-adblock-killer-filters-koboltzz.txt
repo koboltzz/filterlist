@@ -257,3 +257,6 @@ smed79.info###iframebanner
 @@||doulci.net^$generichide
 ! siamfishing.com
 @@||siamfishing.com/*ad$script
+! uploaded.net
+uploaded.net##[class*="pico-"]
+uploaded.net###fakeContentBoxContainer
