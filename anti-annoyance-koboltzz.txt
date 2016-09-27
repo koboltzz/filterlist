@@ -124,3 +124,9 @@ www.onlinekosten.de###optimonk-overlay-campaign-3
 ||www.howtogeek.com/public/images/closebutton2.png$image
 www.howtogeek.com###subscribeoverlay
 www.howtogeek.com##.overlay-bg
+! pcwelt.de
+www.pcwelt.de##.cc_banner-wrapper > .cc_container--open.cc_container.cc_banner
+! ebay.de
+www.ebay.de###gh > .gh-banner-active.gh-banner > .gh-banner-txt
+www.ebay.de###gh > .gh-banner-active.gh-banner
+www.ebay.de###gh-gb
