@@ -45,6 +45,8 @@ www.filmstarts.de##.info-cookie.jui.alert-wrap.alert-info.alert
 www.origin.com###truste-banner
 ! support.mozilla.org
 support.mozilla.org###tabzilla-panel
+support.mozilla.org##.sg-b-p-s.sg-b-p
+support.mozilla.org##.sg-b-p-m
 ! livingathome.de
 www.livingathome.de##.pier12-popup
 ! kenhub.com
