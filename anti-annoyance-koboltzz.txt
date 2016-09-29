@@ -132,3 +132,5 @@ www.pcwelt.de##.cc_banner-wrapper > .cc_container--open.cc_container.cc_banner
 www.ebay.de###gh > .gh-banner-active.gh-banner > .gh-banner-txt
 www.ebay.de###gh > .gh-banner-active.gh-banner
 www.ebay.de###gh-gb
+! magine.com
+de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--7.area--main-footer.modules > .alert-dismissible.alert-warning.alert
