@@ -136,3 +136,5 @@ www.ebay.de###gh-gb
 ! magine.com
 de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--7.area--main-footer.modules > .alert-dismissible.alert-warning.alert
 de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--17.area--main-footer.modules > .alert-dismissible.alert-warning.alert
+! cnet.com
+www.cnet.com###rbSkin > .howto.container.articleContent > .container > .row > .row:nth-of-type(2) > .col-12 > .row:nth-of-type(3) > .videoPromoContainer.col-8 > .videoWrapper > .featuredVideoPromo > .featuredVideoPlayer > .popOnScroll
