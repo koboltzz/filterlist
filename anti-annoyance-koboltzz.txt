@@ -142,3 +142,6 @@ www.cnet.com###rbSkin > .howto.container.articleContent > .container > .row > .r
 sourceforge.net###newsletter-floating
 ! ssl247.de
 www.ssl247.de##.bottom-shade
+! inside-handy.de
+www.inside-handy.de###before_you_go
+www.inside-handy.de###before_you_go_bg
