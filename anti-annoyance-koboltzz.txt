@@ -145,3 +145,11 @@ www.ssl247.de##.bottom-shade
 ! inside-handy.de
 www.inside-handy.de###before_you_go
 www.inside-handy.de###before_you_go_bg
+! winfuture.de
+winfuture.de###cleveland-content
+winfuture.de###om-h5imbmbnxowdl2ko
+! computerbild.de
+www.computerbild.de###newsletterOverlay
+! gadgets.ndtv.com
+gadgets.ndtv.com###overlaynotify
+gadgets.ndtv.com###bnotify
