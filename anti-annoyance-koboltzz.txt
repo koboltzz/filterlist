@@ -155,3 +155,6 @@ gadgets.ndtv.com###overlaynotify
 gadgets.ndtv.com###bnotify
 ! reddit.com
 www.reddit.com##.newsletter-container.newsletterbar.infobar
+! newatlas.com
+newatlas.com###subscribe_modal_container
+newatlas.com##.jqmOverlay
