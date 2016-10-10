@@ -153,3 +153,5 @@ www.computerbild.de###newsletterOverlay
 ! gadgets.ndtv.com
 gadgets.ndtv.com###overlaynotify
 gadgets.ndtv.com###bnotify
+! reddit.com
+www.reddit.com##.newsletter-container.newsletterbar.infobar
