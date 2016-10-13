@@ -5,6 +5,7 @@ www.t-online.de###T-brTargtg-cont
 www.t-online.de###Tnotificationoverlay > *
 www.t-online.de###Tnotificationoverlay
 www.t-online.de###TbNewsWrap
+||rec.stroeerdigitalpublishing.de/x$image
 ! google.de
 www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
 www.google.de###cnsh > ._eIg
