@@ -1,5 +1,6 @@
 ! EXPERIMENTAL
 ||*$websocket
+@@||web.whatsapp.com$websocket,domain=web.whatsapp.com
 ! t-online.de
 www.t-online.de###T-brTargtg-cont
 www.t-online.de###Tnotificationoverlay > *
