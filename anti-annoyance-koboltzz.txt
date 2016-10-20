@@ -157,3 +157,5 @@ www.reddit.com##.newsletter-container.newsletterbar.infobar
 ! newatlas.com
 newatlas.com###subscribe_modal_container
 newatlas.com##.jqmOverlay
+! dropbox.com
+www.dropbox.com###top-notification-bar-container
