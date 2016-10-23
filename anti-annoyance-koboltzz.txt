@@ -11,6 +11,7 @@ www.google.de###cnso > ._Udi
 www.google.de###cnsw
 www.google.de###dialog_uid_0 > *
 books.google.de###gb > .gb_g.gb_xc.gb_Xc
+books.google.co.uk###gb > .gb_g.gb_Ac.gb_3c
 www.google.co.uk###cnsh > ._eIg
 www.google.co.uk###cnso > ._Udi
 www.google.co.uk###cnsw
