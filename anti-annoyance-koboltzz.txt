@@ -160,3 +160,8 @@ newatlas.com###subscribe_modal_container
 newatlas.com##.jqmOverlay
 ! dropbox.com
 www.dropbox.com###top-notification-bar-container
+! real.de/
+||prospekt.real.de/fileadmin/realde/subpages/newsletter_sticky_overlay/images/overlay-newsletteranmeldung-format.png$image
+prospekt.real.de###newsletter_anmeldung > .noprint.newsletter_anmeldung-content_wrapper > .relative > .tcenter.form-horizontal-sticky.form-horizontal > fieldset > .control-group > .clearfix.controls
+prospekt.real.de###overlay-background
+prospekt.real.de###newsletter_anmeldung > .noprint.newsletter_anmeldung-content_wrapper > .relative > .close-btn > .closeBtn.btn
