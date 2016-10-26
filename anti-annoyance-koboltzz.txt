@@ -170,3 +170,11 @@ www.ibtimes.co.in###tvplayer_container
 www.ibtimes.co.in###tvplayer
 www.ibtimes.co.in###ibt_video_play
 www.ibtimes.co.in##.stick-area
+! notebookinfo.de
+www.notebookinfo.de###cookie-choice
+! kodicommunity.com
+kodicommunity.com##.essb-popup-shadow
+kodicommunity.com##.essb-popup-content
+kodicommunity.com##.wdev-window.move.wdpu-msg.popup.resize
+kodicommunity.com###a30ee7675e58f0a56c4c89f7326657321
+kodicommunity.com##.essb-popup-close
