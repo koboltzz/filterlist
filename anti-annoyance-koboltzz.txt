@@ -165,3 +165,8 @@ www.dropbox.com###top-notification-bar-container
 prospekt.real.de###newsletter_anmeldung > .noprint.newsletter_anmeldung-content_wrapper > .relative > .tcenter.form-horizontal-sticky.form-horizontal > fieldset > .control-group > .clearfix.controls
 prospekt.real.de###overlay-background
 prospekt.real.de###newsletter_anmeldung > .noprint.newsletter_anmeldung-content_wrapper > .relative > .close-btn > .closeBtn.btn
+! ibtimes.co.in
+www.ibtimes.co.in###tvplayer_container
+www.ibtimes.co.in###tvplayer
+www.ibtimes.co.in###ibt_video_play
+www.ibtimes.co.in##.stick-area
