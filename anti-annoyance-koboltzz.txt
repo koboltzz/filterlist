@@ -178,3 +178,16 @@ kodicommunity.com##.essb-popup-content
 kodicommunity.com##.wdev-window.move.wdpu-msg.popup.resize
 kodicommunity.com###a30ee7675e58f0a56c4c89f7326657321
 kodicommunity.com##.essb-popup-close
+! beebom.com
+beebom.com###om-lwlem8whep5ixrxx
+! gettinggeek.com
+gettinggeek.com###r67c2edc710662cdc61c54077e8fccf4703d11fb9-container
+! windowsreport.com
+||cdn.windowsreport.com/wp-content/uploads/2016/09/728x300-banner.gif$image
+windowsreport.com##.single-content-section.text-center:nth-of-type(1) > div
+windowsreport.com##div:nth-of-type(9) > div
+! m.reddit.com
+m.reddit.com##.EUCookieNotice__content
+! dottech.org
+dottech.org###az-underlay
+dottech.org##.azmodal
