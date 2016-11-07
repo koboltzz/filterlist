@@ -264,3 +264,5 @@ uploaded.net###fakeContentBoxContainer
 @@||techdows.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=techdows.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=techdows.com
+! share-online.biz
+@@||share-online.biz/template/js/ads.js$script
