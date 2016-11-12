@@ -266,3 +266,8 @@ uploaded.net###fakeContentBoxContainer
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=techdows.com
 ! share-online.biz
 @@||share-online.biz/template/js/ads.js$script
+! uploadrocket.net
+uploadrocket.net###glasstop
+@@||uploadrocket.net/advertising/ads.js
+|http://$popup,third-party,domain=uploadrocket.net
+|https://$popup,third-party,domain=uploadrocket.net
