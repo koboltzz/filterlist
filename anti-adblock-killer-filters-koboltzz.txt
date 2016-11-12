@@ -271,3 +271,6 @@ uploadrocket.net###glasstop
 @@||uploadrocket.net/advertising/ads.js
 |http://$popup,third-party,domain=uploadrocket.net
 |https://$popup,third-party,domain=uploadrocket.net
+@@||uploadrocket.net^$generichide
+@@||uploadrocket.net/*ad$script
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=uploadrocket.net
