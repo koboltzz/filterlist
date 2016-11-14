@@ -3,6 +3,7 @@ www.t-online.de###T-brTargtg-cont
 www.t-online.de###Tnotificationoverlay > *
 www.t-online.de###Tnotificationoverlay
 www.t-online.de###TbNewsWrap
+www.t-online.de##.sky_anz
 ||rec.stroeerdigitalpublishing.de/x$image
 ! google.de
 www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
@@ -20,6 +21,7 @@ www.google.nl###cnsh > ._eIg
 www.google.nl###cnso > ._Udi
 www.google.nl###cnsw
 www.google.nl###dialog_uid_0 > *
+www.google.de###_L8b
 ||consent.google.com/?continue=*
 translate.google.de###wtgbr > .gb_Fa > .gb_Ha
 translate.google.de###wtgbr > .gb_Fa
@@ -93,6 +95,7 @@ www.theverge.com###privacy-policy-notice
 ! flusinews.de
 flusinews.de###cookie-law-info-bar
 ! mydealz.de
+www.mydealz.de##.cept-banner-id-16.hide--toW4.overflow--hidden.space--mt-2.aGrid.thread--type-list
 www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 www.mydealz.de###softMessages-list:nth-of-type(2) > .softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
 www.mydealz.de##body > .tGrid-row:nth-of-type(1) > .nav-banner
@@ -133,6 +136,8 @@ www.pcwelt.de##.cc_banner-wrapper > .cc_container--open.cc_container.cc_banner
 www.ebay.de###gh > .gh-banner-active.gh-banner > .gh-banner-txt
 www.ebay.de###gh > .gh-banner-active.gh-banner
 www.ebay.de###gh-gb
+www.ebay.de###pushdown
+www.ebay.de###pd-overlay
 ! magine.com
 de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--7.area--main-footer.modules > .alert-dismissible.alert-warning.alert
 de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--17.area--main-footer.modules > .alert-dismissible.alert-warning.alert
@@ -197,3 +202,10 @@ www.ebay.de###pt-tray_0
 www.pornhub.com##.nf-videos > .sectionWrapper > div:nth-of-type(2)
 www.pornhub.com##.video-wrapper:nth-of-type(2) > div:nth-of-type(2)
 www.pornhub.com###hd-rightColVideoPage > div:nth-of-type(1)
+! pcsteps.com
+www.pcsteps.com##.snp-pop--overlay.fancybox-overlay-fixed.fancybox-overlay
+www.pcsteps.com###snppopup-welcome
+||cdn.pcsteps.com/wp-content/plugins/arscode-ninja-popups/fancybox2/fancybox_sprite.png$image
+! tomtom.com
+www.tomtom.com##.tt-cookie-bar-module.container
+en.discussions.tomtom.com##.tt-cookie-bar-module.container
