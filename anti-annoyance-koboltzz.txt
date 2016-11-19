@@ -4,6 +4,7 @@ www.t-online.de###Tnotificationoverlay > *
 www.t-online.de###Tnotificationoverlay
 www.t-online.de###TbNewsWrap
 www.t-online.de##.sky_anz
+www.t-online.de###Tasf
 ||rec.stroeerdigitalpublishing.de/x$image
 ! google.de
 www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
@@ -209,3 +210,5 @@ www.pcsteps.com###snppopup-welcome
 ! tomtom.com
 www.tomtom.com##.tt-cookie-bar-module.container
 en.discussions.tomtom.com##.tt-cookie-bar-module.container
+! usp-forum.de
+www.usp-forum.de###ckch
