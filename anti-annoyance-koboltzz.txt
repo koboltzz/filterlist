@@ -5,6 +5,7 @@ www.t-online.de###Tnotificationoverlay
 www.t-online.de###TbNewsWrap
 www.t-online.de##.sky_anz
 www.t-online.de###Tasf
+www.t-online.de###Tcb
 ||rec.stroeerdigitalpublishing.de/x$image
 ! google.de
 www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
@@ -101,6 +102,7 @@ www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--ty
 www.mydealz.de###softMessages-list:nth-of-type(2) > .softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
 www.mydealz.de##body > .tGrid-row:nth-of-type(1) > .nav-banner
 !www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
+www.mydealz.de##.messages:nth-of-type(2)
 ! parentherald.com
 @@||hitwastedgarden.com/ads/.adplacement=
 @@||parentherald.com^$generichide
