@@ -6,6 +6,7 @@ www.t-online.de###TbNewsWrap
 www.t-online.de##.sky_anz
 www.t-online.de###Tasf
 www.t-online.de###Tcb
+www.t-online.de###Tadspacehead
 ||rec.stroeerdigitalpublishing.de/x$image
 ! google.de
 www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
@@ -97,6 +98,7 @@ www.theverge.com###privacy-policy-notice
 ! flusinews.de
 flusinews.de###cookie-law-info-bar
 ! mydealz.de
+www.mydealz.de###softMessages-list:nth-of-type(3)
 www.mydealz.de##.cept-banner-id-16.hide--toW4.overflow--hidden.space--mt-2.aGrid.thread--type-list
 www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 www.mydealz.de###softMessages-list:nth-of-type(2) > .softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
@@ -145,6 +147,8 @@ www.ebay.de###pd-overlay
 de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--7.area--main-footer.modules > .alert-dismissible.alert-warning.alert
 de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--17.area--main-footer.modules > .alert-dismissible.alert-warning.alert
 ! cnet.com
+www.cnet.com###uvpJs_1
+www.cnet.com##.playerLoaded.ui-draggable.isPaused.popOut.videoContainer
 www.cnet.com###rbSkin > .howto.container.articleContent > .container > .row > .row:nth-of-type(2) > .col-12 > .row:nth-of-type(3) > .videoPromoContainer.col-8 > .videoWrapper > .featuredVideoPromo > .featuredVideoPlayer > .popOnScroll
 ! sourceforge.net
 sourceforge.net###newsletter-floating
