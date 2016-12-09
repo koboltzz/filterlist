@@ -274,3 +274,5 @@ uploadrocket.net###glasstop
 @@||uploadrocket.net^$generichide
 @@||uploadrocket.net/*ad$script
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=uploadrocket.net
+! livingathome.de
+@@||livingathome.de^$generichide
