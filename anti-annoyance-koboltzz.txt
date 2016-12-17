@@ -55,6 +55,7 @@ support.mozilla.org##.sg-b-p-m
 ! livingathome.de
 www.livingathome.de##.pier12-popup
 ! kenhub.com
+www.kenhub.com##.popover-atlas.popover
 www.kenhub.com###panel > .l-container.l-main > .stickem-container.l-row > .span9 > .gallery > .tab-content.grayed-out > .popover-atlas.popover
 www.kenhub.com###panel > .fading-banner-promote.fading-banner > .l-container
 www.kenhub.com##.in.fade.modal-backdrop
@@ -98,6 +99,8 @@ www.theverge.com###privacy-policy-notice
 ! flusinews.de
 flusinews.de###cookie-law-info-bar
 ! mydealz.de
+www.mydealz.de##.vwo-newsletterWidget.bg--orange.space--fromW4-b-0.space--fromW4-t-0.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
+www.mydealz.de##.bg--blue.vwo-keywordWidget.space--fromW4-b-0.space--fromW4-t-0.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
 www.mydealz.de###softMessages-list:nth-of-type(3)
 www.mydealz.de##.cept-banner-id-16.hide--toW4.overflow--hidden.space--mt-2.aGrid.thread--type-list
 www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
@@ -215,6 +218,10 @@ www.pcsteps.com###snppopup-welcome
 ||cdn.pcsteps.com/wp-content/plugins/arscode-ninja-popups/fancybox2/fancybox_sprite.png$image
 ! tomtom.com
 www.tomtom.com##.tt-cookie-bar-module.container
+! techwalla.com
+www.techwalla.com##.js-privacy-policy-banner
+! viamedici.thieme.de
+viamedici.thieme.de##.marketing
 en.discussions.tomtom.com##.tt-cookie-bar-module.container
 ! usp-forum.de
 www.usp-forum.de###ckch
