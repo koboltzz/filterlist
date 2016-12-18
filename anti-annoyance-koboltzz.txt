@@ -225,3 +225,16 @@ viamedici.thieme.de##.marketing
 en.discussions.tomtom.com##.tt-cookie-bar-module.container
 ! usp-forum.de
 www.usp-forum.de###ckch
+! med-college.de
+www.med-college.de###spendenbanner > div:nth-of-type(2)
+! pinterest.com
+www.pinterest.com##div:nth-of-type(3) > div:nth-of-type(3)
+! lecturio.de
+www.lecturio.de##.ulp-content
+www.lecturio.de###ulp-cMUnquv6op5kaay9-overlay
+www.lecturio.de##.second-top-menu-content
+! spektrum.de
+www.spektrum.de###artikellayer
+www.spektrum.de##.clearfix.artikellayer-content
+www.spektrum.de##.artikellayer-header.heading
+www.spektrum.de##.sprite-act_closebox.sprite-b
