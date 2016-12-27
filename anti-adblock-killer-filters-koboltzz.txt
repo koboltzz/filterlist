@@ -277,4 +277,5 @@ uploadrocket.net###glasstop
 ! livingathome.de
 @@||livingathome.de^$generichide
 ! androidcentral.com
-||androidcentral.com/*?nda=*&e=%2F*^$script
+androidcentral.com#@#.side-ad-inner
+androidcentral.com#@#.gpt
