@@ -238,3 +238,9 @@ www.spektrum.de###artikellayer
 www.spektrum.de##.clearfix.artikellayer-content
 www.spektrum.de##.artikellayer-header.heading
 www.spektrum.de##.sprite-act_closebox.sprite-b
+! wissen.de
+www.wissen.de##.reveal-modal-bg
+www.wissen.de###modal-box
+! theandroidsoul.com
+www.theandroidsoul.com###ftocp-contents
+www.theandroidsoul.com###spu-93157
