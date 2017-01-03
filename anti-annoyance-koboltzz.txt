@@ -244,3 +244,7 @@ www.wissen.de###modal-box
 ! theandroidsoul.com
 www.theandroidsoul.com###ftocp-contents
 www.theandroidsoul.com###spu-93157
+! imvorverkauf.de
+www.imvorverkauf.de##.msg-using-cookie
+! amazon.de
+www.amazon.de###centerBelowPlusspacer
