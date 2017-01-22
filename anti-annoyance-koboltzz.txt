@@ -248,3 +248,5 @@ www.theandroidsoul.com###spu-93157
 www.imvorverkauf.de##.msg-using-cookie
 ! amazon.de
 www.amazon.de###centerBelowPlusspacer
+! stadt-bremerhaven.de
+stadt-bremerhaven.de##a[href^="https://instaffo.com/"]
