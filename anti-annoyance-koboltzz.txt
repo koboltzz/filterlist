@@ -233,6 +233,7 @@ www.pinterest.com##div:nth-of-type(3) > div:nth-of-type(3)
 www.lecturio.de##.ulp-content
 www.lecturio.de###ulp-cMUnquv6op5kaay9-overlay
 www.lecturio.de##.second-top-menu-content
+||www.lecturio.de/magazin/$script,domain=www.lecturio.de,important
 ! spektrum.de
 www.spektrum.de###artikellayer
 www.spektrum.de##.clearfix.artikellayer-content
@@ -255,3 +256,16 @@ www.netdoktor.de###flyInNewsAd
 ! orpha.net
 www.orpha.net###\:1\.container
 www.orpha.net###popup
+! freenet.de
+webmail.freenet.de###switchinBg
+webmail.freenet.de##.frnUpsellAussen
+webmail.freenet.de##.frnUpsellAussen
+webmail.freenet.de###switchinBg
+! sportwetten.org
+www.sportwetten.org###fancybox-content
+www.sportwetten.org###fancybox-overlay
+||www.sportwetten.org/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.png$image
+www.sportwetten.org###fancybox-close
+||www.sportwetten.org/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox-x.png$image
+www.sportwetten.org###fancybox-bg-n
+www.sportwetten.org###fancybox-wrap
