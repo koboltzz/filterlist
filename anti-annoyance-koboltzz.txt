@@ -251,6 +251,8 @@ www.imvorverkauf.de##.msg-using-cookie
 www.amazon.de###centerBelowPlusspacer
 ! stadt-bremerhaven.de
 stadt-bremerhaven.de##a[href^="https://instaffo.com/"]
+! talkerscode.com
+talkerscode.com###full_window_subscribe_div
 ! netdoktor.de
 www.netdoktor.de###flyInNewsAd
 ! orpha.net
