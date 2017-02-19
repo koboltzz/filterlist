@@ -279,3 +279,5 @@ uploadrocket.net###glasstop
 ! androidcentral.com
 androidcentral.com#@#.block-mbn-offers
 androidcentral.com#@#.adunit
+! salefiles.com
+@@||salefiles.com/*ad$script
