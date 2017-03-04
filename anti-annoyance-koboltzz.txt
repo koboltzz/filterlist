@@ -273,3 +273,6 @@ www.sportwetten.org###fancybox-bg-n
 www.sportwetten.org###fancybox-wrap
 ! facebook.com
 www.facebook.com###sfx_badge_logo
+! nero.com
+www.nero.com###fancybox-overlay
+www.nero.com###fancybox-wrap
