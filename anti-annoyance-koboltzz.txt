@@ -276,3 +276,8 @@ www.facebook.com###sfx_badge_logo
 ! nero.com
 www.nero.com###fancybox-overlay
 www.nero.com###fancybox-wrap
+! androidexplained.com
+www.androidexplained.com###NqXodfXOtkGT
+www.androidexplained.com##.kgNGgzfZgjDt-bg
+! stadt-bremerhaven.de
+stadt-bremerhaven.de###jp-relatedposts
