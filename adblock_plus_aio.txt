@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-! Checksum: /jsjb5W3u9hUZkRJaXo5Vg
 ! Version: 201705161711
 ! Title: adblock_plus_aio
 ! Last modified: 16 May 2017 17:11 UTC
