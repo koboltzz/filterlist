@@ -18,3 +18,6 @@ stadt-bremerhaven.de##div[style="padding: 12px; background-color: #dcdcdc; line-
 stadt-bremerhaven.de###jp-relatedposts
 stadt-bremerhaven.de##.jp-relatedposts
 t-online.de###T-brTargtg-cont
+t-online.de###Tnotificationoverlay > *
+t-online.de###Tnotificationoverlay
+t-online.de###TbNewsWrap
