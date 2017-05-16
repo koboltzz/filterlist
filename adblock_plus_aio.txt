@@ -1,3 +1,17 @@
+[Adblock Plus 2.0]
+! Checksum: /jsjb5W3u9hUZkRJaXo5Vg
+! Version: 201705161711
+! Title: adblock_plus_aio
+! Last modified: 16 May 2017 17:11 UTC
+! Expires: 4 days (update frequency)
+! License: http://creativecommons.org/licenses/by/3.0/
+! Please report any unblocked content or problems by email or in our forums
+! Email: easylist.subscription@gmail.com
+! Homepage: https://easylist.to/
+! Forums: https://forums.lanik.us/
+!
+!--------------------------General blocking rules-----------------------------!
+! *** Fetched from: https://raw.githubusercontent.com/koboltzz/filterlist/master/adblock_plus_aio.txt ***
 stadt-bremerhaven.de##.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-847675
 stadt-bremerhaven.de###menu-item-847675
 stadt-bremerhaven.de##.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-847675
