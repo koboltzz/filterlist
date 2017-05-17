@@ -12,6 +12,7 @@
 !--------------------------General blocking rules-----------------------------!
 ! *** Fetched from: https://raw.githubusercontent.com/koboltzz/filterlist/master/adblock_plus_aio.txt ***
 stadt-bremerhaven.de##.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-847675
+@@||zdnet.de/*/js/ad$script
 ###like-us-adblock-modal
 ##.popup-premium__apla
 @@||www.dogefaucet.com/static/js/ads.js|
