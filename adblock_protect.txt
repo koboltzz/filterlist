@@ -17,6 +17,7 @@ stadt-bremerhaven.de##.menu-item.menu-item-type-custom.menu-item-object-custom.m
 @@||sueddeutsche.de/*ad
 @@||sueddeutsche.de^$generichide
 @@||zdnet.de/*/js/ad$script
+jspenguin2017.github.io##script:inject(doubleclick.net/instream/ad_status.js)
 ###like-us-adblock-modal
 ##.popup-premium__apla
 @@||www.dogefaucet.com/static/js/ads.js|
@@ -129,6 +130,10 @@ techdracula.com##script:inject(setTimeout-defuser.js, an_message_display)
 ||tiptonvillepylesville.com^$domain=clubic.com
 freeomovie.com##script:inject(bab-defuser.js)
 keshavcommoditycalls.com##script:inject(setTimeout-defuser.js, an_message_display)
+jkanime.co##script:inject(setTimeout-defuser.js, #player)
+animeid.io##script:inject(setTimeout-defuser.js, #player)
+gogoanime.ch##script:inject(setTimeout-defuser.js, #player)
+hentaitake.net##script:inject(abort-on-property-read.js, anOptions)
 ! =====Patched Anti-Adblock Killer List=====
 ! License: https://github.com/reek/anti-adblock-killer/blob/master/LICENSE
 ||trymask.com/api/$third-party
