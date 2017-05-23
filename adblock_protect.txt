@@ -18,6 +18,7 @@ stadt-bremerhaven.de##.menu-item.menu-item-type-custom.menu-item-object-custom.m
 @@||sueddeutsche.de^$generichide
 @@||zdnet.de/*/js/ad$script
 jspenguin2017.github.io##script:inject(doubleclick.net/instream/ad_status.js)
+! #%#AG_onLoad(function() { alert("Adguard is not supported. More information can be found on our homepage."); (window.location.hostname !== "jspenguin2017.github.io") && (window.location.href = "https://jspenguin2017.github.io/AdBlockProtector/"); });
 ###like-us-adblock-modal
 ##.popup-premium__apla
 @@||www.dogefaucet.com/static/js/ads.js|
@@ -74,6 +75,13 @@ animmex.*##a[href^="https://forum.animmex.com/viewtopic.php"]
 pixiv.net##.popular-introduction-block
 youtube.com###companion
 ||flashx.tv/checkembed.php
+@@||flashx1.tv/js/showad*.js$script
+@@||flashx1.tv/sidead.js$script
+@@||flashx.to/counter.cgi$script
+@@||flashx1.tv/jquery2.js$script
+||static.flashx.tv/js/flashx.js$script
+@@||somethodox.info/popunder.gif$xmlhttprequest,domain=flashx.tv
+||somethodox.info/?&subid=*&pid=*&tid=*$beacon,image,domain=flashx.tv
 @@||linkneverdie.com^$elemhide
 pogdesign.co.uk##.replace
 ||p207208.clksite.com^$subdocument,redirect=noopframe,domain=ally.sh|al.ly
@@ -130,10 +138,22 @@ techdracula.com##script:inject(setTimeout-defuser.js, an_message_display)
 ||tiptonvillepylesville.com^$domain=clubic.com
 freeomovie.com##script:inject(bab-defuser.js)
 keshavcommoditycalls.com##script:inject(setTimeout-defuser.js, an_message_display)
-jkanime.co##script:inject(setTimeout-defuser.js, #player)
-animeid.io##script:inject(setTimeout-defuser.js, #player)
-gogoanime.ch##script:inject(setTimeout-defuser.js, #player)
+animeid.io,jkanime.co,gogoanime.ch,chiaanime.co##script:inject(setTimeout-defuser.js, #player)
 hentaitake.net##script:inject(abort-on-property-read.js, anOptions)
+appdrop.net##script:inject(bab-defuser.js)
+skmedix.pl##script:inject(bab-defuser.js)
+@@||comicallyincorrect.com^$elemhide
+@@||comicincorrect.wpengine.netdna-cdn.com/wp-content/uploads/*
+vidlox.tv##script:inject(noeval.js)
+savetodrive.net##script:inject(setTimeout-defuser.js, ad)
+rarbgmirror.com##script:inject(abort-on-property-read.js, open)
+||googlesyndication.com^$script,redirect=noopjs,domain=pipocas.tv
+steamcustomizer.com###sadcat
+steamcustomizer.com##.notice.support-notice
+@@||steamcustomizer.com/cache/skin/ad/*$image
+shqiperiatv.com,albtvhd.com,tvshqiphd.com,www.balkanweb.com,cdn.livestream.com,livestream.artmotion.al,shqip-tv.info##body > *[id^="blockblock"]:style(visibility: visible !important; display: block !important;)
+shqiperiatv.com,albtvhd.com,tvshqiphd.com,www.balkanweb.com,cdn.livestream.com,livestream.artmotion.al,shqip-tv.info##table[id^='blockblock']
+themeslide.com##script:inject(noeval.js)
 ! =====Patched Anti-Adblock Killer List=====
 ! License: https://github.com/reek/anti-adblock-killer/blob/master/LICENSE
 ||trymask.com/api/$third-party
