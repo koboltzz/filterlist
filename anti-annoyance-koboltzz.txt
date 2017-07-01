@@ -1,283 +1,44 @@
-! t-online.de
-www.t-online.de###T-brTargtg-cont
-www.t-online.de###Tnotificationoverlay > *
-www.t-online.de###Tnotificationoverlay
-www.t-online.de###TbNewsWrap
-www.t-online.de##.sky_anz
-www.t-online.de###Tasf
-www.t-online.de###Tcb
-www.t-online.de###Tadspacehead
-||rec.stroeerdigitalpublishing.de/x$image
-! google.de
-www.google.de###gbw > div > .gb_T.gb_8e.gb_R.gb_9e.gb_bb > .gb_R.gb_9e.gb_cc > .gb_g.gb_vc.gb_xc.gb_wc > .gb_g.gb_ga
-www.google.de###cnsh > ._eIg
-www.google.de###cnso > ._Udi
-www.google.de###cnsw
-www.google.de###dialog_uid_0 > *
-books.google.de###gb > .gb_g.gb_xc.gb_Xc
-books.google.co.uk###gb > .gb_g.gb_Ac.gb_3c
-www.google.co.uk###cnsh > ._eIg
-www.google.co.uk###cnso > ._Udi
-www.google.co.uk###cnsw
-www.google.co.uk###dialog_uid_0 > *
-www.google.nl###cnsh > ._eIg
-www.google.nl###cnso > ._Udi
-www.google.nl###cnsw
-www.google.nl###dialog_uid_0 > *
-www.google.de###_L8b
-||consent.google.com/?continue=*
-translate.google.de###wtgbr > .gb_Fa > .gb_Ha
-translate.google.de###wtgbr > .gb_Fa
-translate.google.de###gb > .gb_g.gb_tc.gb_uc
-translate.google.de###gb > .gb_g.gb_vc.gb_wc
-translate.google.de###gt-bbar > .jfk-butterBar-shown.jfk-butterBar-info.jfk-butterBar
-play.google.com###gb > .gb_g.gb_xc.gb_Xc
-! youtube.com
-www.youtube.com###yt-consent-dialog > *
-www.youtube.com###yt-dialog-bg
-www.youtube.com###masthead-positioner > .clearfix.yt-consent-banner.yt-consent
-www.youtube.com###ticker-content > .clearfix.yt-consent-banner.yt-consent
-! wieistmeineip.de
-www.wieistmeineip.de###cookie-notifier-desktop
-! moviepilot.de
-www.moviepilot.de##.is-fixed-to-bottom.is-info.notification
-! asus.com
-www.asus.com###cookie-policy-info
-||www.asus.com/cookienotice.json$xmlhttprequest,domain=www.asus.com
-! filmstarts.de
-www.filmstarts.de##.info-cookie.jui.alert-wrap.alert-info.alert
-! origin.com
-www.origin.com###truste-banner
-! support.mozilla.org
-support.mozilla.org###tabzilla-panel
-support.mozilla.org##.sg-b-p-s.sg-b-p
-support.mozilla.org##.sg-b-p-m
-! livingathome.de
-www.livingathome.de##.pier12-popup
-! kenhub.com
-www.kenhub.com##.popover-atlas.popover
-www.kenhub.com###panel > .l-container.l-main > .stickem-container.l-row > .span9 > .gallery > .tab-content.grayed-out > .popover-atlas.popover
-www.kenhub.com###panel > .fading-banner-promote.fading-banner > .l-container
-www.kenhub.com##.in.fade.modal-backdrop
-www.kenhub.com###training_cta_modal
-! boerse.de
-||myboerse.bz/anneromo.php$subdocument
-||toplist.raidrush.ws/images/rr_vote_15.jpg$image
-! snacktv.de
-@@||player.snacktv.de/js/ads.js$script
-! druckerchannel.de
-www.druckerchannel.de###DCINFO_COOKIE_AGB
-! deviantart.com
-vokol.deviantart.com###block-notice > .block-notice
-! freenet.de
-www.freenet.de##.cc_banner-wrapper > .cc_container--open.cc_container.cc_banner
-! rlslog.net
-||www.rlslog.net$inline-script,domain=www.rlslog.net
-||www.facebook.com/plugins/like.php$subdocument,domain=www.rlslog.net
-! windows-7-forum.net
-www.windows-7-forum.net###ckch
-! auto-motor-und-sport.de
-www.auto-motor-und-sport.de##.p40
-! opena.tv
-www.opena.tv###cookieControlWrapper
-! wikia.com
-wikia.com##.banner-notifications-wrapper.float
-wikia.com###WikiaBar
-wikia.com###globalNavigation
-wikia.com##[id^="msg_"]
-! zippyshare.com
-zippyshare.com##.center_ad
-! label-pub.ch
-##.js-alert-cookies-background
-! theverge.com
-www.theverge.com###privacy-policy-notice
-! karanpc.com
-||tagcodes.net^
-||cloudfront.net^$domain=karanpc.com
-! saikoanimes.net
-@@||saikoanimes.net^$script
-! flusinews.de
-flusinews.de###cookie-law-info-bar
-! mydealz.de
-www.mydealz.de##.vwo-newsletterWidget.bg--orange.space--fromW4-b-0.space--fromW4-t-0.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
-www.mydealz.de##.bg--blue.vwo-keywordWidget.space--fromW4-b-0.space--fromW4-t-0.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
-www.mydealz.de###softMessages-list:nth-of-type(3)
-www.mydealz.de##.cept-banner-id-16.hide--toW4.overflow--hidden.space--mt-2.aGrid.thread--type-list
-www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
-www.mydealz.de###softMessages-list:nth-of-type(2) > .softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
-www.mydealz.de##body > .tGrid-row:nth-of-type(1) > .nav-banner
-!www.mydealz.de##.height--all-full.tGrid-row > .space--mb-4.fGrid.thread-list--type-list--sideAds.width--all-12.thread-list--type-list > .fGrid-last2 > .vwo-newsletterWidget.bg--orange.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list
-www.mydealz.de##.messages:nth-of-type(2)
-! parentherald.com
-@@||hitwastedgarden.com/ads/.adplacement=
-@@||parentherald.com^$generichide
-||riowrite.com^
-! iplanetwork.com
-google.com.iplanetwork.com###cookieAlert
-! mskd-ru.net
-||ofenop.ru^$third-party
-! mp3-torrents.net
-|http://$popup,domain=mp3-torrents.net
-! 15min.lt
-www.15min.lt##.active.cookie-policy
-! netzwelt.de
-www.netzwelt.de###ouibounce-modal > .modal
-www.netzwelt.de###ouibounce-modal > .underlay
-www.netzwelt.de###ouibounce-modal
-www.netzwelt.de###ma > .ckch
-! telekomhilft.telekom.de
-telekomhilft.telekom.de##.lia-in.ui-draggable.lia-panel-dialog-modal-advanced.lia-panel-dialog.lia-content.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
-telekomhilft.telekom.de##.ui-widget-overlay
-! onlinekosten.de
-||cdnstatic.optimonk.com/public/1547/creative/20/popup.html$subdocument
-www.onlinekosten.de###optimonk-iframe-container-campaign-3
-www.onlinekosten.de###optimonk-overlay-campaign-3 > .optimonk-middle
-www.onlinekosten.de###optimonk-overlay-campaign-3
-! howtogeek.com
-||www.howtogeek.com/public/images/xemailoverlay4.jpg.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.bdAMUqnBuz.jpg$image
-||www.howtogeek.com/public/images/closebutton2.png$image
-www.howtogeek.com###subscribeoverlay
-www.howtogeek.com##.overlay-bg
-! pcwelt.de
-www.pcwelt.de##.cc_banner-wrapper > .cc_container--open.cc_container.cc_banner
-! ebay.de
-www.ebay.de###gh > .gh-banner-active.gh-banner > .gh-banner-txt
-www.ebay.de###gh > .gh-banner-active.gh-banner
-www.ebay.de###gh-gb
-www.ebay.de###pushdown
-www.ebay.de###pd-overlay
-! magine.com
-de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--7.area--main-footer.modules > .alert-dismissible.alert-warning.alert
-de.magine.com##.page-wrapper > .main-footer > .cookies-notice.module--17.area--main-footer.modules > .alert-dismissible.alert-warning.alert
-! cnet.com
-www.cnet.com###uvpJs_1
-www.cnet.com##.playerLoaded.ui-draggable.isPaused.popOut.videoContainer
-www.cnet.com###rbSkin > .howto.container.articleContent > .container > .row > .row:nth-of-type(2) > .col-12 > .row:nth-of-type(3) > .videoPromoContainer.col-8 > .videoWrapper > .featuredVideoPromo > .featuredVideoPlayer > .popOnScroll
-! sourceforge.net
-sourceforge.net###newsletter-floating
-! ssl247.de
-www.ssl247.de##.bottom-shade
-! inside-handy.de
-www.inside-handy.de###before_you_go
-www.inside-handy.de###before_you_go_bg
-! winfuture.de
-winfuture.de###cleveland-content
-winfuture.de###om-h5imbmbnxowdl2ko
-! computerbild.de
-www.computerbild.de###newsletterOverlay
-! gadgets.ndtv.com
-gadgets.ndtv.com###overlaynotify
-gadgets.ndtv.com###bnotify
-! reddit.com
-www.reddit.com##.newsletter-container.newsletterbar.infobar
-! newatlas.com
-newatlas.com###subscribe_modal_container
-newatlas.com##.jqmOverlay
-! dropbox.com
-www.dropbox.com###top-notification-bar-container
-! real.de/
-||prospekt.real.de/fileadmin/realde/subpages/newsletter_sticky_overlay/images/overlay-newsletteranmeldung-format.png$image
-prospekt.real.de###newsletter_anmeldung > .noprint.newsletter_anmeldung-content_wrapper > .relative > .tcenter.form-horizontal-sticky.form-horizontal > fieldset > .control-group > .clearfix.controls
-prospekt.real.de###overlay-background
-prospekt.real.de###newsletter_anmeldung > .noprint.newsletter_anmeldung-content_wrapper > .relative > .close-btn > .closeBtn.btn
-! ibtimes.co.in
-www.ibtimes.co.in###tvplayer_container
-www.ibtimes.co.in###tvplayer
-www.ibtimes.co.in###ibt_video_play
-www.ibtimes.co.in##.stick-area
-! notebookinfo.de
-www.notebookinfo.de###cookie-choice
-! kodicommunity.com
-kodicommunity.com##.essb-popup-shadow
-kodicommunity.com##.essb-popup-content
-kodicommunity.com##.wdev-window.move.wdpu-msg.popup.resize
-kodicommunity.com###a30ee7675e58f0a56c4c89f7326657321
-kodicommunity.com##.essb-popup-close
-! beebom.com
-beebom.com###om-lwlem8whep5ixrxx
-! gettinggeek.com
-gettinggeek.com###r67c2edc710662cdc61c54077e8fccf4703d11fb9-container
-! windowsreport.com
-||cdn.windowsreport.com/wp-content/uploads/2016/09/728x300-banner.gif$image
-windowsreport.com##.single-content-section.text-center:nth-of-type(1) > div
-windowsreport.com##div:nth-of-type(9) > div
-! m.reddit.com
-m.reddit.com##.EUCookieNotice__content
-! dottech.org
-dottech.org###az-underlay
-dottech.org##.azmodal
-! ebay.de
-www.ebay.de###pt-tray_0
-! pornhub.com
-www.pornhub.com##.nf-videos > .sectionWrapper > div:nth-of-type(2)
-www.pornhub.com##.video-wrapper:nth-of-type(2) > div:nth-of-type(2)
-www.pornhub.com###hd-rightColVideoPage > div:nth-of-type(1)
-! pcsteps.com
-www.pcsteps.com##.snp-pop--overlay.fancybox-overlay-fixed.fancybox-overlay
-www.pcsteps.com###snppopup-welcome
-||cdn.pcsteps.com/wp-content/plugins/arscode-ninja-popups/fancybox2/fancybox_sprite.png$image
-! tomtom.com
-www.tomtom.com##.tt-cookie-bar-module.container
-! techwalla.com
-www.techwalla.com##.js-privacy-policy-banner
-! viamedici.thieme.de
-viamedici.thieme.de##.marketing
-en.discussions.tomtom.com##.tt-cookie-bar-module.container
-! usp-forum.de
-www.usp-forum.de###ckch
-! med-college.de
-www.med-college.de###spendenbanner > div:nth-of-type(2)
-! pinterest.com
-www.pinterest.com##div:nth-of-type(3) > div:nth-of-type(3)
-! lecturio.de
-www.lecturio.de##.ulp-content
-www.lecturio.de###ulp-cMUnquv6op5kaay9-overlay
-www.lecturio.de##.second-top-menu-content
-||www.lecturio.de/magazin/$script,domain=www.lecturio.de,important
-! spektrum.de
-www.spektrum.de###artikellayer
-www.spektrum.de##.clearfix.artikellayer-content
-www.spektrum.de##.artikellayer-header.heading
-www.spektrum.de##.sprite-act_closebox.sprite-b
-! wissen.de
-www.wissen.de##.reveal-modal-bg
-www.wissen.de###modal-box
-! theandroidsoul.com
-www.theandroidsoul.com###ftocp-contents
-www.theandroidsoul.com###spu-93157
-! imvorverkauf.de
-www.imvorverkauf.de##.msg-using-cookie
-! amazon.de
-www.amazon.de###centerBelowPlusspacer
-! stadt-bremerhaven.de
+! 6/3/2017, 8:21:41 PM http://stadt-bremerhaven.de/
 stadt-bremerhaven.de##a[href^="https://instaffo.com/"]
-! talkerscode.com
-talkerscode.com###full_window_subscribe_div
-! netdoktor.de
-www.netdoktor.de###flyInNewsAd
-! orpha.net
-www.orpha.net###\:1\.container
-www.orpha.net###popup
-! freenet.de
-webmail.freenet.de###switchinBg
-webmail.freenet.de##.frnUpsellAussen
-webmail.freenet.de##.frnUpsellAussen
-webmail.freenet.de###switchinBg
-! sportwetten.org
-www.sportwetten.org###fancybox-content
-www.sportwetten.org###fancybox-overlay
-||www.sportwetten.org/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.png$image
-www.sportwetten.org###fancybox-close
-||www.sportwetten.org/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox-x.png$image
-www.sportwetten.org###fancybox-bg-n
-www.sportwetten.org###fancybox-wrap
-! nero.com
-www.nero.com###fancybox-overlay
-www.nero.com###fancybox-wrap
-! androidexplained.com
-www.androidexplained.com###NqXodfXOtkGT
-www.androidexplained.com##.kgNGgzfZgjDt-bg
-! stadt-bremerhaven.de
+
+! 6/3/2017, 8:24:57 PM http://stadt-bremerhaven.de/nokia-3310-ausprobiert-snake-alleine-reicht-nicht/#comments
 stadt-bremerhaven.de###jp-relatedposts
-! rlslog.net
-www.rlslog.net##body > div:nth-of-type(1)
+
+! 6/3/2017, 8:31:25 PM layer13.net
+@@||layer13.net/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest,first-party
+
+! 6/3/2017, 10:35:37 PM t-online.de
+||www.t-online.de/-$xmlhttprequest,domain=www.t-online.de,important
+
+! 6/3/2017, 10:37:15 PM http://www.t-online.de/
+www.t-online.de###T-brTargtg-cont
+
+! 6/4/2017, 10:58:29 AM http://www.t-online.de/nachrichten/ausland/id_81356378/liveticker-terror-in-london-zahl-der-opfer-auf-sieben-gestiegen.html
+www.t-online.de###TbNewsWrap
+
+! 6/4/2017, 11:04:05 AM http://www.t-online.de/nachrichten/ausland/id_81356378/liveticker-terror-in-london-zahl-der-opfer-auf-sieben-gestiegen.html
+www.t-online.de###Tnotificationoverlay
+
+! 6/29/2017, 7:57:24 AM http://www.spektrum.de/lexikon/neurowissenschaft/emotionen/3405
+www.spektrum.de##.clearfix.artikellayer-content > form
+
+! 6/29/2017, 7:57:34 AM http://www.spektrum.de/lexikon/neurowissenschaft/emotionen/3405
+www.spektrum.de##.artikellayer-header.heading
+
+! 6/29/2017, 7:57:55 AM http://www.spektrum.de/lexikon/neurowissenschaft/emotionen/3405
+www.spektrum.de##.sprite-act_closebox.sprite-b
+
+! 6/29/2017, 12:23:20 PM https://www.lecturio.de/magazin/gesundheits-und-krankheitsmodelle/
+www.lecturio.de##.cp-inline-modal-container.cp-direct-download-container.cp_id_33700.cp-modal-popup-container
+
+! 6/29/2017, 12:24:10 PM https://www.lecturio.de/magazin/gesundheits-und-krankheitsmodelle/
+www.lecturio.de##.onp-sl-position-scroll.onp-sl-overlap-locker-box
+
+! 6/29/2017, 12:26:48 PM lecturio.de
+||www.lecturio.de/magazin/$script,domain=www.lecturio.de,important
+
+! 6/29/2017, 12:27:58 PM https://www.lecturio.de/magazin/gesundheits-und-krankheitsmodelle/
+www.lecturio.de##.second-top-menu-content
+
+! 6/29/2017, 12:28:07 PM https://www.lecturio.de/magazin/gesundheits-und-krankheitsmodelle/
+www.lecturio.de###hide-top-button
