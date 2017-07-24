@@ -57,3 +57,6 @@ www.mydealz.de##.nav-banner
 
 ! 7/20/2017, 8:22:22 AM https://www.mydealz.de/new
 www.mydealz.de##.bg--orange.space--fromW4-b-0.space--fromW4-t-0.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list.cept-widget-event-reminder
+
+! 7/24/2017, 8:01:46 PM ghacks.net
+||www.ghacks.net^$inline-script,domain=www.ghacks.net,important
