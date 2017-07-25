@@ -19,6 +19,9 @@ www.t-online.de###TbNewsWrap
 ! 6/4/2017, 11:04:05 AM http://www.t-online.de/nachrichten/ausland/id_81356378/liveticker-terror-in-london-zahl-der-opfer-auf-sieben-gestiegen.html
 www.t-online.de###Tnotificationoverlay
 
+! 7/25/2017, 9:09:42 AM t-online.de
+||pssl.stroeerdp.de/partner/htdocs/loginbox_https_next/js/*$script,domain=fssecure.t-online.de,important
+
 ! 6/29/2017, 7:57:24 AM http://www.spektrum.de/lexikon/neurowissenschaft/emotionen/3405
 www.spektrum.de##.clearfix.artikellayer-content > form
 
