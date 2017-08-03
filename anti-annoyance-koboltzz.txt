@@ -1,3 +1,9 @@
+! 8/1/2017, 7:01:43 PM https://www.mobilegeeks.de/artikel/backup-apps-android-smartphones/#comments
+www.mobilegeeks.de###ca21b1ce78e76bfa47af38bb41cdcf3ab3
+
+! 8/2/2017, 5:36:34 PM http://stadt-bremerhaven.de/google-chrome-werbeblocker-so-arbeitet-die-desktop-version/
+stadt-bremerhaven.de##.my-widget-anchor
+
 ! 6/3/2017, 8:21:41 PM http://stadt-bremerhaven.de/
 stadt-bremerhaven.de##a[href^="https://instaffo.com/"]
 
