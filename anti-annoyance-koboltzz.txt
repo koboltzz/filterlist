@@ -25,8 +25,8 @@ www.t-online.de###TbNewsWrap
 ! 6/4/2017, 11:04:05 AM http://www.t-online.de/nachrichten/ausland/id_81356378/liveticker-terror-in-london-zahl-der-opfer-auf-sieben-gestiegen.html
 www.t-online.de###Tnotificationoverlay
 
-! 7/25/2017, 9:09:42 AM t-online.de
-||pssl.stroeerdp.de/partner/htdocs/loginbox_https_next/js/*$script,domain=fssecure.t-online.de,important
+%%#! 7/25/2017, 9:09:42 AM t-online.de
+%%||pssl.stroeerdp.de/partner/htdocs/loginbox_https_next/js/*$script,domain=fssecure.t-online.de,important
 
 ! 6/29/2017, 7:57:24 AM http://www.spektrum.de/lexikon/neurowissenschaft/emotionen/3405
 www.spektrum.de##.clearfix.artikellayer-content > form
@@ -66,6 +66,12 @@ www.mydealz.de##.nav-banner
 
 ! 7/20/2017, 8:22:22 AM https://www.mydealz.de/new
 www.mydealz.de##.bg--orange.space--fromW4-b-0.space--fromW4-t-0.space--fromW4-h-4.space--fromW2-h-3.space--h-2.space--fromW2-b-3.space--fromW2-t-3.space--v-2.space--mt-2.thread--type-list.cept-widget-event-reminder
+
+! 8/16/2017, 1:59:06 PM https://www.mydealz.de/new
+www.mydealz.de##.softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
+
+! 8/17/2017, 10:30:26 AM https://forum.xda-developers.com/s7-edge/development/rom-batman-rom-v1-1-1-t3635519/page169
+||forum.xda-cdn.com/images/veg_image.gif$image
 
 ! 7/24/2017, 8:01:46 PM ghacks.net
 ||www.ghacks.net^$inline-script,domain=www.ghacks.net,important
