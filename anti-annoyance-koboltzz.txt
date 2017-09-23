@@ -75,3 +75,9 @@ www.mydealz.de##.softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space
 
 ! 7/24/2017, 8:01:46 PM ghacks.net
 ||www.ghacks.net^$inline-script,domain=www.ghacks.net,important
+
+! 9/23/2017, 2:53:44 PM https://www.howtogeek.com/howto/windows-vista/how-to-clean-up-your-messy-windows-context-menu/
+www.howtogeek.com##.overlay-inner
+
+! 9/23/2017, 2:53:51 PM https://www.howtogeek.com/howto/windows-vista/how-to-clean-up-your-messy-windows-context-menu/
+www.howtogeek.com##.email-overlay
