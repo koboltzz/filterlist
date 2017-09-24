@@ -81,3 +81,9 @@ www.howtogeek.com##.overlay-inner
 
 ! 9/23/2017, 2:53:51 PM https://www.howtogeek.com/howto/windows-vista/how-to-clean-up-your-messy-windows-context-menu/
 www.howtogeek.com##.email-overlay
+
+! 9/24/2017, 7:05:56 PM credforums.com
+||credforums.com/js/extra.js$script,first-party,important
+
+! 9/24/2017, 7:13:21 PM videohelp.com
+||forum.videohelp.com^$inline-script,domain=forum.videohelp.com,important
