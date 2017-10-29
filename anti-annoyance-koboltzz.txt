@@ -87,3 +87,21 @@ www.howtogeek.com##.email-overlay
 
 ! 9/24/2017, 7:13:21 PM videohelp.com
 ||forum.videohelp.com^$inline-script,domain=forum.videohelp.com,important
+
+! 10/28/2017, 10:09:25 PM https://www.pornhub.com/view_video.php?viewkey=ph5629c3fbb8497
+www.pornhub.com##.onesuch:nth-of-type(1) > iframe
+
+! 10/28/2017, 10:09:37 PM https://www.pornhub.com/view_video.php?viewkey=ph5629c3fbb8497
+www.pornhub.com##.onesuch:nth-of-type(2) > iframe
+
+! 10/28/2017, 11:53:38 PM https://www.pornhub.com/video/search?search=force+blowjob&page=4
+www.pornhub.com##.sectionWrapper:nth-of-type(1) > .onesuch
+
+! 10/20/2017, 11:13:04 PM tiktoe.org
+||tiktoe.org^$inline-script,first-party,important
+
+! 10/20/2017, 11:20:50 PM ultravfx.com
+||www.ultravfx.com^$inline-script,domain=www.ultravfx.com,important
+
+! 10/21/2017, 6:54:16 PM imojado.org
+||ajax.cloudflare.com^$script,domain=www.imojado.org,important
