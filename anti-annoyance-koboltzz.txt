@@ -1,14 +1,14 @@
 ! 8/1/2017, 7:01:43 PM https://www.mobilegeeks.de/artikel/backup-apps-android-smartphones/#comments
 www.mobilegeeks.de###ca21b1ce78e76bfa47af38bb41cdcf3ab3
 
-! 8/2/2017, 5:36:34 PM http://stadt-bremerhaven.de/google-chrome-werbeblocker-so-arbeitet-die-desktop-version/
-stadt-bremerhaven.de##.my-widget-anchor
+#####! 8/2/2017, 5:36:34 PM http://stadt-bremerhaven.de/google-chrome-werbeblocker-so-arbeitet-die-desktop-version/
+#####stadt-bremerhaven.de##.my-widget-anchor
 
-! 6/3/2017, 8:21:41 PM http://stadt-bremerhaven.de/
-stadt-bremerhaven.de##a[href^="https://instaffo.com/"]
+#####! 6/3/2017, 8:21:41 PM http://stadt-bremerhaven.de/
+#####stadt-bremerhaven.de##a[href^="https://instaffo.com/"]
 
-! 6/3/2017, 8:24:57 PM http://stadt-bremerhaven.de/nokia-3310-ausprobiert-snake-alleine-reicht-nicht/#comments
-stadt-bremerhaven.de###jp-relatedposts
+#####! 6/3/2017, 8:24:57 PM http://stadt-bremerhaven.de/nokia-3310-ausprobiert-snake-alleine-reicht-nicht/#comments
+#####stadt-bremerhaven.de###jp-relatedposts
 
 ! 6/3/2017, 8:31:25 PM layer13.net
 @@||layer13.net/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest,first-party
@@ -73,8 +73,8 @@ www.mydealz.de##.softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space
 ! 8/17/2017, 10:30:26 AM https://forum.xda-developers.com/s7-edge/development/rom-batman-rom-v1-1-1-t3635519/page169
 ||forum.xda-cdn.com/images/veg_image.gif$image
 
-! 7/24/2017, 8:01:46 PM ghacks.net
-||www.ghacks.net^$inline-script,domain=www.ghacks.net,important
+#####! 7/24/2017, 8:01:46 PM ghacks.net
+#####||www.ghacks.net^$inline-script,domain=www.ghacks.net,important
 
 ! 9/23/2017, 2:53:44 PM https://www.howtogeek.com/howto/windows-vista/how-to-clean-up-your-messy-windows-context-menu/
 www.howtogeek.com##.overlay-inner
