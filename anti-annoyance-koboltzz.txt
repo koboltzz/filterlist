@@ -117,3 +117,18 @@ forum.xda-developers.com##.xda-box.post-content-container > .postbit-content
 
 ! 11/15/2017, 8:12:46 PM https://translate.google.nl/?hl=de&tab=wT
 translate.google.nl##.gb_g.gb_Uc.gb_ud
+
+! 2/17/2018, 1:15:40 AM stadt-bremerhaven.de
+@@||i0.wp.com^$image,domain=stadt-bremerhaven.de
+
+! 2/20/2018, 2:18:40 PM stadt-bremerhaven.de
+@@||i1.wp.com^$image,domain=stadt-bremerhaven.de
+
+! 3/22/2018, 12:21:42 AM stadt-bremerhaven.de
+@@||i2.wp.com^$image,domain=stadt-bremerhaven.de
+
+! 4/4/2018, 1:12:33 AM t-online.de
+@@||ads.smartstream.tv/r/*$xmlhttprequest,domain=player.glomex.com
+
+! 4/21/2018, 11:59:42 AM https://forum.kodi.tv/showthread.php?tid=294312&pid=2725495#pid2725495
+forum.kodi.tv##.info.popup-content
