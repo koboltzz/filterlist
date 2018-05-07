@@ -132,3 +132,6 @@ translate.google.nl##.gb_g.gb_Uc.gb_ud
 
 ! 4/21/2018, 11:59:42 AM https://forum.kodi.tv/showthread.php?tid=294312&pid=2725495#pid2725495
 forum.kodi.tv##.info.popup-content
+
+! 5/7/2018, 8:21:05 PM https://www.amazon.de
+www.amazon.de###centerBelowPlusspacer
