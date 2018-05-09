@@ -135,3 +135,5 @@ forum.kodi.tv##.info.popup-content
 
 ! 5/7/2018, 8:21:05 PM https://www.amazon.de
 www.amazon.de###centerBelowPlusspacer
+www.amazon.de##.s-col-span-4.s-item-placeholder.s-result-item
+www.amazon.de##.s-col-span-4.s-item-placeholder.s-result-item
