@@ -137,3 +137,19 @@ forum.kodi.tv##.info.popup-content
 www.amazon.de###centerBelowPlusspacer
 www.amazon.de##.s-col-span-4.s-item-placeholder.s-result-item
 www.amazon.de##.s-col-span-4.s-item-placeholder.s-result-item
+
+! 4/29/2018, 1:13:37 AM https://www.pornhub.com/view_video.php?viewkey=ph5a91293d7b5c0
+www.pornhub.com##.enesuch:nth-of-type(1) > iframe
+www.pornhub.com##.enesuch:nth-of-type(2) > iframe
+
+! 5/2/2018, 10:46:46 AM https://forum.libreelec.tv/thread/12055-8-90-1-coreelec-for-s905-s912-devices/?pageNo=79
+forum.libreelec.tv##.cookiePolicyNotice.info
+
+! 5/17/2018, 11:10:14 AM https://www.gamestar.de/artikel/conan-exiles-barbarische-zeiten-brechen-an,3329705.html
+www.gamestar.de###cookiehint
+
+! 5/21/2018, 12:49:19 AM https://forum.team-mediaportal.com/threads/empfehlung-htpc-gehaeuse.137225/
+forum.team-mediaportal.com##.noticeContent.baseHtml
+
+! 5/21/2018, 11:06:19 PM https://stadt-bremerhaven.de/
+stadt-bremerhaven.de##.bst-panel-fixed.group.bst-panel
