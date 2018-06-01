@@ -153,3 +153,18 @@ forum.team-mediaportal.com##.noticeContent.baseHtml
 
 ! 5/21/2018, 11:06:19 PM https://stadt-bremerhaven.de/
 stadt-bremerhaven.de##.bst-panel-fixed.group.bst-panel
+
+! 5/22/2018, 11:09:44 PM https://www.reddit.com/r/Piracy/comments/6qm5x5/ddlwarez_forums/
+www.reddit.com###SHORTCUT_FOCUSABLE_DIV > div > div:nth-of-type(2)
+
+! 5/25/2018, 2:34:56 PM https://www.youtube.com/watch?v=tUZl8vWka4M
+www.youtube.com##.opened
+
+! 5/26/2018, 4:58:18 PM https://github.com/koboltzz/filterlist/blob/master/anti-annoyance-koboltzz.txt
+github.com##.box-shadow-large.Box.mt-2.p-4.Popover-message--top-left.Popover-message--large.Popover-message
+
+! 5/26/2018, 7:27:47 PM https://www.reddit.com/r/VPN/comments/47l50l/static_local_ip_address_on_the_virtual_tap_adapter/
+www.reddit.com##.uapp-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+
+! 5/26/2018, 8:13:19 PM http://www.rlslog.net/category/applications/windows/
+||www.releaselog.net/uploads2/d4aac8bb1dc3e8d2b14afea00ac80000.png$image
