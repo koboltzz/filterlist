@@ -168,3 +168,6 @@ www.reddit.com##.uapp-infobar.with-btn.with-icon.md-container-small.reddit-infob
 
 ! 5/26/2018, 8:13:19 PM http://www.rlslog.net/category/applications/windows/
 ||www.releaselog.net/uploads2/d4aac8bb1dc3e8d2b14afea00ac80000.png$image
+
+! 6/8/2018, 12:27:38 AM https://www.pornhub.com/view_video.php?viewkey=ph5b15536a38c43
+www.pornhub.com##ads
