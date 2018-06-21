@@ -88,15 +88,6 @@ www.howtogeek.com##.email-overlay
 ! 9/24/2017, 7:13:21 PM videohelp.com
 ||forum.videohelp.com^$inline-script,domain=forum.videohelp.com,important
 
-! 10/28/2017, 10:09:25 PM https://www.pornhub.com/view_video.php?viewkey=ph5629c3fbb8497
-www.pornhub.com##.onesuch:nth-of-type(1) > iframe
-
-! 10/28/2017, 10:09:37 PM https://www.pornhub.com/view_video.php?viewkey=ph5629c3fbb8497
-www.pornhub.com##.onesuch:nth-of-type(2) > iframe
-
-! 10/28/2017, 11:53:38 PM https://www.pornhub.com/video/search?search=force+blowjob&page=4
-www.pornhub.com##.sectionWrapper:nth-of-type(1) > .onesuch
-
 ! 10/20/2017, 11:13:04 PM tiktoe.org
 ||tiktoe.org^$inline-script,first-party,important
 
@@ -138,9 +129,9 @@ www.amazon.de###centerBelowPlusspacer
 www.amazon.de##.s-col-span-4.s-item-placeholder.s-result-item
 www.amazon.de##.s-col-span-4.s-item-placeholder.s-result-item
 
-! 4/29/2018, 1:13:37 AM https://www.pornhub.com/view_video.php?viewkey=ph5a91293d7b5c0
-www.pornhub.com##.enesuch:nth-of-type(1) > iframe
-www.pornhub.com##.enesuch:nth-of-type(2) > iframe
+#! 4/29/2018, 1:13:37 AM https://www.pornhub.com/view_video.php?viewkey=ph5a91293d7b5c0
+#www.pornhub.com##.enesuch:nth-of-type(1) > iframe
+#www.pornhub.com##.enesuch:nth-of-type(2) > iframe
 
 ! 5/2/2018, 10:46:46 AM https://forum.libreelec.tv/thread/12055-8-90-1-coreelec-for-s905-s912-devices/?pageNo=79
 forum.libreelec.tv##.cookiePolicyNotice.info
@@ -171,3 +162,18 @@ www.reddit.com##.uapp-infobar.with-btn.with-icon.md-container-small.reddit-infob
 
 ! 6/8/2018, 12:27:38 AM https://www.pornhub.com/view_video.php?viewkey=ph5b15536a38c43
 www.pornhub.com##ads
+
+! 6/18/2018, 1:14:21 PM https://www.hardwareluxx.de/community/f11/
+www.hardwareluxx.de##.cc_container--open.cc_container.cc_banner
+
+! 6/20/2018, 3:07:53 AM https://www.wer-weiss-was.de/t/was-bedeutet-das-a-bzw-aa-aaa-bei-batterien/8357068
+www.wer-weiss-was.de###cookie_hint
+
+! 6/20/2018, 3:40:19 AM https://www.mindfactory.de/
+www.mindfactory.de###bCookieMsg
+
+! 6/20/2018, 3:41:58 AM http://cpu.userbenchmark.com/Compare/Intel-Core-i5-8600K-vs-AMD-Ryzen-5-2600X/3941vs3956
+cpu.userbenchmark.com##.nb-parent
+
+! 6/21/2018, 1:25:51 PM https://www.t-online.de/
+www.t-online.de##.Tmc4a.toiclaus
