@@ -177,3 +177,39 @@ cpu.userbenchmark.com##.nb-parent
 
 ! 6/21/2018, 1:25:51 PM https://www.t-online.de/
 www.t-online.de##.Tmc4a.toiclaus
+
+! 6/25/2018, 12:12:42 AM https://www.paypal.com/de/webapps/mpp/home
+www.paypal.com###gdprCookieBanner
+
+! 6/26/2018, 11:45:41 AM https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html
+www.tomshardware.com##.prism-modal-content
+
+! 6/26/2018, 1:41:16 PM https://www.tonymacx86.com/threads/asrock-z370-extreme4-i5-8600k-gtx-960-ddr4-8gb-2666mhz-success.247973/
+www.tonymacx86.com##.noticeContent.baseHtml
+
+! 7/2/2018, 12:30:31 AM https://www.pornhub.com/view_video.php?viewkey=ph5b2edad04dce3
+www.pornhub.com##.lonesomemuch
+
+! 7/4/2018, 1:17:55 AM https://www.eurogamer.net/articles/2018-06-04-thq-nordics-red-faction-guerilla-remaster-is-out-in-july
+www.eurogamer.net##.cookie-bar.cookie-gdpr
+
+! 7/4/2018, 1:20:20 AM http://www.playstationlifestyle.net/2018/07/02/red-faction-guerrilla-remastered-review-ps4/
+www.playstationlifestyle.net##.pw-cookie-window
+
+! 7/4/2018, 11:14:36 AM https://www.ebay.de/itm/332708254833
+www.ebay.de###scandal100938
+
+! 7/4/2018, 11:21:45 AM http://www.ebay.de/mys/active?ssPageName=STRK:ME:LNLK:MESEX
+www.ebay.de###meh > .scandalAds
+
+! 7/5/2018, 11:45:05 AM https://www.connect.de/vergleich/lg-v30-vs-samsung-galaxy-s8-plus-test-vergleich-3197831.html
+www.connect.de##.pseudofooter
+
+! 7/6/2018, 1:56:04 AM https://www.simflight.de/
+www.simflight.de##.wp-statistics-opt-out
+
+! 7/6/2018, 2:03:52 AM https://www.phonearena.com/phones/compare/Samsung-Galaxy-S9,LG-V30,Samsung%20Galaxy%20S9/phones/10717,10577,10716
+www.phonearena.com###cookies
+
+! 7/6/2018, 11:30:18 AM https://forums.androidcentral.com/lg-v30/871693-haptic-feedback-v30-plus.html
+forums.androidcentral.com##.mn_postbit_digioh
