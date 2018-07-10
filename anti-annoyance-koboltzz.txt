@@ -213,3 +213,9 @@ www.phonearena.com###cookies
 
 ! 7/6/2018, 11:30:18 AM https://forums.androidcentral.com/lg-v30/871693-haptic-feedback-v30-plus.html
 forums.androidcentral.com##.mn_postbit_digioh
+
+! 7/10/2018, 12:54:19 PM https://www.digital-eliteboard.com/forums/igo-languages-voices-tts.1212/
+www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel
+
+! 7/10/2018, 6:35:30 PM https://www.moviepilot.de/movies/last-resistance-im-russischen-kreuzfeuer
+www.moviepilot.de##.is-visible.cookies
