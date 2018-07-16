@@ -219,3 +219,15 @@ www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel
 
 ! 7/10/2018, 6:35:30 PM https://www.moviepilot.de/movies/last-resistance-im-russischen-kreuzfeuer
 www.moviepilot.de##.is-visible.cookies
+
+! 7/9/2018, 1:33:03 AM https://www.pornhub.com/view_video.php?viewkey=ph5a75f3e797ffc
+www.pornhub.com##sads
+
+! 7/13/2018, 1:13:51 AM https://www.androidpit.de/android-p-support-mitarbeiter-soll-namen-ausgeplaudert-haben
+www.androidpit.de###einsUndEinsBannerFixed
+
+! 7/15/2018, 4:47:39 PM https://www.roboter-forum.com/index.php?board/56-neato-robotics-vorwerk/&s=6385748bf02431b6230ad44b78000b99%2F
+www.roboter-forum.com##.cookiePolicyNotice.info
+
+! 7/16/2018, 2:28:32 PM https://www.t-online.de/
+www.t-online.de###T-84073128
