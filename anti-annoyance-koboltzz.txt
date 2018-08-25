@@ -7,3 +7,7 @@ forum.xda-developers.com##.xda-box.post-content-container
 
 ! 8/17/2018, 4:12:11 PM Block annoying realted posts
 stadt-bremerhaven.de##.related-posts
+
+! 8/25/2018, 6:01:18 PM Block additional ads
+www.t-online.de##.Tmc4a.toiclaus
+www.t-online.de###Tcb
