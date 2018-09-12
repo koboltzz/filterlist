@@ -20,3 +20,6 @@ www.androidpolice.com##.ains-33.ains
 
 ! 8/31/2018, 2:27:39 PM Block additional ads
 www.rlslog.net###bottombanner
+
+! 9/12/2018, 4:12:11 PM Block annoying amazon ads
+www.amazon.de###centerBelowPlusspacer
