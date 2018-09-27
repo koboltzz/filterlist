@@ -22,7 +22,7 @@ uploadgig.com###freevid
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
 de.tommy.com##div.remodal-wrapper:nth-of-type(8)
-de.tommy.com##.remodal-overlay
+de.tommy.com#@#.remodal-overlay
 forum.kodi.tv##.info.popup-content
 discourse.coreelec.org###ccc-content
 discourse.coreelec.org###ccc-module
