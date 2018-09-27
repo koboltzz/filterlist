@@ -17,6 +17,7 @@ www.t-online.de###Tcb
 www.androidpolice.com##.bigsponsor
 www.androidpolice.com##.ains-33.ains
 www.rlslog.net###bottombanner
+uploadgig.com###freevid
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -30,6 +31,10 @@ forum.kodi.tv##.info.popup-content
 www.mydealz.de##.nav-banner
 www.hardwareluxx.de##.cc_container--open.cc_container.cc_banner
 www.t-online.de###Tnotificationoverlay
+stadt-bremerhaven.de##.bst-panel-fixed.group.bst-panel
+www.gamestar.de###cookiehint
+webmail.freenet.de###ext-frn-switchinwindow-1-floatWrap
+webmail.freenet.de###global-floatWrap
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
