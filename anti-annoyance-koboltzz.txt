@@ -33,6 +33,23 @@ stadt-bremerhaven.de##.bst-panel-fixed.group.bst-panel
 www.gamestar.de###cookiehint
 webmail.freenet.de###ext-frn-switchinwindow-1-floatWrap
 webmail.freenet.de###global-floatWrap
+www.mydealz.de##.softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
+www.deskmodder.de##.cc_container--open.cc_container.cc_banner
+filehippo.com##.cc_container--open.cc_container.cc_banner
+raspberryundco.de##.cookie-notice-container
+www.reddit.com##.hDANzL.s1pfx7qz-2
+www.google.de##.vk_c.yAVMkd
+www.google.de##.U2J5q
+www.google.de##.DodYv
+www.google.de##.xFNJP
+www.google.de##.b0KoTc
+www.ebay.de###gdpr-banner
+www.congstar.de##.cpolicy-bar__wrapper
+www.dropbox.com###top-notification-bar-container
+www.facebook.com###u_0_d
+www.digital-eliteboard.com##.qc-cmp-showing.qc-cmp-ui-container
+www.superdry.de##.cc-color-override-1668554415.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.tchibo.de##.euCookiePanel
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
