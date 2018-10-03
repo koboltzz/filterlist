@@ -46,7 +46,7 @@ www.google.de##.b0KoTc
 www.ebay.de###gdpr-banner
 www.congstar.de##.cpolicy-bar__wrapper
 www.dropbox.com###top-notification-bar-container
-www.facebook.com###u_0_d
+! www.facebook.com###u_0_d
 www.digital-eliteboard.com##.qc-cmp-showing.qc-cmp-ui-container
 www.superdry.de##.cc-color-override-1668554415.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.tchibo.de##.euCookiePanel
