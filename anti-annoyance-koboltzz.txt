@@ -50,6 +50,15 @@ www.facebook.com###u_0_d
 www.digital-eliteboard.com##.qc-cmp-showing.qc-cmp-ui-container
 www.superdry.de##.cc-color-override-1668554415.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.tchibo.de##.euCookiePanel
+www.esprit.de###policy_header
+www.tom-tailor.de###truste-consent-track
+www.jackjones.com##.js-popup--show.js-hide__display.js-cookie-overlay.cookie-overlay
+www.hm.com##.cookie-notification
+www.wellensteyn.com###cookie-bar
+www.peek-cloppenburg.de##.qa-cookieBar.cookieBar
+www.sport.de##.cc-color-override-896100485.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.lidl.de##.cookie-banner
+www.aldi-nord.de##.mod-cookie-consent__wrapper
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
