@@ -61,6 +61,12 @@ www.sport.de##.cc-color-override-896100485.cc-bottom.cc-theme-edgeless.cc-type-i
 www.lidl.de##.cookie-banner
 www.aldi-nord.de##.mod-cookie-consent__wrapper
 www.freefixer.com##.cc_container--open.cc_container.cc_banner
+www.ebay.de##.gh-banner-active.gh-banner
+askubuntu.com###js-gdpr-consent-banner
+get.videolan.org###uecookies
+mobile.twitter.com##.rn-1lgpqti.rn-13qz1uu.rn-bnwqim.rn-1hfyk0a.rn-1mi0q7o.rn-1qfoi16.rn-m611by.rn-bcqeeo.rn-ifefl9.rn-11wrixw.rn-p1pxzi.rn-61z16t.rn-1mnahxq.rn-18u37iz.rn-1mlwlqe.rn-1qe8dj5.rn-6koalj.rn-deolkf.rn-eps6nq.rn-gxnn5r.rn-ndvcnb.rn-fnigne.rn-13yce4e.rn-mm0ijv.rn-rull8r.rn-14skgim.rn-1efd50x.rn-gvpnoh.rn-1oszu61
+www.roboter-forum.com##.cookiePolicyNotice.info
+de.trustpilot.com##.hide.cookie-bar
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
