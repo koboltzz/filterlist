@@ -67,6 +67,21 @@ get.videolan.org###uecookies
 mobile.twitter.com##.rn-1lgpqti.rn-13qz1uu.rn-bnwqim.rn-1hfyk0a.rn-1mi0q7o.rn-1qfoi16.rn-m611by.rn-bcqeeo.rn-ifefl9.rn-11wrixw.rn-p1pxzi.rn-61z16t.rn-1mnahxq.rn-18u37iz.rn-1mlwlqe.rn-1qe8dj5.rn-6koalj.rn-deolkf.rn-eps6nq.rn-gxnn5r.rn-ndvcnb.rn-fnigne.rn-13yce4e.rn-mm0ijv.rn-rull8r.rn-14skgim.rn-1efd50x.rn-gvpnoh.rn-1oszu61
 www.roboter-forum.com##.cookiePolicyNotice.info
 de.trustpilot.com##.hide.cookie-bar
+developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
+bergmannsheil.bg-kliniken.de##.cookie-banner
+www.ruhr-uni-bochum.de###sliding-popup
+www.parken-in-bochum.de##.cc-color-override--1491427585.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.derwesten.de##.cookie-note--dark.cookie-note--bottom.cookie-note
+www.bergmannsheil-buer.de###cpopup
+www.t-online.de##[href="https://www.t-online.de/digital/handy/id_63480338/news-app-von-t-online-de-top-themen-auf-dem-smartphone.html#utm_source=t-online&utm_medium=billboard&utm_campaign=newsapp"] > .Tlz
+android.stackexchange.com###js-gdpr-consent-banner
+www.perfect-privacy.com###cookiebar
+www.wieistmeineip.de###cookie-notifier-desktop
+@@||getfreesmsnumber.com^$script,first-party
+www.receive-sms-online.info##.cc_container--open.cc_container.cc_banner
+redoxygen.com###catapult-cookie-bar
+www.proovl.com##.cc-color-override-1780568800.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.filmstarts.de###js-cookie-info
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
