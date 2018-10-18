@@ -2,6 +2,7 @@
 
 ! 9/25/2018, 5:57:10 PM Disable adblock detector
 @@||douploads.com^$script,domain=noobfile.com
+@@||getfreesmsnumber.com^$script,first-party
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -77,11 +78,20 @@ www.t-online.de##[href="https://www.t-online.de/digital/handy/id_63480338/news-a
 android.stackexchange.com###js-gdpr-consent-banner
 www.perfect-privacy.com###cookiebar
 www.wieistmeineip.de###cookie-notifier-desktop
-@@||getfreesmsnumber.com^$script,first-party
 www.receive-sms-online.info##.cc_container--open.cc_container.cc_banner
 redoxygen.com###catapult-cookie-bar
 www.proovl.com##.cc-color-override-1780568800.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.filmstarts.de###js-cookie-info
+www.guru3d.com##.cc_container--open.cc_container.cc_banner
+www.videohelp.com##.cc_container--open.cc_container.cc_banner
+obsproject.com##.notice-content
+stackoverflow.com##.js-dismissable-hero._fixed.hero-container.old-hero
+stackoverflow.com###js-gdpr-consent-banner
+www.youtube.com###ticker
+www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+mobilfunk.tchibo.de###cookies
+www.cyanogenmodroms.com###cookieChoiceInfo
+www.themoviedb.org###cookie_notice
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
