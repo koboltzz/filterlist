@@ -3,6 +3,7 @@
 ! 9/25/2018, 5:57:10 PM Disable adblock detector
 @@||douploads.com^$script,domain=noobfile.com
 @@||getfreesmsnumber.com^$script,first-party
+@@||www.watson.de^$script,domain=www.watson.de
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -74,7 +75,6 @@ www.ruhr-uni-bochum.de###sliding-popup
 www.parken-in-bochum.de##.cc-color-override--1491427585.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.derwesten.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 www.bergmannsheil-buer.de###cpopup
-www.t-online.de##[href="https://www.t-online.de/digital/handy/id_63480338/news-app-von-t-online-de-top-themen-auf-dem-smartphone.html#utm_source=t-online&utm_medium=billboard&utm_campaign=newsapp"] > .Tlz
 android.stackexchange.com###js-gdpr-consent-banner
 www.perfect-privacy.com###cookiebar
 www.wieistmeineip.de###cookie-notifier-desktop
@@ -92,6 +92,11 @@ www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-s
 mobilfunk.tchibo.de###cookies
 www.cyanogenmodroms.com###cookieChoiceInfo
 www.themoviedb.org###cookie_notice
+www.t-online.de##.toiclaus > div
+de.geneanet.org###header-info-cookie
+www.watson.de##.cookiefooter
+www.digital-eliteboard.com##.notice--cookie.notice--primary.js-notice.notice > .notice-content
+
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
