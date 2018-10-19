@@ -4,6 +4,12 @@
 @@||douploads.com^$script,domain=noobfile.com
 @@||getfreesmsnumber.com^$script,first-party
 @@||www.watson.de^$script,domain=www.watson.de
+ibooks.to#@##adsense
+ibooks.to#@#.chitika-ad
+ibooks.to#@#.SponsorAds
+ibooks.to#@#.ad-inserter
+ibooks.to#@##banner-advert-container
+@@||ibooks.to^$script,first-party
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -105,6 +111,9 @@ www.focus.de##.as-oil-content-overlay
 freefilesync.org##.cc-color-override--1880968887.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 outlook.live.com###msccBanner
 www.pornhub.com###abAlert
+eref.thieme.de##.cc-color-override--1021649625.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+link.springer.com##.optanon-alert-box-bg
+tarnkappe.info###cookie-law-info-bar
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
