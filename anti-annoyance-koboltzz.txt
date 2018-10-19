@@ -16,6 +16,8 @@ stadt-bremerhaven.de##.related-posts
 www.t-online.de###T-84436680
 www.t-online.de##.Tmc4a.toiclaus
 www.t-online.de###Tcb
+www.t-online.de##.toiclaus > div
+www.t-online.de###Tnotificationoverlay
 www.androidpolice.com##.bigsponsor
 www.androidpolice.com##.ains-33.ains
 www.rlslog.net###bottombanner
@@ -31,7 +33,6 @@ discourse.coreelec.org###ccc-overlay
 forum.kodi.tv##.info.popup-content
 www.mydealz.de##.nav-banner
 www.hardwareluxx.de##.cc_container--open.cc_container.cc_banner
-www.t-online.de###Tnotificationoverlay
 stadt-bremerhaven.de##.bst-panel-fixed.group.bst-panel
 www.gamestar.de###cookiehint
 webmail.freenet.de###ext-frn-switchinwindow-1-floatWrap
@@ -92,11 +93,15 @@ www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-s
 mobilfunk.tchibo.de###cookies
 www.cyanogenmodroms.com###cookieChoiceInfo
 www.themoviedb.org###cookie_notice
-www.t-online.de##.toiclaus > div
 de.geneanet.org###header-info-cookie
 www.watson.de##.cookiefooter
 www.digital-eliteboard.com##.notice--cookie.notice--primary.js-notice.notice > .notice-content
-
+www.instagram.com##.lOPC8
+www.booking.com##.warning_content
+veluwsebron.nl###cookie-notification
+twitter.com##.eu-cookie-notice.Banner--aboveNav.Banner
+www.stern.de##.guj-cb
+www.focus.de##.as-oil-content-overlay
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
