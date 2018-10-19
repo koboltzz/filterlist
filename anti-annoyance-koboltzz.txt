@@ -102,6 +102,9 @@ veluwsebron.nl###cookie-notification
 twitter.com##.eu-cookie-notice.Banner--aboveNav.Banner
 www.stern.de##.guj-cb
 www.focus.de##.as-oil-content-overlay
+freefilesync.org##.cc-color-override--1880968887.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+outlook.live.com###msccBanner
+www.pornhub.com###abAlert
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
