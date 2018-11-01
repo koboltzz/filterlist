@@ -123,6 +123,7 @@ www.gearbest.com##.siteNewUser_content
 www.gearbest.com##.layui-layer-content
 www.gearbest.com###layui-layer-shade1
 www.gearbest.com##.cookiePolicy
+forum.team-mediaportal.com##.noticeContent.baseHtml
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
