@@ -114,6 +114,15 @@ www.pornhub.com###abAlert
 eref.thieme.de##.cc-color-override--1021649625.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 link.springer.com##.optanon-alert-box-bg
 tarnkappe.info###cookie-law-info-bar
+zer0cod3.weebly.com##.kb-content
+de.gearbest.com##.siteNewUser_content
+de.gearbest.com##.layui-layer-content
+de.gearbest.com###layui-layer-shade1
+de.gearbest.com##.cookiePolicy
+www.gearbest.com##.siteNewUser_content
+www.gearbest.com##.layui-layer-content
+www.gearbest.com###layui-layer-shade1
+www.gearbest.com##.cookiePolicy
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
