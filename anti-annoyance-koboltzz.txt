@@ -124,6 +124,22 @@ www.gearbest.com##.layui-layer-content
 www.gearbest.com###layui-layer-shade1
 www.gearbest.com##.cookiePolicy
 forum.team-mediaportal.com##.noticeContent.baseHtml
+www.zugsalbe-effect.de###catapult-cookie-bar
+www.zugsalbe.de###catapult-cookie-bar
+testr.at###cookie-law-container
+www.smartdroid.de###catapult-cookie-bar
+www.drwindows.de##.cc_container--open.cc_container.cc_banner
+www.druckerchannel.de###DCINFO_COOKIE_AGB
+www.win-10-forum.de###ckch
+||az417220.vo.msecnd.net/Unilever/panels/generic/PanelBenjerryNew.htm?consent=none&svcr=false&Prot=https:&policy=http%3A%2F%2Fwww.unilevercookiepolicy.com%2Fde_de%2Fpolicy.aspx&displayname=unilever&position=widetopstatic&cid=de&at=&parked=false&DNT=&TPLStatus=none&partnername=unilever_support&categoryName=benjerry&3POK=false&OptoutIsRefuse=0&&CL=true&SS=false&hasCTO=false&hN=www.benjerry.de&tps=&pR=&purl=https%3A%2F%2Fwww.benjerry.de%2Ffeiert-geburtstag&agreed=none&small=false&narrow=false&jswidth=2048&jsheight=1152&js=OK&height=100%$subdocument
+||az417220.vo.msecnd.net/Unilever/panels/generic/PanelIC2B.htm?consent=none&svcr=false&Prot=https:&policy=http%3A%2F%2Fwww.unilevercookiepolicy.com%2Fde_de%2Fpolicy.aspx&displayname=unilever&position=rightbottom&cid=de-de&at=&parked=false&DNT=&TPLStatus=none&partnername=unilever_support&categoryName=Unilever&3POK=false&OptoutIsRefuse=0&&CL=true&SS=false&hasCTO=false&hN=aktionen.unilever.de&tps=&pR=&purl=https%3A%2F%2Faktionen.unilever.de%2Fsiteutilities%2Fkontakt&agreed=none&small=false&narrow=false&jswidth=2048&jsheight=1152&js=OK&height=100%$subdocument
+blu-ray-rezensionen.net##.cookie-notice-container
+webmail.freenet.de###ext-element-355
+webmail.freenet.de###ext-element-322
+www.meinestadt.de##.ms-cookie-ok
+www.ruhrcongress-bochum.de###cookie-bar
+web.basemark.com##.copy
+
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
