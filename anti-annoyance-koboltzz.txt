@@ -139,7 +139,10 @@ webmail.freenet.de###ext-element-322
 www.meinestadt.de##.ms-cookie-ok
 www.ruhrcongress-bochum.de###cookie-bar
 web.basemark.com##.copy
-
+support.brother.com###cookieLawBar
+www.tenforums.com###cookiescript_injected
+rapidgator.net###cookie-dlg
+login.microsoftonline.com###msccBanner
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
