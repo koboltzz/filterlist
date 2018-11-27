@@ -10,6 +10,7 @@ ibooks.to#@#.SponsorAds
 ibooks.to#@#.ad-inserter
 ibooks.to#@##banner-advert-container
 @@||ibooks.to^$script,first-party
+@@||uploadrar.com/themes/flow/frontend_assets/js/advertisement.js$script,first-party
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -150,6 +151,46 @@ trauer.rp-online.de##.cc_container--open.cc_container.cc_banner
 support.lenovo.com###oo_invitation_overlay
 support.lenovo.com###oo_invitation_prompt
 upload4earn.org##.cc-color-override--2136626901.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+acrobat.adobe.com###_evidon_banner
+thehouseofportable.com###cookie-law-info-bar
+uploadrar.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+downloadbull.com###cookie-law-info-bar
+myitforum.com###cookie-notice
+www.itprotoday.com##.gdrp-popup-content
+www.ibtimes.co.uk##.didomi-screen-xlarge
+www.etes.de##.cookiebar--active.cookiebar--position-bottom.cookiebar
+superuser.com###js-gdpr-consent-banner
+forums.techguy.org##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
+softfamous.com##.cookie-notice-container
+www.abendblatt.de##.cookie-note--dark.cookie-note--bottom.cookie-note
+www.adobe.com###_evidon_banner
+www.paypal.com###gdprCookieBanner
+helpx.adobe.com###_evidon_banner
+www.vmware.com###_evidon_banner
+docs.vmware.com###_evidon_banner
+scifi.stackexchange.com###js-gdpr-consent-banner
+apple.stackexchange.com###js-gdpr-consent-banner
+evilshit.wordpress.com###eu-cookie-law
+forum.videohelp.com##.cc_container--open.cc_container.cc_banner
+www.fosshub.com##.cc-color-override--1985164196.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.fonepaw.com##.cookie-alert
+www.partitionwizard.com##.bottom-cookie-wrap
+www.mobile.de###consentBanner
+opengapps.org##.mdl-snackbar--active.mdl-js-snackbar.mdl-snackbar
+www.cnet.com###_evidon_banner
+www.cnet.com##.entered.dock.inviewElement
+www.geek.com###_evidon-banner
+www.geek.com###_evidon-background
+www.geek.com###_evidon-barrier-wrapper
+www.geek.com###cookie-policy
+malwaretips.com##.notice-content
+www.extremetech.com###_evidon-banner
+www.extremetech.com###_evidon-background
+www.extremetech.com###_evidon-barrier-wrapper
+www.extremetech.com###cookie-policy
+www.hifi-forum.de##.cc_container--open.cc_container.cc_banner
+www.kotte-zeller.de###ws_cookie_layer
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
+www.amazon.de##.s-col-span-2.s-item-placeholder.s-result-item
