@@ -143,6 +143,13 @@ support.brother.com###cookieLawBar
 www.tenforums.com###cookiescript_injected
 rapidgator.net###cookie-dlg
 login.microsoftonline.com###msccBanner
+www.getdigital.de##.privacy-wrapper
+||stadt-bremerhaven.de/wp-content/uploads/2018/11/seagate.jpg$image
+goldesel.to###id6860
+trauer.rp-online.de##.cc_container--open.cc_container.cc_banner
+support.lenovo.com###oo_invitation_overlay
+support.lenovo.com###oo_invitation_prompt
+upload4earn.org##.cc-color-override--2136626901.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
