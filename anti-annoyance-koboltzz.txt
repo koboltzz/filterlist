@@ -190,6 +190,9 @@ www.extremetech.com###_evidon-barrier-wrapper
 www.extremetech.com###cookie-policy
 www.hifi-forum.de##.cc_container--open.cc_container.cc_banner
 www.kotte-zeller.de###ws_cookie_layer
+||stadt-bremerhaven.de/wp-content/uploads/2018/11/seagate.jpg$image
+www.thecustomdroid.com##.cc-color-override--204360173.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.sportspar.de##.page-wrap--cookie-permission
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
