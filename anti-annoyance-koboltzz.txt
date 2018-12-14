@@ -11,6 +11,8 @@ ibooks.to#@#.ad-inserter
 ibooks.to#@##banner-advert-container
 @@||ibooks.to^$script,first-party
 @@||uploadrar.com/themes/flow/frontend_assets/js/advertisement.js$script,first-party
+@@||cdn.klambt.services/js/advertisement.js$script,domain=www.idee-fuer-mich.de
+@@||thehouseofportable.com^$script,first-party
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -193,6 +195,19 @@ www.kotte-zeller.de###ws_cookie_layer
 ||stadt-bremerhaven.de/wp-content/uploads/2018/11/seagate.jpg$image
 www.thecustomdroid.com##.cc-color-override--204360173.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 www.sportspar.de##.page-wrap--cookie-permission
+notepad-plus-plus.org##.cc_banner-wrapper
+www.msoutlook.info##.cookie-notice-container
+www.express.co.uk###cmp-container-id
+www.galeria-kaufhof.de##.gk-stickymessage__content
+www.check24.de##.c24-cookie-animate.c24-cookie
+www.gruenwelt.de##.cc_container--open.cc_container.cc_banner
+www.dm.de##.u.t.s.r.q.p.o.d.n.c
+klassikerforum.de##.cookiePolicyNotice.info
+www.moviepilot.de##.is-visible.cookies
+www.idee-fuer-mich.de##.safeSpaceForClose.subNaviNotification
+www.tomshardware.co.uk##.prism-modal-content
+lib1.org#@#.adsbygoogle
+de.wikipedia.org##.banner
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
