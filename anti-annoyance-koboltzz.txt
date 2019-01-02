@@ -13,6 +13,7 @@ ibooks.to#@##banner-advert-container
 @@||uploadrar.com/themes/flow/frontend_assets/js/advertisement.js$script,first-party
 @@||cdn.klambt.services/js/advertisement.js$script,domain=www.idee-fuer-mich.de
 @@||thehouseofportable.com^$script,first-party
+www.netdoktor.de#@#.plainAd
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -245,6 +246,14 @@ www.wagnardsoft.com###sliding-popup > div
 www.hwinfo.com##.cookie-agree-with-use
 rog.asus.com###cookie-policy-info
 www.computerbase.de##.cookie-consent
+www.chefkoch.de###ck-cookie-statement
+www.fotocommunity.de###flashmessage-cookies
+www.dslr-forum.de###mbmcookie
+flexikon.doccheck.com###cookie_disclaimer
+www.netdoktor.at##.apa-consent-wrapper.apa-consent-reset
+www.wissen.de###sliding-popup > div
+www.mueller.de##.mu-cookie-box
+mobiledevicesize.com##.iubenda-cs-content
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
