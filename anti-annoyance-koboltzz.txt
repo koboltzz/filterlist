@@ -208,6 +208,43 @@ www.idee-fuer-mich.de##.safeSpaceForClose.subNaviNotification
 www.tomshardware.co.uk##.prism-modal-content
 lib1.org#@#.adsbygoogle
 de.wikipedia.org##.banner
+www.kino-zeit.de##.eu-cookie-compliance-content.info.popup-content
+www.score-personal.de##.cookie-notice-container
+www.netzwelt.de##.w-m-100.cl-ap.b-0.zi-50.pos-f.cookie-choice
+forum.chip.de##.as-oil-content-overlay
+community.spiceworks.com##.sui-site-message-container
+www.siedler3.net###box1
+ayefiles.com###gdpr-cookie-notice
+xpressubuntu.wordpress.com###eu-cookie-law
+srackham.wordpress.com###eu-cookie-law
+communities.vmware.com###_evidon_banner
+en.wikipedia.org##.banner
+www.howtoforge.com##.cc_container--open.cc_container.cc_banner
+www.howtoforge.de##.cookie-notice-container
+www.faqforge.com##.cookie-notice-container
+ebraiter.wordpress.com###eu-cookie-law
+www.drivethelife.com##.cc-color-override-2132809765.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+my.vmware.com###_evidon_banner
+www.nero.com###cookie-bar
+sim-karte-gratis.de##.cc_container--open.cc_container.cc_banner
+praxistipps.chip.de##.as-oil-content-overlay
+localbitcoins.com##.cc_container--open.cc_container.cc_banner
+www.finder.com##.cookie-footer-bar__show.cookie-footer-bar.fixed-footer
+ezgif.com##.cc_container--open.cc_container.cc_banner
+www.sendspace.com##.cc-color-override--1608664607.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.piedpiper.com##.optanon-alert-box-wrapper
+kinsta.com###cookies-bar
+www.mediamarkt.de###colorbox
+www.python-forum.de##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+blogs.vmware.com###_evidon_banner
+web.de##.cookie-lasche__content
+medium.com##.butterBar-message
+kb.vmware.com###_evidon_banner
+forum.giga-byte.co.uk##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.wagnardsoft.com###sliding-popup > div
+www.hwinfo.com##.cookie-agree-with-use
+rog.asus.com###cookie-policy-info
+www.computerbase.de##.cookie-consent
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
