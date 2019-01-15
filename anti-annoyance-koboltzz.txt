@@ -295,6 +295,21 @@ www.glamour.de###AdblockerLayerContent
 www.karger.com##.cc_container--open.cc_container.cc_banner
 www.amboss.com##.modal-content
 www.mammo-programm.de##.open.legal-banner
+www.azocleantech.com###cookie-notice-bar
+hintergrundbild.org##.cc-color-override-1438462623.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+ny.curbed.com###privacy-consent
+www.sitepoint.com##.l-jc-cen.l-gs-pv2.l-pa3.l-fw-n--2col.l-fw-w.l-d-f.l-w-100.u-show.CookieWarning
+wirtschaftslexikon.gabler.de###cookieconsent
+softwarerecs.stackexchange.com###js-gdpr-consent-banner
+www.gearslutz.com###crawler
+www.andreasjakl.com##.cookie-notice-container
+www.allwetterzoo.de###cookieConfirmation
+www.verisana.de##.cc_container--open.cc_container.cc_banner
+www.filmstarts.de##.info-cookie.jui.alert-wrap.alert-info.alert
+userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+musikradar.de###eu-cookie-law
+fraeulein-draussen.de###cookieChoiceInfo
+tipps.computerbild.de###cookienotifier
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
