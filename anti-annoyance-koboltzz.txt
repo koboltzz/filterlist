@@ -14,6 +14,11 @@ ibooks.to#@##banner-advert-container
 @@||cdn.klambt.services/js/advertisement.js$script,domain=www.idee-fuer-mich.de
 @@||thehouseofportable.com^$script,first-party
 www.netdoktor.de#@#.plainAd
+kalenderpedia.de#@#.text-ad
+kalenderpedia.de#@#.pub_300x250
+kalenderpedia.de#@#div[id^="div-gpt-ad"]
+kalenderpedia.de#@#.adsbygoogle
+@@||ad.doubleclick.net^$script,domain=www.kalenderpedia.de
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -254,6 +259,19 @@ www.netdoktor.at##.apa-consent-wrapper.apa-consent-reset
 www.wissen.de###sliding-popup > div
 www.mueller.de##.mu-cookie-box
 mobiledevicesize.com##.iubenda-cs-content
+www.samar-institute.de###cm4all-cookie-policy-page
+de.wikipedia.org###WMDE-Banner-Container
+medium.com##.butterBar-message
+www.ebay-kleinanzeigen.de###gdpr-banner
+www.city-fitness-re.de###catapult-cookie-bar
+www.eltern.de###bottom-teaser
+www.bq.com###alert-cookie
+www.bunte.de##.as-oil-content-overlay
+www.mediamarkt.de##.mms-cookielayer
+www.obi.de##.cookiepolicy__container
+www.dieschatzkisteimnetz.de##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.hertener-allgemeine.de##.cookiebar
+www.kalenderpedia.de##p
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
