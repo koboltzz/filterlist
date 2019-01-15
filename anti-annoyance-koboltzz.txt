@@ -19,6 +19,8 @@ kalenderpedia.de#@#.pub_300x250
 kalenderpedia.de#@#div[id^="div-gpt-ad"]
 kalenderpedia.de#@#.adsbygoogle
 @@||ad.doubleclick.net^$script,domain=www.kalenderpedia.de
+zeit.de#@#.ad
+zeit.de#@#.ADInfo
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -272,6 +274,27 @@ www.obi.de##.cookiepolicy__container
 www.dieschatzkisteimnetz.de##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 www.hertener-allgemeine.de##.cookiebar
 www.kalenderpedia.de##p
+www.leben-mit-haemophilie.at###_evidon_banner
+www.haemophilie.org###cookie-banner
+www.aerztezeitung.de##.cc-color-override-1404378656.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.apotheken-umschau.de##.cc_container--open.cc_container.cc_banner
+www.gesundheit.de##.cookie-content
+www.bibliomed-pflege.de##.cc_container--open.cc_container.cc_banner
+www.msdmanuals.com###CookieReportsMiniPanel
+www.msdmanuals.com###CookieReportsButton
+www.symptoma.com###legalNotice
+www.bio-sell.de##.cc-color-override--680072575.cc-right.cc-bottom.cc-theme-block.cc-type-.cc-floating.cc-window
+link.springer.com##.optanon-alert-box-wrapper
+www.springermedizin.de##.optanon-alert-box-wrapper
+www.medical-tribune.ch###cookie_consent_notification
+www.imd-greifswald.de##.cc-color-override-312874871.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.internisten-im-netz.de##.cc-color-override-1069142908.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.aerzteblatt.de##.cc-color-override--1360619034.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+www.brigitte.de##.guj-cb
+www.glamour.de###AdblockerLayerContent
+www.karger.com##.cc_container--open.cc_container.cc_banner
+www.amboss.com##.modal-content
+www.mammo-programm.de##.open.legal-banner
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
