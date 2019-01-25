@@ -310,6 +310,18 @@ userscloud.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-classic
 musikradar.de###eu-cookie-law
 fraeulein-draussen.de###cookieChoiceInfo
 tipps.computerbild.de###cookienotifier
+rp-online.de###park-snackbar-cookies
+scienceblogs.de##.cc-color-override-530831885.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+poocracks.blogspot.com###cookieChoiceInfo
+www.tesa-clean-air.com###eu-cookie
+www.urbia.de##.layer-inner
+www.vsdruck.ch##.cc-color-override-22902414.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.duden.de###sliding-popup
+vimeo.com##.gdpr_banner
+||static.quantcast.mgr.consensu.org/v13/cmpui-banner.js$script,domain=www.guru3d.com,important
+www.borncity.com##.pea_cook_bottomright.pea_cook_wrapper
+www.paketda.de###content_privacy_consent
+www.bezahlen.net###catapult-cookie-bar
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
