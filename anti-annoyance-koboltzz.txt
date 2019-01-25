@@ -345,6 +345,9 @@ www.areamobile.de###cookieChooserWrapper
 www.autoplenum.at###cookie-law
 www.motortests.de##.mt-cc-bnnr
 www.autoplenum.de###cookie-law
+www.thieme-connect.de##.cc_container--open.cc_container.cc_banner
+www.motor-talk.de###cookie-consent-banner
+www.haustechnikdialog.de###ctl01_ctl05_pnlWeUseCookies
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
