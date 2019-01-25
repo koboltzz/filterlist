@@ -322,6 +322,29 @@ vimeo.com##.gdpr_banner
 www.borncity.com##.pea_cook_bottomright.pea_cook_wrapper
 www.paketda.de###content_privacy_consent
 www.bezahlen.net###catapult-cookie-bar
+www.labor-enders.de##.cc-color-override-770416089.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.babycenter.de##.hide-cookie-setting-button.optanon-alert-box-wrapper
+www.businessinsider.nl###CybotCookiebotDialog
+www.krebsgesellschaft.de###cookiebar
+www.test.de##.cookie-disclaimer--visible.js-cookie-disclaimer.cookie-disclaimer
+community.phones.nokia.com##.bg-gray-5.cookie_container--open.cookie_container
+www.mitsubishi-motors.de###cookieLayer > .container
+www.sportalbert.de##.Customizable.CookieBanner
+www.pedelecforum.de##div.bottomFixer:nth-of-type(4) > .Notices.PanelScrollerOff > .scrollContainer > .PanelContainer > .Panels > .notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
+www.pedelecforum.de##div.bottomFixer:nth-of-type(3) > .Notices.PanelScrollerOff > .scrollContainer > .PanelContainer > .Panels > .notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
+www.swiss-divers.ch##.cookie-notice-container
+www.trainingsworld.com##.cookie-notice-container
+www.inside-handy.de###qcCmpUi
+www.inside-handy.de##.qc-cmp-showing.qc-cmp-ui-container
+www.gadgetsnow.com##.consent-popup
+hormonselbsthilfe.de##.cookie-notice-container
+www.areamobile.de##.dataPrivacyOverlay
+www.areamobile.de###cookieChooserWrapper
+||static.quantcast.mgr.consensu.org^$subdocument,domain=www.androidpolice.com,important
+||quantcast.mgr.consensu.org^$script,domain=www.androidpolice.com,important
+www.autoplenum.at###cookie-law
+www.motortests.de##.mt-cc-bnnr
+www.autoplenum.de###cookie-law
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
