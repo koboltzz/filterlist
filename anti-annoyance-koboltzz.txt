@@ -400,6 +400,25 @@ www.rechtsportal.de##.cc-color-override--1260316450.cc-bottom.cc-theme-block.cc-
 www.baua.de##.cookiebannerbox > div
 www.baua.de###cookiebanner
 www.uniklinik-duesseldorf.de##.cookie-layer
+www.digitalcitizen.life###eu-cookies-consent
+||assets.filmstarts.de/js/filmstarts/website/modal-review~toaster-newsletter.fd3099b645e6b15e3230.js$script,domain=www.filmstarts.de,important
+forums.creativecow.net###cookieNotice > div
+www.garmin.com###truste-consent-content
+www.fehler-im-film.de##.cc-color-override-1519961192.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+||fundingchoices.google.com^$script,domain=www.phonearena.com,important
+www.mobilcom-debitel.de##.cookie-message
+www.chinahandys.net##.cookie-notice-container
+www.dailymotion.com##.CookieGdpr__cookie___luh1f
+de.wikihow.com###gdpr
+www.statistik-nachhilfe.de###moove_gdpr_cookie_info_bar
+www.dvd-palace.de###cookie-bar
+www.tvforen.de##.cc-color-override-1113509967.cc-top.cc-theme-classic.cc-type-info.cc-banner.cc-window
+community.eintracht.de###cookie-notice-container
+www.der-betze-brennt.de##.cc_container--open.cc_container.cc_banner
+www.slashcam.de###cookieChoiceInfo
+www.phoronix.com##.qc-cmp-showing.qc-cmp-ui-container
+www.android-hilfe.de##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
+www.schnittberichte.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
