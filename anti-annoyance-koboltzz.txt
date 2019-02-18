@@ -348,6 +348,40 @@ www.autoplenum.de###cookie-law
 www.thieme-connect.de##.cc_container--open.cc_container.cc_banner
 www.motor-talk.de###cookie-consent-banner
 www.haustechnikdialog.de###ctl01_ctl05_pnlWeUseCookies
+www.adac.de###cookieinfolayer
+www.adac.de##.is-sliding-down.m-basic-cookie-refresh
+www.eversberg.de##.plg_system_eprivacy_module > .plg_system_eprivacy_accepted
+www.autokostencheck.de###footerSlideText
+www.gute-gebrauchte.de##.cc-color-override--1762072787.cc-right.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+www.autoplenum.de###cookie-law
+www.hotelspecials.de##.cookie-notification--show.cookie-notification
+www.sporthotel-grafenwald.de##.cc-color-override--1983726472.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.mitsubishi-motors.de###cookieLayer > .container
+www.mkg-bank.de##.cc_container--open.cc_container.cc_banner
+www.kurzurlaub.de###cookieNoticeMessage
+www.rilano-hotel-hamburg.de###tx_cookies_inner
+www.airbnb.de##._8lurwow
+www.mitsubishi.automobile-baumann.de##.cc_container--open.cc_container.cc_banner
+www.cineworld-recklinghausen.de##.cc-color-override-1811720086.cc-bottom.cc-static.cc-theme-block.cc-type-info.cc-banner.cc-window
+suchen.mobile.de###consentBanner
+www.lieferando.de###iprivacybanner
+www.jahrhunderthalle-bochum.de###cookie-bar
+www.urlaubsguru.de##.cc_container--open.cc_container.cc_banner
+www.trends.de##.cc_container--open.cc_container.cc_banner
+buchen.urlaubsguru.de##.cc_container--open.cc_container.cc_banner
+www.stilgut.de##.cookie--form
+www.mein-schoener-garten.de##.as-oil-content-overlay
+www.mvz-re.de##.divascookies-banner-container
+www.i-love-tec.de##.dsgvo > div
+www.pixum.de##.cookieInformationContainer
+www.trivago.de##.alert--bottom-notification.alert--bottom.alert
+www.immobilienscout24.de##.cookie-layer-container
+www.urlaubspiraten.de###tarteaucitronAlertBig
+derma-praxis-vest.de##.cookie-notice-container
+deinphone.de##.cin_cookie_bg
+www.tui.com##.tui-font.explicit_consent.privacy_prompt
+www.fewo-direkt.de###gdpr-banner
+de.motor1.com##.active.m1-footer-message
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
