@@ -382,6 +382,24 @@ deinphone.de##.cin_cookie_bg
 www.tui.com##.tui-font.explicit_consent.privacy_prompt
 www.fewo-direkt.de###gdpr-banner
 de.motor1.com##.active.m1-footer-message
+suchen.mobile.de###consentBanner
+aok-bv.de##.cc-color-override-1985167266.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.dgnp.de##.cookieHintContentWrap
+onlinelibrary.wiley.com##.cookiePolicy-popup
+www.imd-oderland.de##.cc-color-override-312874871.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+buy.garmin.com###truste-consent-content
+www.fr.de##.id-CookieConsent
+www.motor-talk.de##.mt-cc-bnnr
+www.kfz-betrieb.vogel.de###cookie-statement
+www.drivespark.com###cookiePrompt
+de.zwilling-shop.com###cookieNote
+petapixel.com##.cc-color-override-306279085.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.autozentren-pa.de##.cc_container--open.cc_container.cc_banner
+xhamster.com##.no-popunder.cookie-announce.bottom-announce
+www.rechtsportal.de##.cc-color-override--1260316450.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-windo
+www.baua.de##.cookiebannerbox > div
+www.baua.de###cookiebanner
+www.uniklinik-duesseldorf.de##.cookie-layer
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
