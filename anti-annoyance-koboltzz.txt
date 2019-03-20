@@ -21,6 +21,7 @@ kalenderpedia.de#@#.adsbygoogle
 @@||ad.doubleclick.net^$script,domain=www.kalenderpedia.de
 zeit.de#@#.ad
 zeit.de#@#.ADInfo
+@@||steamid.io/static/scripts/ads.js$script,first-party
 
 ! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -419,6 +420,19 @@ www.slashcam.de###cookieChoiceInfo
 www.phoronix.com##.qc-cmp-showing.qc-cmp-ui-container
 www.android-hilfe.de##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
 www.schnittberichte.com##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.drivereasy.com##.float-bar
+||www.androidpolice.com/wp-content/themes/ap2/images/mwc/2019/Visible_668x50.jpg$image
+gamefaqs.gamespot.com###_evidon_banner
+meine.postbank.de##.c-notification__content
+www.postbank.de##.cookie-disclaimer
+androidfilehost.com###CybotCookiebotDialog
+telekomhilft.telekom.de###mms-cookie-disclaimer
+abload.de###cookies
+www.turn-on.de##.cc_container--open.cc_container.cc_banner
+@@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
+www.autoitscript.com##.cc-color-override--1099938906.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+download.cnet.com###_evidon_banner
+www.majorgeeks.com###cookie-bar
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
