@@ -294,7 +294,6 @@ www.aerzteblatt.de##.cc-color-override--1360619034.cc-left.cc-bottom.cc-theme-cl
 www.brigitte.de##.guj-cb
 www.glamour.de###AdblockerLayerContent
 www.karger.com##.cc_container--open.cc_container.cc_banner
-www.amboss.com##.modal-content
 www.mammo-programm.de##.open.legal-banner
 www.azocleantech.com###cookie-notice-bar
 hintergrundbild.org##.cc-color-override-1438462623.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
