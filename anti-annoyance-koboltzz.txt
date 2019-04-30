@@ -443,6 +443,43 @@ www.airbnb.de##.optanon-alert-box-wrapper
 www.zeltfestivalruhr.de###cookie-message
 www.felixlobrecht-tickets.de##.js-cookies-eu.cookies-eu
 www.ai-fitness.de##.cookies-popup.cookies-warning-modal.navbar-fixed-bottom.navbar-default
+www.amazon.de###nav-upnav
+www.reiseversicherung.com##.info-box__section.section
+www.reiseversicherung.com##.info-box__section--light.section
+www.reiseruecktrittsversicherung.com##.cc-color-override-530831885.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+dict.leo.org##.as-oil-content-overlay
+www.ign.com##.privacy-content.jsx-3169821313
+1fichier.com###cookie_box
+www.playm.de##.cookiebox
+www.gamepro.de###cookiehint
+kindergartenpaedagogik.de###redim-cookiehint
+www.sandboxie.com###\:1\.container
+mobil.teltarif.de###cookie-consent
+www.wikifeet.com##.cc-color-custom--338742448.cc-top.cc-layout-block.cc-type-info.cc-banner.cc-container
+www.nintendolife.com##.cookie-bar.cookie-gdpr
+www.eurogamer.net##.bottom.cookie-bar.cookie-gdpr
+medlexi.de##.cookieinfo
+www.dmsg.de##.cc_container--open.cc_container.cc_banner
+www.synology-forum.de##.cc-color-override-530831885.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+campus.barracuda.com##.alert-tertiary.alert
+||www.taschenlampen-forum.de/images/acebeam/Acebeam-P4.gif$image
+||www.taschenlampen-forum.de/images/folomov/18650S.gif$image
+||www.taschenlampen-forum.de/images/armytek/Armytek-TLF-02-2019.gif$image
+||www.taschenlampen-forum.de/images/acebeam/780x90-181016.gif$image
+||www.taschenlampen-forum.de/images/olight/WARRIOR-X--340x280.png$image
+||www.taschenlampen-forum.de/images/hkequipment/TLF340280.jpg$image
+||www.taschenlampen-forum.de/images/skilhunt/Skilhunt-728x90de.gif$image
+||www.taschenlampen-forum.de/images/hkequipment/TLF340280.jpg$image
+||www.taschenlampen-forum.de/images/olight/WARRIOR-X--340x280.png$image
+www.pocketnavigation.de##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.dxomark.com##.cookie-notice-container
+www.archos.com###cookiesdirective
+www.kenn-dein-limit.de##.cc-color-override-688238583.cc-top.cc-static.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.smart-rechner.de###cookieConsent
+www.klugo.de###redim-cookiehint
+www.fuehrerscheinfix.de##.cookieAdvice > p
+www.glutarazidurie.de###sliding-popup > div
+www.studis-online.de##.cc-color-override-843780106.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
