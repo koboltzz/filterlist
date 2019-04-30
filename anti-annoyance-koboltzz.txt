@@ -432,6 +432,17 @@ www.turn-on.de##.cc_container--open.cc_container.cc_banner
 www.autoitscript.com##.cc-color-override--1099938906.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 download.cnet.com###_evidon_banner
 www.majorgeeks.com###cookie-bar
+www.deepl.com###dl_cookie_footer > div
+www.amazon.de###nav-upnav
+schwesternliebeundwir.de##.cookie-notice-container
+www.pinterest.com##.outerCookieBar
+www.klinikum-luenen.de###cookie-bar
+www2.hm.com##.js-cookie-notification.js-notification.cookie-notification
+flugreisen.tchibo.de##.CookieInfo_container_22rb0.cookieConsent
+www.airbnb.de##.optanon-alert-box-wrapper
+www.zeltfestivalruhr.de###cookie-message
+www.felixlobrecht-tickets.de##.js-cookies-eu.cookies-eu
+www.ai-fitness.de##.cookies-popup.cookies-warning-modal.navbar-fixed-bottom.navbar-default
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
