@@ -551,6 +551,26 @@ uploadever.com###gdpr-cookie-notice
 www.telekom.de###tsde-1
 gls-group.eu###cookiePopup
 www.vollmacht-muster.de###cookie-law-info-bar
+www.rapidtables.com##.cc-color-override--164332451.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.razer.com###cookies_popup_container
+store.hp.com##.optanon-alert-box-wrapper
+@@||laptopmedia.com/ads.js$script,first-party
+||www.androidpolice.com/wp-content/themes/ap2/images/io/2019/dbrand-2019-728x300.png$image
+||www.taschenlampen-forum.de/images/olight/340x280-Nach-Aktion.jpg$image
+||stadt-bremerhaven.de/wp-content/uploads/2019/05/Bosch_Smart_Home_Aktion_0519.jpg$image
+www.cochrane.org###cookie-warning
+neurologie.charite.de##.cc_container--open.cc_container.cc_banner
+calculate.plus##.eucookie
+www.gesundheit.gv.at###cookie-policy
+www.telekomaufladen.de##.cookie-message-outer
+www.amboss.com##.in.amboss-paywall__dialog.fade.modal
+www.researchgate.net##.js-target-cookie-consent.lite-cookie-consent
+www.wicker.de##.cc-color-override--1582532167.cc-left.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+www.medtronic.com###cookieBar
+www.epilepsie-gut-behandeln.de###cookie-disclaimer
+www.recklinghausen.de##.cc_container--open.cc_container.cc_banner
+www.juraforum.de##.cc-color-override-300995923.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.pharmawiki.ch##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-windo
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
