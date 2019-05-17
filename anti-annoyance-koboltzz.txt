@@ -571,6 +571,25 @@ www.epilepsie-gut-behandeln.de###cookie-disclaimer
 www.recklinghausen.de##.cc_container--open.cc_container.cc_banner
 www.juraforum.de##.cc-color-override-300995923.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.pharmawiki.ch##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-windo
+www.nvidia.de###cookiePolicy-layer
+www.fcportables.com##.cookie-notice-container
+zchacker.blogspot.com###cookieChoiceInfo
+portablebull.blogspot.com###cookieChoiceInfo
+www.campuspoint.de##.cc-color-override-225764834.cc-left.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+www.laptopmag.com##.prism-modal-content
+www.andybellphotography.com###eu-cookie-law
+www.benl.ebay.be###gdpr-banner
+forum.golem.de###golem-cookie-accept
+www.teltarif.de##.ttTR.ttconsent
+www.maxon.net##.cc-color-override-2044459240.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.pcgameshardware.de##.dataPrivacyOverlay
+||api.quantcast.mgr.consensu.org/CookieAccess$xmlhttprequest,domain=www.guru3d.com,important
+||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=www.guru3d.com,important
+www.psd-tutorials.de##.cc_container--open.cc_container.cc_banner
+www.aida64.de###sliding-popup
+vfxdownload.com##.cookie-notice-container
+www.redgiant.com##.cc-color-override-86737963.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.software-express.de##.cc-color-override-1347930779.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
