@@ -602,6 +602,27 @@ www.assettocorsa.net##.notice_-1.DismissParent.Notice.panel > .noticeContent.bas
 www.racedepartment.com##.noticeContent.baseHtml
 filmora.wondershare.com##.active.transition.bg-cover.shrink.a-block.bottom.fixed.seasonal-btm.seasonal
 www.mactechnews.de###cookiechoice > div
+www.pornhub.com##.cookieBanner
+mammazentrum-hamburg.de##.pea_cook_topright.pea_cook_wrapper
+fstoppers.com###sliding-popup > div
+jkdigital.de###cookie-law-info-bar
+www.thieme-connect.com##.cc_container--open.cc_container.cc_banner
+www.maintrac.de###CookieNoticeBar
+www.muenchen-klinik.de###cookieconsent-container
+www.razer.com###cookies_popup_container
+goneuland.de##.cookie-notice-container
+thedroidguy.com##.stickyad
+laufmotivation.de###eu-cookie-law
+forum.xda-developers.com##.bravetwig-top
+||www.apkmirror.com/wp-content/plugins/quantcast-choice/*$script,domain=www.apkmirror.com,important
+@@||st.dynamicyield.com/st$script,domain=www.mediamarkt.de
+www.synology.com###cookies_header
+www.tefal.de###footer_tc_privacy_text2
+kontaktgrill-online.com##.cookie-notice-container
+www.deutsche-apotheker-zeitung.de###cookiehint
+www.pflege.de##.cc-color-override-1910902264.cc-top.cc-static.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.pflege.de##.cc-grower
+www.mpu-vorbereitung.com##.cc_container--open.cc_container.cc_banner
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
