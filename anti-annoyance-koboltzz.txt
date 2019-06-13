@@ -590,6 +590,18 @@ www.aida64.de###sliding-popup
 vfxdownload.com##.cookie-notice-container
 www.redgiant.com##.cc-color-override-86737963.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 www.software-express.de##.cc-color-override-1347930779.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.bildercache.de###cookie-law-info-bar
+www.computerwissen.de##.cc-color-override-1163527936.cc-top.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.deepsilver.com##.cc_container--open.cc_container.cc_banner
+charlie-chico.de.tl##.cc_container--open.cc_container.cc_banner
+asfarsoft.blogspot.com###cookieChoiceInfo
+||img.sdfu8jme.top/img/zb/142.gif$image
+www.cinema.de##.as-oil-content-overlay
+www.tubepro.de##.cookiePolicyNotice.info
+www.assettocorsa.net##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
+www.racedepartment.com##.noticeContent.baseHtml
+filmora.wondershare.com##.active.transition.bg-cover.shrink.a-block.bottom.fixed.seasonal-btm.seasonal
+www.mactechnews.de###cookiechoice > div
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
