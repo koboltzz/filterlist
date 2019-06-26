@@ -623,6 +623,11 @@ www.deutsche-apotheker-zeitung.de###cookiehint
 www.pflege.de##.cc-color-override-1910902264.cc-top.cc-static.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.pflege.de##.cc-grower
 www.mpu-vorbereitung.com##.cc_container--open.cc_container.cc_banner
+www.kanu-tour-ruhr.de##.cc-color-override--2033935902.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+www.travelprotect.de##.cookie-message
+www.allianz-reiseversicherung.de###owid\:0-150c75462ed
+www.vergleich.org##.legal-note
+www.reiseversicherung-vergleich.info##.cc-color-override--737448751.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
