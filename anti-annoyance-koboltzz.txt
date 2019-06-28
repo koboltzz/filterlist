@@ -668,6 +668,12 @@ www.facebook.com###u_0_d
 www.technic-dialog.de##.Cookieinfo
 www.technic-dialog.de###Cookieinfo
 www.lego.com##.l-accept.l-sticky-gf__accept
+www.labor-clotten.de##.cc-color-override-1654109200.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.reddit.com##.czhyGp.yscgwn-2
+www.psychenet.de###redim-cookiehint
+||ajax.cloudflare.com/cdn-cgi/scripts/*$script,domain=switchbounty.com,important
+www.saturn.de###cboxWrapper
+orf.at##.oon-ds-banner
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
