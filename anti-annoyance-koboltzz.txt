@@ -664,7 +664,6 @@ www.berliner-kurier.de##.hide-cookie-setting-button.optanon-alert-box-wrapper
 bestware.com###notice-cookie-block
 login.live.com###msccBanner
 www.onlinemathe.de##.cc_container--open.cc_container.cc_banner
-www.facebook.com###u_0_d
 www.technic-dialog.de##.Cookieinfo
 www.technic-dialog.de###Cookieinfo
 www.lego.com##.l-accept.l-sticky-gf__accept
