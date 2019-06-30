@@ -59,7 +59,7 @@ www.mydealz.de##.softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space
 www.deskmodder.de##.cc_container--open.cc_container.cc_banner
 filehippo.com##.cc_container--open.cc_container.cc_banner
 raspberryundco.de##.cookie-notice-container
-www.reddit.com##.hDANzL.s1pfx7qz-2
+! www.reddit.com##.hDANzL.s1pfx7qz-2
 www.google.de##.vk_c.yAVMkd
 www.google.de##.U2J5q
 www.google.de##.DodYv
@@ -533,7 +533,7 @@ www.karteikarte.com##.cc_container--open.cc_container.cc_banner
 www.chemie.de##.cc-color-override-1477937099.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 mkvtoolnix.download##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.yifysubtitles.com##.cc_container--open.cc_container.cc_banner
-www.reddit.com##.kBxEFp.s1o830cy-2
+! www.reddit.com##.kBxEFp.s1o830cy-2
 www.nexusmods.com##.banner_banner--3pjXd
 gamebanana.com##.banner_banner--3pjXd
 www.nintendo.co.uk###cookie-topbar
@@ -633,7 +633,7 @@ www.com-magazin.de##.cc-color-override--227966932.cc-top.cc-theme-block.cc-type-
 netzpolitik.org###spendenleiste
 www.pcgames.de##.dataPrivacyOverlay
 blog.officemanager.de##.cookie-notice-container
-www.reddit.com##.czhyGp.yscgwn-2
+! www.reddit.com##.czhyGp.yscgwn-2
 www.rueckwaertssuche-telefonbuch.de##.cc_container--open.cc_container.cc_banner
 www.infobel.com##.cc_container--open.cc_container.cc_banner
 www.gamerevolution.com###cookieNotice
@@ -668,11 +668,17 @@ www.technic-dialog.de##.Cookieinfo
 www.technic-dialog.de###Cookieinfo
 www.lego.com##.l-accept.l-sticky-gf__accept
 www.labor-clotten.de##.cc-color-override-1654109200.cc-top.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
-www.reddit.com##.czhyGp.yscgwn-2
+! www.reddit.com##.czhyGp.yscgwn-2
 www.psychenet.de###redim-cookiehint
 ||ajax.cloudflare.com/cdn-cgi/scripts/*$script,domain=switchbounty.com,important
 www.saturn.de###cboxWrapper
 orf.at##.oon-ds-banner
+zattoo.com##.cookie-banner
+www.zdnet.com###lightbox-iframe-f0e0ceb7-a6a0-48b5-992f-35aff4d1b4fe
+||cdn.jsdelivr.net/fancybox/2.1.5/fancybox_sprite.png$image
+meterpreter.org##.cookie-notice-container
+||consent.notebookreview.com^$script,domain=forum.notebookreview.com,important
+||www.redditstatic.com/desktop2x/runtime~Reddit.e783d0458dbcb0d29525.js$script,domain=www.reddit.com
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
