@@ -678,7 +678,7 @@ www.zdnet.com###lightbox-iframe-f0e0ceb7-a6a0-48b5-992f-35aff4d1b4fe
 ||cdn.jsdelivr.net/fancybox/2.1.5/fancybox_sprite.png$image
 meterpreter.org##.cookie-notice-container
 ||consent.notebookreview.com^$script,domain=forum.notebookreview.com,important
-www.reddit.com##*[class*="SubredditVars"]:nth-of-type(3)
+! www.reddit.com##*[class*="SubredditVars"]:nth-of-type(3)
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
