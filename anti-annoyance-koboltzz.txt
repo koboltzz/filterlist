@@ -40,7 +40,6 @@ www.androidpolice.com##.bigsponsor
 www.androidpolice.com##.ains-33.ains
 www.rlslog.net###bottombanner
 uploadgig.com###freevid
-goldesel.to##.c172839
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -157,7 +156,6 @@ rapidgator.net###cookie-dlg
 login.microsoftonline.com###msccBanner
 www.getdigital.de##.privacy-wrapper
 ||stadt-bremerhaven.de/wp-content/uploads/2018/11/seagate.jpg$image
-goldesel.to###id6860
 trauer.rp-online.de##.cc_container--open.cc_container.cc_banner
 support.lenovo.com###oo_invitation_overlay
 support.lenovo.com###oo_invitation_prompt
@@ -690,13 +688,6 @@ kallelilja.com##.cookie-notice-container
 insider.razer.com###cookies_popup_container
 www.enzyklopaedie-dermatologie.de###signup-popup
 www.chemie-schule.de##.cc-color-override-1827372716.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
-!www.reddit.com##div.SubredditVars-r-razer:nth-of-type(3)
-!www.reddit.com##div.SubredditVars-r-HAWKFreedomSquad:nth-of-type(3)
-!www.reddit.com##div.SubredditVars-r-Switchloader:nth-of-type(3)
-!www.reddit.com##div.SubredditVars-r-SwitchPirates:nth-of-type(3)
-!www.reddit.com##div.SubredditVars-r-SwitchHacks:nth-of-type(3)
-!www.reddit.com##div.SubredditVars-r-SwitchHaxing:nth-of-type(3)
-!www.reddit.com##div.SubredditVars-r-lgv30:nth-of-type(3)
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
