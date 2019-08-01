@@ -688,6 +688,50 @@ kallelilja.com##.cookie-notice-container
 insider.razer.com###cookies_popup_container
 www.enzyklopaedie-dermatologie.de###signup-popup
 www.chemie-schule.de##.cc-color-override-1827372716.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+appuals.com##.iubenda-cs-content
+techdows.com##.banner_banner--3pjXd
+||consent.cookiebot.com/uc.js$script,domain=www.digitaltrends.com,important
+www.androidauthority.com###CybotCookiebotDialog
+dictionary.cambridge.org##.banner.notification.unstyled > li
+www.urbandictionary.com##.cc-color-override--1419881086.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.pflanzen-forschung-ethik.de##.cc-color-override-1519961192.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.caritas.de##.cc_container--open.cc_container.cc_banner
+www.patientenverfuegungplus.de##.fr-cookie-msg
+www.hobbyschneiderin24.net###elGuestTerms
+www.chemieonline.de##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.militaria-fundforum.de##.cookiePolicyNotice.info
+www.gelbe-liste.de##.in.fade.text-center.text-white.alert-dismissible.alert.bg-footer-gray.p-3.flex-md-row.flex-column.align-items-center.justify-content-center.d-flex.cookie
+www.neurologienetz.de##.cc_container--open.cc_container.cc_banner
+www.pschyrembel.de###cbAlert
+www.orpha.net###addCookieBarInfo
+www.radiologie-ludwigshafen-mannheim.de##.cookieHintContentWrap
+forum.xda-developers.com###twig-top
+||goldesel.to/img/blocker.png$image
+||assets.filmstarts.de/js/website/modal-newsletter.*.js$script,domain=www.filmstarts.de,important
+||goldesel.to/img/*.gif$image
+||goldesel.to/img/*.jpg$image
+||consent-st.trustarc.com/asset/notice.js/v/v1.7-2$script,domain=www.oracle.com,important
+||consent.trustarc.com/asset/notice.js/v/v1.7-2$script,domain=java.com,important
+www.samsung.com##.cm-cookie-geo--type-manage.cm-cookie-geo
+forums.tomshardware.com##.jw-player-minimize.jw-loaded
+www.reisemed.at##.cc_container--open.cc_container.cc_banner
+||www.notebookcheck.com/fileadmin/Sonstiges/amazon_ab_de.html$subdocument
+www.notebookcheck.com###nbc_contentcontainer > div:nth-of-type(1)
+||www.notebookcheck.net/fileadmin/Sonstiges/amazon_ab_us.html$subdocument
+www.notebookcheck.net###nbc_contentcontainer > div:nth-of-type(1)
+linuxize.com###ez-cookie-dialog-wrapper
+www.electronicdesign.com##.gdpr-popup-border
+www.bedeutungonline.de###cookie-law-info-bar
+www.hausjournal.net###cookies-notification-popup
+www.spreadshirt.de##.show.js-cookie-banner.cookie-banner
+techsupport291.blogspot.com###cookieChoiceInfo
+www.overclock.net##.fc-dialog-overlay
+www.overclock.net##.fc-choice-dialog
+www.overclock.net##.fc-consent-root
+www.overclock.net###ukCookiePopup
+www.crucial.de###_evidon_banner
+news.rub.de###cookie-compliance
+www.iobit.com##.active.clearfix.float-bar
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
