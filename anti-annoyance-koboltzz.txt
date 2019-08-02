@@ -732,6 +732,7 @@ www.overclock.net###ukCookiePopup
 www.crucial.de###_evidon_banner
 news.rub.de###cookie-compliance
 www.iobit.com##.active.clearfix.float-bar
+www.ikea.com##.cookie-info__panel--show.js-cookie-info__panel.cookie-info__panel
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
