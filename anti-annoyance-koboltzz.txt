@@ -733,6 +733,30 @@ www.crucial.de###_evidon_banner
 news.rub.de###cookie-compliance
 www.iobit.com##.active.clearfix.float-bar
 www.ikea.com##.cookie-info__panel--show.js-cookie-info__panel.cookie-info__panel
+www.tomshardware.com###ec-modal
+www.tomshardware.com##.prism-modal-content
+www.wired.com##.expandable-growler-wrapper__expanded.expandable-growler-wrapper
+www.wired.com##.paywall-container-component--growler.paywall-container-component
+www.amazon.com###pldn-deep-link
+||c.evidon.com/sitenotice/*$script,domain=www.dell.com,important
+www.nvidia.com###cookiePolicy-layer
+www.datamate.org##.cookie-notice-container
+www.caseking.de##.cc-color-override--952928068.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.mindfactory.de###bCookieMsg
+www.pfizer.de###_evidon_banner
+de.statista.com###cookiesNotification
+www.deskmodder.de###content > div#gwerbung:nth-of-type(1)
+www.humblebundle.com###_evidon_banner
+||www.druckerchannel.de/script/dc/hab_support.php$xmlhttprequest,domain=www.druckerchannel.de,important
+||www.druckerchannel.de/script/dc/ofr_single.php$subdocument
+||www.druckerchannel.de/script/dc/ofr.php$subdocument
+||www.druckerchannel.de/script/dc/pvgl.php$subdocument
+www.druckerchannel.de###DCGA_LEAD
+www.druckerchannel.de###DCA_TOP
+www.druckerchannel.de##center > [href^="/redirect/ad.php"]
+www.druckerchannel.de##.DCA_HALF > [href^="/redirect/ad.php"]
+@@||www.googletagmanager.com^$script,domain=support.brother.com
+||consent.cookiebot.com^$script,domain=compress-or-die.com,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
