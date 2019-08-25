@@ -757,6 +757,15 @@ www.druckerchannel.de##center > [href^="/redirect/ad.php"]
 www.druckerchannel.de##.DCA_HALF > [href^="/redirect/ad.php"]
 @@||www.googletagmanager.com^$script,domain=support.brother.com
 ||consent.cookiebot.com^$script,domain=compress-or-die.com,important
+extreme.pcgameshardware.de##.dataPrivacyOverlay
+h30434.www3.hp.com##.optanon-alert-box-wrapper
+de.drivereasy.com##.float-bar
+www.bankinfosecurity.com##.cookies-alert-box-wrapper
+sensorstechforum.com###cookiescript_injected
+filehippo.com##.optanon-alert-box-wrapper
+osdn.net##.cookie-bar__inner
+www.cinemaxx.de##.active.cookie-msg > .container-small.container
+||static.quantcast.mgr.consensu.org^$script,domain=www.thetvdb.com,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
