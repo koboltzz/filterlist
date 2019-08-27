@@ -756,6 +756,9 @@ www.druckerchannel.de###DCA_TOP
 www.druckerchannel.de###DCA_BOTTOM
 www.druckerchannel.de##center > [href^="/redirect/ad.php"]
 www.druckerchannel.de##.DCA_HALF > [href^="/redirect/ad.php"]
+www.druckerchannel.de###DCA_MRECT > center
+www.druckerchannel.de##div.DCG_BOX_C:nth-of-type(2) > .DCA_HALF_CONTAINER > .DCA_HALF
+www.druckerchannel.de##div.DCG_BOX_C:nth-of-type(3) > .DCA_HALF_CONTAINER > .DCA_HALF
 @@||www.googletagmanager.com^$script,domain=support.brother.com
 ||consent.cookiebot.com^$script,domain=compress-or-die.com,important
 extreme.pcgameshardware.de##.dataPrivacyOverlay
