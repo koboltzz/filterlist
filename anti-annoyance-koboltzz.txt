@@ -753,6 +753,7 @@ www.humblebundle.com###_evidon_banner
 ||www.druckerchannel.de/script/dc/pvgl.php$subdocument
 www.druckerchannel.de###DCGA_LEAD
 www.druckerchannel.de###DCA_TOP
+www.druckerchannel.de###DCA_BOTTOM
 www.druckerchannel.de##center > [href^="/redirect/ad.php"]
 www.druckerchannel.de##.DCA_HALF > [href^="/redirect/ad.php"]
 @@||www.googletagmanager.com^$script,domain=support.brother.com
@@ -766,6 +767,17 @@ filehippo.com##.optanon-alert-box-wrapper
 osdn.net##.cookie-bar__inner
 www.cinemaxx.de##.active.cookie-msg > .container-small.container
 ||static.quantcast.mgr.consensu.org^$script,domain=www.thetvdb.com,important
+shop.apotal.de###cookie-message
+shop.apotal.de###customSkyBanner
+www.lovemyfire.com##.show.bottom.eucookiebar
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-inner
+www.userbenchmark.com##.nb-parent
+www.3dmark.com##.optanon-alert-box-wrapper
+entertainment.unitymedia.de##.gdpr_main
+||static.quantcast.mgr.consensu.org^$script,domain=forums.tomshardware.com,important
+||slot1-images.wikia.nocookie.net/__load/-/*$script,domain=jedipedia.fandom.com,important
+jedipedia.fandom.com###WikiaRail
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
