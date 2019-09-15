@@ -781,6 +781,24 @@ entertainment.unitymedia.de##.gdpr_main
 ||static.quantcast.mgr.consensu.org^$script,domain=forums.tomshardware.com,important
 ||slot1-images.wikia.nocookie.net/__load/-/*$script,domain=jedipedia.fandom.com,important
 jedipedia.fandom.com###WikiaRail
+www.bym.de##.guj-cb
+www.kleiderkreisel.de##.c-cell--default.c-cell--primary.c-cell--wide.c-cell
+forum.readmore.de##.dataPrivacyOverlay
+de.pokerstrategy.com##.cookiebar
+support.razer.com###cookies_popup_container
+notebooks-und-mobiles.de###cookieChoiceInfo
+beta.sportograf.com##.cookie-banner-container
+www.11880.com##.cookie-bar
+www.11880.com###cookie-bar
+www.cpu-monkey.com##.cc_container--open.cc_container.cc_banner
+gpu.userbenchmark.com##.nb-parent
+theriskittakestoblossom.blogspot.com###cookieChoiceInfo
+||consent.cmp.oath.com^$script,domain=www.techradar.com,important
+radical-mag.com###eu-cookie-law
+www.ntlite.com###catapult-cookie-bar
+de.fotolia.com###_evidon_banner
+noppensteinwelt.de##.cookiePolicyNotice.info
+||origin-images.wikia.com/fandom-ae-assets/tracking-opt-in/*$script,domain=7daystodie-de.gamepedia.com,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
