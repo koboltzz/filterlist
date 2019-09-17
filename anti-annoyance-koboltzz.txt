@@ -799,6 +799,24 @@ www.ntlite.com###catapult-cookie-bar
 de.fotolia.com###_evidon_banner
 noppensteinwelt.de##.cookiePolicyNotice.info
 ||origin-images.wikia.com/fandom-ae-assets/tracking-opt-in/*$script,domain=7daystodie-de.gamepedia.com,important
+www.winboard.org##.notice-content
+kolompc.com##.alert.cookies-alert
+jzxad.com##.container-fluid
+www.motorsport-total.com##.cc-color-override--320238513.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.kino-zeit.de###FwlzZtuxQTdp
+www.spotify.com###js-message-bar-cookie-notice
+www.hallmark.de###cookie--container
+www.tellows.de##.container
+www.tippscout.de###cookie-bar
+||static.quantcast.mgr.consensu.org^$script,domain=segmentnext.com,important
+www.savegameworld.com##.cc_container--open.cc_container.cc_banner
+||static.quantcast.mgr.consensu.org^$script,domain=windowsreport.com,important
+windowsreport.com###cookie-law-info-bar
+blog.botfrei.de###cookie-law-info-bar
+community.bugbeargames.com##.notice--cookie.notice--primary.js-notice.notice
+theitbros.com##.cookie-notice-container
+billykks.blogspot.com###cookieChoiceInfo
+homematic-forum.de##.cc_container--open.cc_container.cc_banner
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
