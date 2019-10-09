@@ -829,6 +829,15 @@ www.ersatzteilshop.de###cookie_notice
 www.pcs-campus.de##.cookie-notice-container
 www.myunidays.com##.plain.message
 www.ghacks.net##.optanon-alert-box-wrapper
+gamewii.net##.mn-related-container_no-responsive.mn-related-container
+nr2k3.weebly.com##.kb-content
+||slot1-images.wikia.nocookie.net^$script,domain=nr2k3.fandom.com,important
+www.zeipad.com##.ICON.BOTTOM.LIGHT.BAR.sqs-cookie-banner-v2
+www.matthiashaltenhof.de##.cookie-notice-container
+||www.netigate.se/a/js/questions.js$script,domain=www.netigate.se,important
+www.tuv.com##.cc-color-override--1272340228.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||www.tuev-nord.de/typo3conf/ext/tuev_nord_cookies/*$script,domain=www.tuev-nord.de,important
+www.futurezone.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
