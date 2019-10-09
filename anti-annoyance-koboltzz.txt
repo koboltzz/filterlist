@@ -817,6 +817,8 @@ community.bugbeargames.com##.notice--cookie.notice--primary.js-notice.notice
 theitbros.com##.cookie-notice-container
 billykks.blogspot.com###cookieChoiceInfo
 homematic-forum.de##.cc_container--open.cc_container.cc_banner
+www.fliegerflitzer.de##.cookie-notice-container
+www.bestcheck.de###sp_message_panel_id1570641782133
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
