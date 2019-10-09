@@ -819,6 +819,16 @@ billykks.blogspot.com###cookieChoiceInfo
 homematic-forum.de##.cc_container--open.cc_container.cc_banner
 www.fliegerflitzer.de##.cookie-notice-container
 www.bestcheck.de###sp_message_panel_id1570641782133
+de.oneangrygamer.net###cookie-law-info-bar
+www.gamerankings.com###_evidon_banner
+www.saturn.at###myCustomCookieLayer
+www.real.de###cookie-message
+www.preissuchmaschine.de###cookie-law
+www.philips.de##.p-navigation.p-notification-bar
+www.ersatzteilshop.de###cookie_notice
+www.pcs-campus.de##.cookie-notice-container
+www.myunidays.com##.plain.message
+www.ghacks.net##.optanon-alert-box-wrapper
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
