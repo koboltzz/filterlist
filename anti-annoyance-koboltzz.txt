@@ -838,6 +838,43 @@ www.matthiashaltenhof.de##.cookie-notice-container
 www.tuv.com##.cc-color-override--1272340228.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ||www.tuev-nord.de/typo3conf/ext/tuev_nord_cookies/*$script,domain=www.tuev-nord.de,important
 www.futurezone.de##.cookie-note--dark.cookie-note--bottom.cookie-note
+de.oneangrygamer.net###cookie-law-info-bar
+www.gamerankings.com###_evidon_banner
+www.saturn.at###myCustomCookieLayer
+www.real.de###cookie-message
+www.preissuchmaschine.de###cookie-law
+www.philips.de##.p-navigation.p-notification-bar
+www.ersatzteilshop.de###cookie_notice
+www.pcs-campus.de##.cookie-notice-container
+www.myunidays.com##.plain.message
+www.ghacks.net##.optanon-alert-box-wrapper
+www.moviepilot.de##.jkggBc.sc-4rm7rj-0
+www.lhr-law.de##.cc__container--open.cc__container.cc
+zusammengebaut.com##.cookie-notice-container
+www.wz.de###park-snackbar-cookies
+www.techbook.de##.as-oil-content-overlay
+de.aliexpress.com###j-aliexpress-notice
+||worldbricks.com/modules/mod_cookiesaccept/img/przez.png$image
+worldbricks.com###ca_banner
+www.lego.com##.dyAUWl.CookieBannerstyles__Wrapper-sc-1nn4qlf-0
+www.fernsehserien.de##.cc-color-override--1151047663.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.bild.de##.as-oil-content-overlay
+wienerin.at###CybotCookiebotDialog
+www.serienjunkies.de##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.ionos.de##.cc_banner-wrapper
+www.held-der-steine.de###cm4all-cookie-policy-page
+www.pharmawiki.ch##.cc-color-override--1762072787.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www8.garmin.com###truste-consent-content
+||fundingchoices.google.com^$script,domain=forums.watchuseek.com,important
+forums.watchuseek.com###ukCookiePopup
+www.dcrainmaker.com###eu-cookie-bar
+www.naviboard.de##.cookiePolicyNotice.info
+www.nomanssky.com###cookie-law-info-bar
+www.sofort.de##.cc_banner-wrapper.alert-box
+www.klarna.com##.cc_banner-wrapper.alert-box
+www.redbubble.com##.styles__paddingRight-1--1g1Gg.styles__padding-1--2uY5j.styles__justifyContent-space-between--15rSp.styles__alignItems-center--2ayqI.styles__display-flex--1Kw4S.styles__toast--3K_qu.styles__box--206r9
+www.disboards.com##.js-notices.notices--bottom_fixer.notices > .custom-notice.js-notice.notice > .notice-content
+www.disboards.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
