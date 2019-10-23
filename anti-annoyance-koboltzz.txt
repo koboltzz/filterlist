@@ -779,7 +779,7 @@ www.userbenchmark.com##.nb-parent
 www.3dmark.com##.optanon-alert-box-wrapper
 entertainment.unitymedia.de##.gdpr_main
 ||static.quantcast.mgr.consensu.org^$script,domain=forums.tomshardware.com,important
-||slot1-images.wikia.nocookie.net/__load/-/*$script,domain=jedipedia.fandom.com,important
+! ||slot1-images.wikia.nocookie.net/__load/-/*$script,domain=jedipedia.fandom.com,important
 jedipedia.fandom.com###WikiaRail
 www.bym.de##.guj-cb
 www.kleiderkreisel.de##.c-cell--default.c-cell--primary.c-cell--wide.c-cell
@@ -831,7 +831,7 @@ www.myunidays.com##.plain.message
 www.ghacks.net##.optanon-alert-box-wrapper
 gamewii.net##.mn-related-container_no-responsive.mn-related-container
 nr2k3.weebly.com##.kb-content
-||slot1-images.wikia.nocookie.net^$script,domain=nr2k3.fandom.com,important
+! ||slot1-images.wikia.nocookie.net^$script,domain=nr2k3.fandom.com,important
 www.zeipad.com##.ICON.BOTTOM.LIGHT.BAR.sqs-cookie-banner-v2
 www.matthiashaltenhof.de##.cookie-notice-container
 ||www.netigate.se/a/js/questions.js$script,domain=www.netigate.se,important
@@ -907,8 +907,6 @@ www.youtube.com###dialog
 www.kaffee.de##.cc-color-override-1775173914.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ||storage.proboards.com/forum/js/proboards.combined_953.js$script,domain=seamonkey.boards.net
 contranetwork.it##.thb-cookie-bar
-||slot1-images.wikia.nocookie.net/__am/1571317786767/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=pirates.fandom.com,important
-||slot1-images.wikia.nocookie.net/__am/1571317786767/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=piratesonline.fandom.com,important
 www.wbs-law.de##.uc-banner-content
 www.yourwobb.com##.newsletterwrapper
 www.leitlinien.de###cookie-information
@@ -919,6 +917,11 @@ www.mba-studium.de##.isFixed.leaderboard
 customizeminifiguresintelligence.wordpress.com###eu-cookie-law
 lepin.weebly.com###kb-container
 www.bookmetrix.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
+||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=lego.fandom.com,important
+||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=jedipedia.fandom.com,important
+||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=nr2k3.fandom.com,important
+||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=piratesonline.fandom.com,important
+||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=pirates.fandom.com,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
