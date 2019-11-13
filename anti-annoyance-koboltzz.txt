@@ -902,7 +902,6 @@ www.top10spielzeug.de##.eupopup-color-default.eupopup-container-bottom.eupopup-c
 www.promobricks.de##.cookie-notice-container
 www.flickr.com##.foot-banner-style.basic-banner
 www.youtube.com##.opened
-||consent.google.com/$subdocument
 www.youtube.com###dialog
 www.kaffee.de##.cc-color-override-1775173914.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ||storage.proboards.com/forum/js/proboards.combined_953.js$script,domain=seamonkey.boards.net
@@ -922,6 +921,43 @@ www.bookmetrix.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
 ||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=nr2k3.fandom.com,important
 ||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=piratesonline.fandom.com,important
 ||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=pirates.fandom.com,important
+||slot1-images.wikia.nocookie.net/__am/*/groups/-/abtesting,oasis_blocking,universal_analytics_js,adengine3_top_js,tracking_opt_in_js,qualaroo_blocking_js$script,domain=fluch-der-karibik.fandom.com,important
+www.bricklink.com###email_marketing_modal
+||assets.jimstatic.com/web.js.b70027fa55157c3409c0.js$script,domain=www.fokus-ekg.de,important
+www.dllme.com##.cc-color-override-52627589.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.kimovil.com###code_cookies
+www.mobiflip.de##.cc-color-override-530831885.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+gadgets.ndtv.com###bnotify
+interfe.net##.cc-color-override-1332973529.cc-bottom.cc-theme-block.cc-type-false.cc-banner.cc-window
+ex-ratgeber.info##.cc-color-override-1332973529.cc-bottom.cc-theme-classic.cc-type-false.cc-banner.cc-window
+www.trennungsschmerzen.de##.cc_container--open.cc_container.cc_banner
+||cdn.trennungsschmerzen.de^$script,domain=www.trennungsschmerzen.de,important
+www.elitepartner.de###pegCookiebanner
+||openelec.tv/user/plugins/cookiespolicy/assets/js/cookiechoices.js$script,first-party,important
+www.androidpit.de##.fixed-element_fixed.gptSlot__sticky-footer
+@@||www.reddit.com/timings/perf$xmlhttprequest,domain=www.reddit.com
+iosgods.com###elGuestTerms
+apkpure.com###policy-info
+www.frischeporno.com##.cc-color-override--1052947973.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.drtuber.com###cookie-policy
+www.msdmanuals.com###CookieReportsPanel > div:nth-of-type(1)
+www.msdmanuals.com###CookieReportsPanel
+www.netdoktor.de###sp_message_id1573239791977
+www.ukm.de##.cc_container--open.cc_container.cc_banner
+www.kodi-tipps.de##.cookie-notice-container
+www.comparitech.com##.ct-cookie-consent-pop
+www.dhz-online.de##.cc_container--open.cc_container.cc_banner
+www.mh-hannover.de##.cc_container--open.cc_container.cc_banner
+www.rund-ums-baby.de##.cc_container--open.cc_container.cc_banner
+www.marien-hospital-witten.de##.cc-color-override-1606676756.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+leitlinien.dgk.org###cookie-law-info-bar
+kardiologie.uk-essen.de##.cookie-notice-container
+seamonkey.boards.net###birtjzb
+www.uni-muenster.de###cookies
+ch.universimed.com###cookie-alert
+||storage.proboards.com/forum/js/proboards.combined_966.js$script,domain=seamonkey.boards.net,important
+||cdn.netdoktor.de/js/messaging-v2.0.1181.js$script,domain=www.netdoktor.de,important
+seamonkey.boards.net###dxpf
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
