@@ -958,6 +958,15 @@ ch.universimed.com###cookie-alert
 ||storage.proboards.com/forum/js/proboards.combined_966.js$script,domain=seamonkey.boards.net,important
 ||cdn.netdoktor.de/js/messaging-v2.0.1181.js$script,domain=www.netdoktor.de,important
 seamonkey.boards.net###dxpf
+@@||natune.net/js/forum/advertisement.js$script,first-party
+www.gala.de##.guj-cb
+www.urologielehrbuch.de##.cc-color-override--1360619034.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+diebriefprofis-blog.de##.cookie-notice-container
+www.sekada.de##.cc_container--open.cc_container.cc_banner
+www.neurologen-und-psychiater-im-netz.org##.cc-color-override-2031047490.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+ivrt.de##.cookie-hinweis
+www.schwindel-therapie-hamburg.de###cc-cookie-law
+www.karstenwolf.com##.cc-color-override-650638514.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
