@@ -967,6 +967,19 @@ www.neurologen-und-psychiater-im-netz.org##.cc-color-override-2031047490.cc-bott
 ivrt.de##.cookie-hinweis
 www.schwindel-therapie-hamburg.de###cc-cookie-law
 www.karstenwolf.com##.cc-color-override-650638514.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+ddnss.de##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+airvpn.org###cookieLaw
+www.router-forum.de###cms_dp_bar
+www.lz.de###cmpbox
+douploads.net###gdpr-cookie-notice
+||quantcast.mgr.consensu.org/cmp.js$script,domain=forums.tomsguide.com,important
+utopia.de##.cc_container--open.cc_container.cc_banner
+@@||utopia.de/advertisement.js$xhr,1p
+www.beautyjunkies.de##.cc_container--open.cc_container.cc_banner
+zattoo.com##.PXP-z
+zattoo.com##.zrs_1Scz3
+www.deepl.com##body > div:nth-of-type(9)
+alternativeto.net##.iubenda-cs-content
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
