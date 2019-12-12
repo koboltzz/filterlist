@@ -935,7 +935,7 @@ www.trennungsschmerzen.de##.cc_container--open.cc_container.cc_banner
 www.elitepartner.de###pegCookiebanner
 ||openelec.tv/user/plugins/cookiespolicy/assets/js/cookiechoices.js$script,first-party,important
 www.androidpit.de##.fixed-element_fixed.gptSlot__sticky-footer
-@@||www.reddit.com/timings/perf$xmlhttprequest,domain=www.reddit.com
+@@||www.reddit.com/timings/*$xhr,domain=www.reddit.com,important
 iosgods.com###elGuestTerms
 apkpure.com###policy-info
 www.frischeporno.com##.cc-color-override--1052947973.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
@@ -980,6 +980,14 @@ zattoo.com##.PXP-z
 zattoo.com##.zrs_1Scz3
 www.deepl.com##body > div:nth-of-type(9)
 alternativeto.net##.iubenda-cs-content
+www.leading-medicine-guide.de###usercentrics-button
+www.doccheck.com##.ng-star-inserted.fixed-bottom.dc-cookie-disclaimer
+@@||www.google.de/gen_204$ping,domain=www.google.de,important
+www.netzwelt.de##.as-oil-content-overlay
+stadt-bremerhaven.de##.recent-posts
+stadt-bremerhaven.de##.recent-posts__heading
+www.vitaminb12.de##.cc-color-override-1827372716.cc-right.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+www.menshealth.de##.v-A_-cookie__monster
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
