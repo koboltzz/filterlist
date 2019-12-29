@@ -988,6 +988,19 @@ stadt-bremerhaven.de##.recent-posts
 stadt-bremerhaven.de##.recent-posts__heading
 www.vitaminb12.de##.cc-color-override-1827372716.cc-right.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 www.menshealth.de##.v-A_-cookie__monster
+tarnkappe.info##.cc-color-override--195862830.cc-bottom.cc-theme-block.cc-type-false.cc-banner.cc-window
+mixed.de##.cookie-notice-container
+www.famulatur-ranking.de##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.bvmd.de##.cc_container--open.cc_container.cc_banner
+www.stfranziskus.de##.visible-lg.visible-md.auto-init.ce-spacing-bottom-small.ce-spacing-top-none.container-full-width.ce-puzzle.ce.cookieconsent__inner
+www.kkrn.de##.cc_container--open.cc_container.cc_banner
+www.kkrn.de##.cc_banner-wrapper
+www.radiologie-marl-haltern.de###cookie_alert
+www.xn--rntgenpraxis-recklinghausen-pyc.de##.cc_container--open.cc_container.cc_banner
+www.ekonline.de##.cc-color-override-746599741.cc-bottom.cc-theme-cosmo.cc-type-info.cc-banner.cc-window
+www.talospace.com##.cookie-choices-inner
+www.talospace.com###cookieChoiceInfo
+pinoytechsaga.blogspot.com###cookieChoiceInfo
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
