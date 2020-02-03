@@ -1102,6 +1102,44 @@ bluray-disc.de###cookie-bar
 www.sat1.de##.cookie-banner
 www.parship.de###pegCookiebanner
 dgk.org###cookie-law-info-bar
+micro-needling.org##.cc-color-override--966080386.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+www.estheticon.de###cookies-agreement
+www.textwende.de###SgCookieOptin
+www.lehrerfreund.de###cookieChoiceInfo
+www.karriere-jet.de##.cc_container--open.cc_container.cc_banner
+tarnkappe.info##.billboard
+www.cmd-arztsuche.de##.cc-color-override-404392457.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||www.apotheken-umschau.de/js/diyscmp.min.js$script,domain=www.apotheken-umschau.de
+twitter.com##.r-13qz1uu.r-13fypes.r-1sp51qo.r-18u37iz.r-1upvrn0.r-gvpnoh.css-1dbjc4n
+www.escardio.org##.optanon-alert-box-wrapper
+www.maennergesundheit.info##.cc-color-override--1338611334.cc-bottom.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
+||static.quantcast.mgr.consensu.org/v26/cmpui-banner.js$script,domain=de.pons.com,important
+whatismyipaddress.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.degam.de##.cc_container--open.cc_container.cc_banner
+www.bibliomed-pflege.de###CybotCookiebotDialog
+www.dgpsf-verein.de##.cc-color-override-2006606103.cc-right.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+www.krebsgesellschaft.de##.cookiebar--active.cookiebar--position-top.cookiebar
+www.paradisi.de###Cookies > div
+www.dmkg.de##.cookiebar--active.cookiebar--position-bottom.cookiebar
+www.tutonaut.de##.cc-color-override-297659083.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.laborwert.info###cookieChoiceInfo
+www.lokalkompass.de##.cc-bottom.cc-theme-ggm-custom.cc-type-info.cc-banner.cc-window
+www.kitanetz.de##.cc-color-override-1604385627.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+karadeniz.autopartner-portal.de##.cookie-message
+www.arzt-auskunft.de##.cc-color-override-1219736311.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+rusche.de##.pea_cook_bottomright.pea_cook_wrapper
+ladr.de###sliding-popup > div
+www.kardiologie.org##.optanon-alert-box-wrapper
+www.dimdi.de###cookiedisclaimer
+||app.usercentrics.eu/uat/bundle.js$script,domain=www.heise.de
+corz.org###cookie-notice
+www.afterdawn.com##.cc_container--open.cc_container.cc_banner
+www.snapfiles.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+www.rki.de###cookiebanner
+www.zeitblueten.com##.cc-color-override--355542678.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+www.sprueche-wuensche-gruesse.de###cookieChoiceInfo
+www.welt.de##.as-oil-content-overlay
+www.camp-firefox.de##.cookiePolicyNotice.info
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
