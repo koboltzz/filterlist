@@ -546,7 +546,6 @@ www.bbq-treff.de##.cc-color-override--1711494363.cc-bottom.cc-theme-block.cc-typ
 www.backenmachtgluecklich.de###catapult-cookie-bar
 www.springlane.de##.clear.coockieBar
 uploadever.com###gdpr-cookie-notice
-www.telekom.de###tsde-1
 gls-group.eu###cookiePopup
 www.vollmacht-muster.de###cookie-law-info-bar
 www.rapidtables.com##.cc-color-override--164332451.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
