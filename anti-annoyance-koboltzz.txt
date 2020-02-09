@@ -1140,6 +1140,37 @@ www.zeitblueten.com##.cc-color-override--355542678.cc-left.cc-bottom.cc-theme-cl
 www.sprueche-wuensche-gruesse.de###cookieChoiceInfo
 www.welt.de##.as-oil-content-overlay
 www.camp-firefox.de##.cookiePolicyNotice.info
+www.bildderfrau.de##.cookie-note--dark.cookie-note--bottom.cookie-note
+healthcare-in-europe.com###cookie-message
+www.yearsofterror.eu##.cookie-notice-container
+www.blairwitch.de##.cookie-notice-container
+www.smarticular.net##.cookie-banner__content
+forum.frag-mutti.de###mobile-nl-form
+www.uniklinikum-jena.de##.cookie-bar
+www.zentralklinik.de##.cookie_overlay
+www.zentralklinik.de##.cookie_message
+www.medfuehrer.de##.cb-test-class.cookie-bar > .inner
+www.uniklinik-freiburg.de##.as-oil-overlay.as-oil
+www.symptoma.at###legalNotice
+liebe.gofeminin.de###af-cookie-policy
+forum.buffed.de##.dataPrivacyOverlay
+www.lego.com##.jEnvUI.AgeGatestyles__GrownUps-xudtvj-3.AgeGatestyles__Panel-xudtvj-2
+www.lego.com##.dPHMFa.AgeGatestyles__Kids-xudtvj-5.AgeGatestyles__Panel-xudtvj-2
+www.lego.com##.kGLokO.AgeGatestyles__CookieDisclaimer-xudtvj-18
+www.lego.com##.ixzfKl.AgeGatestyles__Wrapper-xudtvj-0
+www.lego.com##.dyAUWl.CookieBannerstyles__Wrapper-sc-1nn4qlf-0
+rathaus.dortmund.de###cookieNoteBox
+www.diakoniedortmund.de##.cc_container--open.cc_container.cc_banner
+www.frauenhaus-dortmund.de###cookie
+www.kober-do.de###cc-cookie-law
+mitternachtsmission.de##.cookie-notice-container
+asta-dortmund.de###catapult-cookie-bar
+www.gesamtschule-scharnhorst.de###cookie-law-info-bar
+www.dortmund.de###cookieNoteBox
+www.kenhub.com##.in.fade.modal-backdrop
+www.kenhub.com###training_cta_modal
+www.priscillacosmetic.ch###redim-cookiehint
+graslutscher.de##.pea_cook_bottomright.pea_cook_wrapper
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
