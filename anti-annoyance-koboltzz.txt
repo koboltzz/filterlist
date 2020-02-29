@@ -1202,6 +1202,10 @@ amazon-info.lbb.de###cookie-law-info-bar
 www.ifun.de##.cc_container--open.cc_container.cc_banner
 www.wunschliste.de##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 ||assets.thalia.media/ocsassets/heimdall/js/components/*$script,domain=www.thalia.de,important
+www.wie-flirte-ich.com###catapult-cookie-bar
+www.inmaris.de##.cc-color-override-688238583.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+pitopia.de##.cc-color-override-253856248.cc-top.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.boxcryptor.com##._celxn7
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
