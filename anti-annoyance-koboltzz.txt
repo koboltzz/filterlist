@@ -1171,6 +1171,37 @@ www.kenhub.com##.in.fade.modal-backdrop
 www.kenhub.com###training_cta_modal
 www.priscillacosmetic.ch###redim-cookiehint
 graslutscher.de##.pea_cook_bottomright.pea_cook_wrapper
+appnee.com#@#+js(nobab)
+www.aerztezeitung.at##.cc_container--open.cc_container.cc_banner
+www.aerztezeitung.at##.cc_banner-wrapper
+www.zauberspiegel-online.de###redim-cookiehint
+board.jdownloader.org##.cc_banner-wrapper
+tarnkappe-forum.info##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.sanier.de##.cookie-notice-container
+www.gelsenkirchen.de###cookiehinweis
+www.teckalacarte.com###eu-cookie-law
+www.blutwert.net###datenschutzhinweis
+visario.de##.cc-color-override-688238583.cc-right.cc-top.cc-theme-block.cc-type-info.cc-floating.cc-window
+www.hamburch-photography.de##._2fUqY
+www.leinwanddruck23.de##.cc-color-override--1254661338.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.yatego.com##.cc_container--open.cc_container.cc_banner
+ideas.lego.com###prompt-footer
+en.usenet.nl##.cc-color-override--944017182.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+aregon37.blogspot.com###cookieChoiceInfo
+buildarmy.com##.cookie-notice-container
+www.nulledteam.com##.notice--cookie.notice--primary.js-notice.notice > .uix_noticeInner > .notice-content
+techzone.vmware.com###_evidon_banner
+www.christiaanbrinkhoff.com###moove_gdpr_cookie_info_bar
+www.elecard.com###modal-cookies
+www.finya.de##.as-oil-content-overlay
+||www.lablue.de/uimg/d/e/D9D7hZvl0iss.tiff$image
+||www.lablue.de/uimg/d/e/5fnR1xvl0iss.tiff$image
+imgegenteil.de###catapult-cookie-bar
+www.wg-gesucht.de##.cookie-consent-top.cookie-consent
+amazon-info.lbb.de###cookie-law-info-bar
+www.ifun.de##.cc_container--open.cc_container.cc_banner
+www.wunschliste.de##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+||assets.thalia.media/ocsassets/heimdall/js/components/*$script,domain=www.thalia.de,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
