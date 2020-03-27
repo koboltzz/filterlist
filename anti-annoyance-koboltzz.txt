@@ -1206,6 +1206,24 @@ www.wie-flirte-ich.com###catapult-cookie-bar
 www.inmaris.de##.cc-color-override-688238583.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 pitopia.de##.cc-color-override-253856248.cc-top.cc-theme-classic.cc-type-info.cc-banner.cc-window
 www.boxcryptor.com##._celxn7
+extreme.pcgameshardware.de###post_rec2
+extreme.pcgameshardware.de###post_rec
+||consent-st.trustarc.com/asset/notice.js/v/*$script,domain=help.dyn.com,important
+||consent-st.trustarc.com/asset/notice.js/v/*$script,domain=dyn.com,important
+||static.quantcast.mgr.consensu.org^$script,domain=forum.xda-developers.com,important
+medium.com##.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.hh.sm.sl.sk.sj.si.sh.sg.sf.se.sd.sc.sb.sa.rz.ry.rx.rw.rv.ak.ru.jj.t.s
+kodi.tv##.info.popup-content
+tarnkappe.info##body > div:nth-of-type(2)
+www.pornhub.com###videoCategory > .alpha
+www.pornhub.com##.pjddfngsmg
+www.pornhub.com##.dfngrmfnhu
+||tarnkappe.info/wp-content/plugins/TarnDSGVO/js/*$script,1p,important
+unlockerdownloads.com##.cookie-notice-container
+www.provideocoalition.com##.ot-sdk-container > .ot-sdk-row
+www.merkur.de##.id-CookieConsent
+blog.chromium.org###cookieChoiceInfo
+www.bunte.de##.cleverpush-confirm-1.cleverpush-confirm-firefox.cleverpush-confirm-chrome.cleverpush-confirm-speechbubble.cleverpush-confirm
+www.bunte.de##.h-auto.shadow-xs.bottom-0.left-0.z-880.w-full.bg-white.flex.fixed
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
