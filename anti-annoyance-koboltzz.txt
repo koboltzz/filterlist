@@ -1224,6 +1224,33 @@ www.merkur.de##.id-CookieConsent
 blog.chromium.org###cookieChoiceInfo
 www.bunte.de##.cleverpush-confirm-1.cleverpush-confirm-firefox.cleverpush-confirm-chrome.cleverpush-confirm-speechbubble.cleverpush-confirm
 www.bunte.de##.h-auto.shadow-xs.bottom-0.left-0.z-880.w-full.bg-white.flex.fixed
+www.wie-flirte-ich.com###catapult-cookie-bar
+www.antary.de##.cc-color-override--1817837154.cc-bottom.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
+errorfixer.co###eu-cookie-law
+answers.ea.com##.cookie_content
+www.naturheilcenter-jagiella.de##.cookie-notice-container
+www.software-virtualisierung.de###redim-cookiehint
+www.sepago.de##.cookie-notice-container
+www.freenet.de##.cc_container--open.cc_container.cc_banner
+auth.freenet.de##.cc_container--open.cc_container.cc_banner
+webmail.freenet.de##.cc_container--open.cc_container.cc_banner
+picotorrent.en.softonic.com##.hide-accept-button.optanon-alert-box-wrapper
+en.softonic.com##.hide-accept-button.optanon-alert-box-wrapper
+beingwinsysadmin.blogspot.com###cookieChoiceInfo
+www.bontersoft.cc###cookieChoiceInfo
+www.moviejones.de##.as-oil-content-overlay
+filmbesprechungen.wordpress.com###eu-cookie-law
+filmchecker.wordpress.com###eu-cookie-law
+||ddl-warez.to/images/cyberghost_promo.gif$image
+www.praxis-dr-sistig.de##.cc_container--open.cc_container.cc_banner
+www.brutto-netto-rechner.info##.eupopup-color-default.eupopup-container-bottom.eupopup-container
+de.clearblue.com##.active.kali-cc-bandeau
+www.babyclub.de##.cookie-warning
+www.prodad.com###sl_cookie_info
+www.prodad.nl###cookiebar
+xiaomi.eu##.notice--cookie.notice--primary.js-notice.notice > .uix_noticeInner > .notice-content
+schrotundkorn.de##.cc_container--open.cc_container.cc_banner
+www.meinestadt.de##.o-cookieOk
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
