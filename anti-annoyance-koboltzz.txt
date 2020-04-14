@@ -124,7 +124,6 @@ outlook.live.com###msccBanner
 www.pornhub.com###abAlert
 eref.thieme.de##.cc-color-override--1021649625.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 link.springer.com##.optanon-alert-box-bg
-tarnkappe.info###cookie-law-info-bar
 zer0cod3.weebly.com##.kb-content
 de.gearbest.com##.siteNewUser_content
 de.gearbest.com##.layui-layer-content
@@ -987,7 +986,6 @@ stadt-bremerhaven.de##.recent-posts
 stadt-bremerhaven.de##.recent-posts__heading
 www.vitaminb12.de##.cc-color-override-1827372716.cc-right.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 www.menshealth.de##.v-A_-cookie__monster
-tarnkappe.info##.cc-color-override--195862830.cc-bottom.cc-theme-block.cc-type-false.cc-banner.cc-window
 ||nvpn.net/images/banner.gif$image
 www.thecustomdroid.com###cookie-consent-lite
 www.personalmanagementkongress.de##.cookie-notice-container
@@ -997,8 +995,6 @@ www.grin.com##.cookie-notification
 branchenbuch.meinestadt.de##.o-cookieOk
 personensuche.dastelefonbuch.de##.sticky_cookie
 switchbounty.com##.switc-widget.swidgets-wrap.widget.header-widget
-tarnkappe.info##.error.mobile-hide
-tarnkappe.info##center:nth-of-type(1)
 www.aerztezeitung.de###fi-cookieconsent
 mixed.de##.cookie-notice-container
 www.famulatur-ranking.de##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
@@ -1107,7 +1103,6 @@ www.estheticon.de###cookies-agreement
 www.textwende.de###SgCookieOptin
 www.lehrerfreund.de###cookieChoiceInfo
 www.karriere-jet.de##.cc_container--open.cc_container.cc_banner
-tarnkappe.info##.billboard
 www.cmd-arztsuche.de##.cc-color-override-404392457.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ||www.apotheken-umschau.de/js/diyscmp.min.js$script,domain=www.apotheken-umschau.de
 twitter.com##.r-13qz1uu.r-13fypes.r-1sp51qo.r-18u37iz.r-1upvrn0.r-gvpnoh.css-1dbjc4n
@@ -1176,7 +1171,6 @@ www.aerztezeitung.at##.cc_container--open.cc_container.cc_banner
 www.aerztezeitung.at##.cc_banner-wrapper
 www.zauberspiegel-online.de###redim-cookiehint
 board.jdownloader.org##.cc_banner-wrapper
-tarnkappe-forum.info##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 www.sanier.de##.cookie-notice-container
 www.gelsenkirchen.de###cookiehinweis
 www.teckalacarte.com###eu-cookie-law
@@ -1213,11 +1207,9 @@ extreme.pcgameshardware.de###post_rec
 ||static.quantcast.mgr.consensu.org^$script,domain=forum.xda-developers.com,important
 medium.com##.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.hh.sm.sl.sk.sj.si.sh.sg.sf.se.sd.sc.sb.sa.rz.ry.rx.rw.rv.ak.ru.jj.t.s
 kodi.tv##.info.popup-content
-tarnkappe.info##body > div:nth-of-type(2)
 www.pornhub.com###videoCategory > .alpha
 www.pornhub.com##.pjddfngsmg
 www.pornhub.com##.dfngrmfnhu
-||tarnkappe.info/wp-content/plugins/TarnDSGVO/js/*$script,1p,important
 unlockerdownloads.com##.cookie-notice-container
 www.provideocoalition.com##.ot-sdk-container > .ot-sdk-row
 www.merkur.de##.id-CookieConsent
