@@ -1265,6 +1265,9 @@ www.lieferando.de##.cc-banner-legacy__container
 ipinfo.info##.cc-color-override-688238583.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 www.dein-ip-check.de##.uc-banner-content
 www.hochdachkombi.de##.noticeContent.baseHtml
+de.xhamster.desi##.no-popunder.cookie-announce.bottom-announce
+www.braunschweiger-zeitung.de##.cookie-note--dark.cookie-note--bottom.cookie-note
+www.spielfilm.de###usecookies
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
