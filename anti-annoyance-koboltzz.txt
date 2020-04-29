@@ -1268,6 +1268,37 @@ www.hochdachkombi.de##.noticeContent.baseHtml
 de.xhamster.desi##.no-popunder.cookie-announce.bottom-announce
 www.braunschweiger-zeitung.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 www.spielfilm.de###usecookies
+www.aktuelle-kalenderwoche.org##.cc_container--open.cc_container.cc_banner
+||static.quantcast.mgr.consensu.org/v32/cmpui-banner.js$script,domain=www.windowsphoneinfo.com,important
+blog-fluxkompensator.de###eu-cookie-law
+www.filmtoast.de##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
+koopahtmaniac.com###gdpr-cookie-message
+ou.medizintogo.de##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
+windowsarea.de##.moove-gdpr-info-bar-container
+windowsarea.de###moove_gdpr_cookie_info_bar
+www.wintotal.de##.show-cookie-box._brlbs-bg-dark._brlbs-block-content.middle-center
+www.heise.de###uc-btn-outside-click-banner-modal
+||www.heise.de/icons/svg/logos/svg/heiseonline_dark.svg$image
+www.heise.de##.uc-banner-content
+||static.quantcast.mgr.consensu.org/v32/cmpui-popup.js$script,domain=www.techradar.com,important
+www.techradar.com##.region_redirect_popup_asset
+www.mcseboard.de##.cc-color-override-1827372716.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+www.techrepublic.com##.ot-fade-in.onetrust-pc-dark-filter
+www.techrepublic.com###onetrust-button-group
+www.techrepublic.com##.ot-sdk-container > .ot-sdk-row
+www.slashcam.com###cookieChoiceInfo
+www.buffed.de##.dataPrivacyOverlay
+www.whatismyip.com##.cc-color-override--1360619034.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.thewindowsclub.com###ez-cookie-dialog-wrapper
+||consent.trustarc.com/asset/notice.js/v/v1.7-14$script,domain=www.forbes.com
+tricksmaze.org##.cookie-notice-container
+www.easeus.com##[href="/campaign/work-from-home-2020.html"]
+||www.easeus.com/images_2019/campaign/work-from-home-2020/ad-banner.png$image
+www.easeus.com##.float_banner
+www.easeus.com##.usernotice_pop
+www.philoclopedia.de###cc-cookie-law
+www.g-geschichte.de##.cc_container--open.cc_container.cc_banner
+www.spickipedia.com##.cc-color-override-1570209709.cc-bottom.cc-opacity-100.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
