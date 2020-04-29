@@ -1299,6 +1299,9 @@ www.easeus.com##.usernotice_pop
 www.philoclopedia.de###cc-cookie-law
 www.g-geschichte.de##.cc_container--open.cc_container.cc_banner
 www.spickipedia.com##.cc-color-override-1570209709.cc-bottom.cc-opacity-100.cc-theme-block.cc-type-info.cc-banner.cc-window
+community.memrise.com##.cc_container--open.cc_container.cc_banner
+moodle.org##.eupopup-color-default.eupopup-container-bottom.eupopup-container
+tarnkappe-forum.info##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
