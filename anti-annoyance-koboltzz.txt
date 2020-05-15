@@ -1340,6 +1340,14 @@ www.kino-zeit.de###CybotCookiebotDialog
 www.newyorker.com##.ot-sdk-container > .ot-sdk-row
 www.newyorker.com##.paywall-bar--expanded-content
 www.newyorker.com##.paywall-bar__expanded.paywall-bar-wrapper
+www.frauenaerzte-im-netz.de##.cc-color-override--1776658005.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.hexal.de##.ot-sdk-container > .ot-sdk-row
+www.uniklinikum-dresden.de##.cc-color-override-2137291487.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.krebs-und-ich.de###trackingconsent
+www.kinderaerzte-im-netz.de##.cc-color-override-1552272618.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||www.lg.com/lg5-common-gp/js/e-privacy.min.js$script,domain=www.lg.com,important
+wirtschaftslexikon.gabler.de##.eu-cookie-compliance-banner--default.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
+||quantcast.mgr.consensu.org^$script,domain=www.bleepingcomputer.com,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
