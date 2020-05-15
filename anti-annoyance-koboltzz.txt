@@ -1302,6 +1302,44 @@ www.spickipedia.com##.cc-color-override-1570209709.cc-bottom.cc-opacity-100.cc-t
 community.memrise.com##.cc_container--open.cc_container.cc_banner
 moodle.org##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 tarnkappe-forum.info##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||cds.d6b8y6w3.hwcdn.net^$script,domain=android.gadgethacks.com
+@@||feboni.info/dezaula.js$script,domain=thehouseofportable.com
+@@||www.googletagmanager.com/gtag/js$script,domain=thehouseofportable.com
+@@||www.googletagmanager.com^$script,domain=thehouseofportable.com
+thehouseofportable.com#@#+js(aeld, /contextmenu|selectstart/)
+@@||pagead2.googlesyndication.com^$script,domain=thehouseofportable.com
+@@||www.google-analytics.com^$script,domain=thehouseofportable.com
+@@||www.googletagservices.com^$script,domain=thehouseofportable.com
+@@||feboni.info^$script,domain=thehouseofportable.com
+@@||feboni.info^$stylesheet,domain=thehouseofportable.com
+@@||googleads.g.doubleclick.net^$subdocument,domain=thehouseofportable.com
+@@||adservice.google.com.ua^$script,domain=thehouseofportable.com
+@@||adservice.google.com^$script,domain=thehouseofportable.com
+up-load.io##.container-fluid
+www.tanner.de##.cookie-notice-container
+cameyo.com##.et_section_regular.et_pb_section_3.et_pb_section
+cameyo.com###hs-eu-cookie-confirmation
+www.anaesthesisten-im-netz.de##.cc-color-override--117540083.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+fet-ev.eu###cookie-law-info-bar
+techtest.org##.fadeInDown.animated._brlbs-box-slim._brlbs-box
+www.coolblue.nl##.cookie-notification
+www.planet3dnow.de##.cc_message
+www.planet3dnow.de##.cc_container--open.cc_container.cc_banner
+www.accuratereviews.com##.cookie-notice-container
+pagereboot.com##script:inject(setInterval-defuser.js)
+pagereboot.com##script:inject(set-constant.js, autoRefresh, noopFunc)
+pagereboot.com##script:contains(registeredBloggerCallbacks)
+#||ddl-warez.to/downloads/hauptkategorie/*$inline-script,1p,important
+||www.rlslog.net^$inline-script,domain=www.rlslog.net,important
+||ddl-warez.to^$inline-script,1p
+@@||ddl-warez.to/download/*$inline-script,1p
+jdownloader.org###cookie_info
+www.thunderbird-mail.de##.cookiePolicyNotice.info
+||quantcast.mgr.consensu.org/choice/*$script,domain=www.creativebloq.com,important
+www.kino-zeit.de###CybotCookiebotDialog
+www.newyorker.com##.ot-sdk-container > .ot-sdk-row
+www.newyorker.com##.paywall-bar--expanded-content
+www.newyorker.com##.paywall-bar__expanded.paywall-bar-wrapper
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
