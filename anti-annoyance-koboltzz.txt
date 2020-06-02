@@ -1348,6 +1348,24 @@ www.kinderaerzte-im-netz.de##.cc-color-override-1552272618.cc-bottom.cc-theme-bl
 ||www.lg.com/lg5-common-gp/js/e-privacy.min.js$script,domain=www.lg.com,important
 wirtschaftslexikon.gabler.de##.eu-cookie-compliance-banner--default.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
 ||quantcast.mgr.consensu.org^$script,domain=www.bleepingcomputer.com,important
+www.superherohype.com###cookieNotice
+www.ims-magazin.de###cookie-law-info-bar
+www.filme.de##.pea_cook_bottomcenter.pea_cook_wrapper
+www.diyphotography.net##.cc-color-override-1257174861.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.ratiopharm.de##.uc-banner-content > div
+www.dhm.mhn.de###cookie_info
+www.cholesterinspiegel.de##.cc-color-override--869665039.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+stadt-bremerhaven.de##.wpcc-color-custom--943834009.wpcc-bottom.wpcc-border-thin.wpcc-corners-small.wpcc-corners-round.wpcc-banner.wpcc-container
+www.gamefront.com##.intro_intro--Ntqks
+gaming.stackexchange.com###js-gdpr-consent-banner
+www.amtso.org##.cookie-notice-container
+sichernpc.de##.cc_container--open.cc_container.cc_banner
+geeksadvice.com##.cookie-notice-container
+crack4windows.com##.tibrr-cookie-consent-container
+||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=%23piano-metering&templateId=OTXA2I6LH6LQ&templateVariantId=OTVMV98TIPHGR&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2QXW-CMBSG_0uvrWn5bL0jmxEW3ZxjiJcVWiwCElpAs-y_D5nbsmQXS3pz-rznyZvzBphMwQzgl8t9dPJ37hFMQM0yHkneB1diIANB5EBkQISgSa_PdV3o5SV-PS7Xnd_zdV7bkDgmF6bFEmETnqT7lBCUiL1BkUsNF1uDmJ9r3kheJXxUz-M7HFN3gQffLzo_86TV8lSNMUyQbVkZEsehAUKGyiWm3Oqalpaq0IIclP5t95LvZXU49SEv64Jp7scPK5vsFo-bbTD2OTD1xcBMNy2fAH2bx-WnMPaMwFn6zvIZ_LCINZJV-haJVhElYbD2F5shk7CyZjKrFJhVbVFMQCeV_Ix28O9bEngReZiKxGRFlVu77f4_t5T1oCTWFDt4Su0ppmT4bBVvvIxXemBpL66ddQFm2KYYm65N8PsHseDcI_EBAAA&experienceId=EXC1X97G1777&tbc=%7Bjzx%7DGMnjUssdc0FySWpCLWoVpST2bZyErZQy_Yq0FH6OmQJ28Vbte98bHc5Pb7yxZbdrzsfctnBOn3k32vI54GGJcl8Dq6GDO0memBz86ZfBr3YfuhbBP1iBm-8chKlckEMBWvjm0m3sx3ug1N3YaEmlog&iframeId=offer-0-8vhgI&url=https%3A%2F%2Fwww.handelszeitung.ch%2Fmanagement%2Fdas-rechenbeispiel-fur-donald-trump&parentDualScreenLeft=-7&parentDualScreenTop=-7&$subdocument
+www.handelszeitung.ch##.tp-container-inner
+www.qualitaet-ist-messbar.de##.cookie-notice-container
+www.mirinsoft.com###easycookieinfo
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
