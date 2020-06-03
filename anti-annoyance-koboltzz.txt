@@ -1366,6 +1366,22 @@ crack4windows.com##.tibrr-cookie-consent-container
 www.handelszeitung.ch##.tp-container-inner
 www.qualitaet-ist-messbar.de##.cookie-notice-container
 www.mirinsoft.com###easycookieinfo
+www.lieferando.de##.cc-banner__container
+||static.quantcast.mgr.consensu.org^$script,domain=www.techradar.com,important
+wintechlab.com##.bs-gdpr-law
+www.der-niedergelassene-arzt.de##.cc_container--open.cc_container.cc_banner
+www.strava.com###stravaCookieBanner
+www.tutonaut.de##.cc-color-override-1555677954.cc-left.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+||www.kodi-blog.de/wp-content/plugins/borlabs-cookie/*$script,domain=www.kodi-blog.de,important
+www.nesselsuchtinfo.de##.ot-sdk-container > .ot-sdk-row
+www.psoriasis.info##.ot-sdk-container > .ot-sdk-row
+www.msdmanuals.cn###CookieReportsPanel > div:nth-of-type(1)
+www.msdmanuals.cn##.wscrInner
+www.msdmanuals.cn##.wscrPopup.wscrMainBackground
+www.msdmanuals.cn###CookieReportsButton
+www.exlibris.ch##.hide-cookie-setting-button.hide-accept-button.optanon-alert-box-wrapper
+||www.baby-und-familie.de/js/diyscmp.min.js$script,domain=www.baby-und-familie.de
+www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
