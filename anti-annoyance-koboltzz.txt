@@ -1382,6 +1382,7 @@ www.msdmanuals.cn###CookieReportsButton
 www.exlibris.ch##.hide-cookie-setting-button.hide-accept-button.optanon-alert-box-wrapper
 ||www.baby-und-familie.de/js/diyscmp.min.js$script,domain=www.baby-und-familie.de
 www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
+www.ghacks.net###didomi-notice
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
