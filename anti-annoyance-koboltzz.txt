@@ -1422,6 +1422,17 @@ www.hwk-muenster.de##.cc-color-override--2009907235.cc-bottom.cc-theme-block.cc-
 www.scribbr.de###scw-158427
 www.scribbr.de##.show.fade.modal-backdrop
 www.minimed.at##.cookieContent
+zml.rub.de##.cookie-notice-container
+www.androidpolice.com##.homepage-sponsor
+||www.enzyklopaedie-dermatologie.de/assets/*$script,domain=www.enzyklopaedie-dermatologie.de,important
+||static.quantcast.mgr.consensu.org^$script,domain=www.ultrabookreview.com,important
+||static.quantcast.mgr.consensu.org^$script,domain=www.softpedia.com,important
+www.softpedia.com###cookienotif
+||taz.de/lib/ch/web/js/*$script,1p,important
+www.medical-tribune.de###cookie_consent_notification
+||static.quantcast.mgr.consensu.org^$script,domain=www.artistapirata.com,important
+deximed.de###CybotCookiebotDialog
+www.suchtmittel.de###SpendenMessage
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
