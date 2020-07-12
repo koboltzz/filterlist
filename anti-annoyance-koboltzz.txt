@@ -1383,6 +1383,45 @@ www.exlibris.ch##.hide-cookie-setting-button.hide-accept-button.optanon-alert-bo
 ||www.baby-und-familie.de/js/diyscmp.min.js$script,domain=www.baby-und-familie.de
 www.codeproject.com##.cc-color-override--316233370.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
 www.ghacks.net###didomi-notice
+www.techspot.com###qcCmpUi
+kakiceker.blogspot.com###cookieChoiceInfo
+www.videobuster.de###cookie-consent-banner
+www.netflix.com##.reg.cookie-disclosure-message
+||www.buchreport.de/wp-content/plugins/borlabs-cookie/*$script,domain=www.buchreport.de,important
+||quantcast.mgr.consensu.org^$script,domain=www.express.co.uk,important
+www.janrufmonitor.de##.bst-panel-fixed.group.bst-panel
+||static.quantcast.mgr.consensu.org^$script,domain=www.xda-developers.com,important
+www.lea-drueppel-theater.de##.cc-color-override--1533458208.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+www.deepl.com###dl_app_banner_popup
+||quantcast.mgr.consensu.org/cmp.js$script,domain=www.goldderby.com,important
+wwwm.creativecow.net##object
+www.daskreativeuniversum.de###ez-cookie-dialog-wrapper
+www.vbforums.com###_evidon_banner
+||static.quantcast.mgr.consensu.org^$script,domain=www.filmaffinity.com,important
+||static.quantcast.mgr.consensu.org^$script,domain=de.pons.com,important
+||cdn.snigelweb.com/sncmp/latest/sncmp.min.js$script,domain=www.linguee.de,important
+www.visualstatements.net##.cc-color-override--224556313.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.digitalphoto.de##.cc-color-override--1708618638.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+www.imaging-resource.com##.cc-color-override--1068091855.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+welovebarcelona.de##.cookie-notice-container
+||cdn.cookielaw.org/consent/*$script,domain=www.imodium.de,important
+||honorableland.com^$script,domain=www.rottentomatoes.com
+www.synology-forum.de##.notice--cookie.notice--primary.js-notice.notice > .uix_noticeInner > .notice-content
+ssl.ofdb.de##.cc_container--open.cc_container.cc_banner
+www.songtexte.com###id3
+www.golem.de###golem-cookie-accept
+context.reverso.net###didomi-notice
+emscherblog.de##.uk-position-z-index.uk-position-fixed.uk-position-bottom.uk-section-muted.uk-section-xsmall.uk-section
+www.liebscher-bracht.com###cookie-law-info-bar
+||quantcast.mgr.consensu.org/cmp.js$script,domain=www.researchgate.net,important
+www.bpb.de##.cookie-banner
+www.medon.de##.cc_container--open.cc_container.cc_banner
+filmkunstkinos.de##.cookie-pop > .container
+www.uncut.at##.cookieinfo
+www.hwk-muenster.de##.cc-color-override--2009907235.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.scribbr.de###scw-158427
+www.scribbr.de##.show.fade.modal-backdrop
+www.minimed.at##.cookieContent
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
