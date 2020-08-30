@@ -1433,6 +1433,96 @@ www.medical-tribune.de###cookie_consent_notification
 ||static.quantcast.mgr.consensu.org^$script,domain=www.artistapirata.com,important
 deximed.de###CybotCookiebotDialog
 www.suchtmittel.de###SpendenMessage
+www.pflegestudium.de##.cc-color-override--607909258.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.hno-aerzte-im-netz.de##.cc-color-override--1725460892.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.pari.com###SgCookieOptin
+www.chronische-bronchitis.net##._brlbs-bar
+www.chronische-bronchitis.net##.et_bloom_animated.et_bloom_visible.et_bloom_auto_popup.et_bloom_optin_4.et_bloom_resize.et_bloom_optin.et_bloom_popup
+||www.enzyklopaedie-dermatologie.de/assets/*$script,domain=www.enzyklopaedie-dermatologie.de,important
+||d1kmhjlvxp8o6o.cloudfront.net/public/js/helpful*$script,domain=reviewmeta.com,important
+www.tenforums.com###sncmp-inner-overlay
+www.tenforums.com###sncmp-overlay
+||assets.jimstatic.com/cookieControl.js.*$script,domain=www.w10privacy.de,important
+www.w10privacy.de##.cc-individual-cookie-settings
+||cdn.cookielaw.org/scripttemplates/*$script,domain=download.cnet.com
+pdfcandy.com##.clearfix.subfooter
+pdfcandy.com###cookie-law
+www.kidsgo.de##.cc-color-override-738467382.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.gynopedia.com###redim-cookiehint
+www.mondosano.de##.cookie-notice
+www.medpertise.de##.cookiebanner
+www.mr-fuss.com##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
+derma.plus##.cookie-notice-container
+||meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=C2021_enNL_dsk_FR&banner=B2021_071720_enNL_dsk_p2_sm_txt_cnt&uselang=en&debug=false$script,domain=en.wikipedia.org,important
+||quantcast.mgr.consensu.org/cmp.js$script,domain=www.moviemeter.nl,important
+iffr.com###cookie-warning
+www.stimmenkartei.de##.cookie-notice-container
+||www.drgoerg.com/js/mage/cookies.js$script,domain=www.drgoerg.com
+||consent.cookiebot.com/uc.js$script,domain=www.drgoerg.com,important
+www.psychische-gesundheit-donaueschingen.de##.cc-color-override--248096354.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+mymemory.translated.net###privacy-policy
+||api.heise.de^$subdocument,domain=stadt-bremerhaven.de,important
+jv16powertools.com##.cookie-notice-container
+||www.youtube.com/embed/*$subdocument,domain=forum.xda-developers.com,important
+www.bluebrixx.com##.headline.light.cc_dialog.cc_css_reboot
+www.1zu160.net##.cc_container--open.cc_container.cc_banner
+www.tchibo.de##.ot-sdk-container > .ot-sdk-row
+www.lte-anbieter.info###cookiedings > div
+www.lte-anbieter.info##.cc-color-override--224744625.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.alefo.de##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.dance-charts.de##.cpnb-inner
+il2sturmovik.com###cookieNotice
+www.moviejones.de##.ot-fade-in.onetrust-pc-dark-filter
+www.moviejones.de##.ot-sdk-container > .ot-sdk-row
+www.netflix.com##.cta-btn-container
+||cdn.privacy-mgmt.com^$script,domain=www.cinema.de,important
+www.24vest.de##.cmp_overlay
+www.24vest.de##.cmp_state-stacks.cmp_ext_text.cmp_ui
+mylocation.org##.cc-color-override-1949358587.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+||sdk.privacy-center.org^$script,domain=www.filmstarts.de,important
+||sdk.privacy-center.org^$script,domain=www.moviepilot.de,important
+||cdn.cookielaw.org/scripttemplates/*$script,domain=www.nachrichten.at,important
+free.kaspersky.com##.notification-bar-hidden.bottom.dark.transparent.notification-bar
+www.indiewire.com###onetrust-banner-sdk > .ot-sdk-container
+www.hitchecker.de##.uc-banner-content
+board.perfect-privacy.com##.notice-content
+www.lepinboard.de##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.magcloud.com##.gdpr-banner
+www.holgermatthes.de###holgermatthesbrickscookie
+www.lego.com###IPEdOverlay
+www.lego.com###IPEdInvtL
+steinewuchs.blogspot.com###cookieChoiceInfo
+||app.usercentrics.eu/latest/*$script,domain=www.haertle.de,important
+www.lehmanns.de##.py-5.px-5.simple.dark.cc_dialog
+www.allesbeste.de##.show-cookie-box._brlbs-bg-dark._brlbs-block-content.middle-center
+www.only4gamers.de##.cookie-notice-container
+www.backblaze.com##.ot-sdk-container > .ot-sdk-row
+www.nytimes.com##.b28f1abf.f11a4849
+www.ssd-ratgeber.de##.cookie-notice-container
+ddl-warez.to##div.row:nth-of-type(5):has-text(XXX)
+ddl-warez.to##div.row:nth-of-type(13):has-text(XXX)
+ddl-warez.to##div.row:nth-of-type(12):has-text(XXX)
+ddl-warez.to##div.row:nth-of-type(4):has-text(XXX)
+steinchenfans.de##.cookiePolicyNotice.info
+www.technicdialog.de##.Cookieinfo
+www.technicdialog.de###Cookieinfo
+justbricks.de###tarteaucitronAlertBig
+nitroflare.com###superbox-container
+nitroflare.com###superbox-wrapper
+nitroflare.com###superbox-overlay
+||www.pharmazeutische-zeitung.de/typo3temp/assets/compressed/*$script,domain=www.pharmazeutische-zeitung.de,important
+helpx.adobe.com###onetrust-banner-sdk
+www.cineman.ch##.cc-color-override--828294324.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+filmreporter.de###cookie-consent-banner
+www.filmdienst.de###cookie-banner
+kinocheck.de##.cc-color-override--794198561.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+www.thomas-krenn.com###xtxNavigationOffCookiePolicy > div
+www.thomas-krenn.com###xtxNavigationOffCookiePolicy
+www.thomas-krenn.com##.xtxNavigationOffCanvasOverlay
+correctiv.org##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
+hifi.de##.as-oil-content-overlay
+www.fotocommunity.de###CybotCookiebotDialog
+01150.de###CybotCookiebotDialog
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
