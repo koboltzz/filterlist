@@ -1500,6 +1500,7 @@ www.backblaze.com##.ot-sdk-container > .ot-sdk-row
 www.nytimes.com##.b28f1abf.f11a4849
 www.ssd-ratgeber.de##.cookie-notice-container
 ddl-warez.to##div.row:nth-of-type(5):has-text(XXX)
+ddl-warez.to##div.row:nth-of-type(2):has-text(XXX)
 ddl-warez.to##div.row:nth-of-type(13):has-text(XXX)
 ddl-warez.to##div.row:nth-of-type(12):has-text(XXX)
 ddl-warez.to##div.row:nth-of-type(4):has-text(XXX)
