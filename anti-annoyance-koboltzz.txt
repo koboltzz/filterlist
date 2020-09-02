@@ -1524,6 +1524,11 @@ correctiv.org##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-
 hifi.de##.as-oil-content-overlay
 www.fotocommunity.de###CybotCookiebotDialog
 01150.de###CybotCookiebotDialog
+www.24vest.de##.cmp_overlay
+www.24vest.de##.cmp_state-stacks.cmp_ext_text.cmp_ui
+www.snbforums.com##.js-notices.notices--floating.notices > .notice--primary.js-notice.notice > .notice-content
+www.snbforums.com##.notice--cookie.notice--primary.js-notice.notice > .notice-content
+
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
