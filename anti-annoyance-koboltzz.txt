@@ -1545,7 +1545,7 @@ www.gtabase.com###cookieChoiceInfo
 stadt-bremerhaven.de##.aawp
 ||www.dvd-forum.at/wp-content/plugins/borlabs-cookie/*$script,domain=www.dvd-forum.at,important
 ||cdn-75.privacy-mgmt.com^$script,domain=www.bild.de
-
+@@||cutcaptcha.net/captcha/*$script,domain=filecrypt.cc
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
