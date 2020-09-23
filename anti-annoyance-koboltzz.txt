@@ -1528,6 +1528,23 @@ www.24vest.de##.cmp_overlay
 www.24vest.de##.cmp_state-stacks.cmp_ext_text.cmp_ui
 www.snbforums.com##.js-notices.notices--floating.notices > .notice--primary.js-notice.notice > .notice-content
 www.snbforums.com##.notice--cookie.notice--primary.js-notice.notice > .notice-content
+www.scifinow.co.uk###wbounce-modal-flex
+www.scifinow.co.uk###wbounce-modal
+www.amazon.de###sp-cc
+www.mod-rdr.com##.as-oil-content-overlay
+www.adobe.com###onetrust-banner-sdk > .ot-sdk-container
+kinox.*#@#+js(abort-on-property-read, AaDetector)
+kinox.*#@#+js(abort-on-property-read, decodeURI)
+www.onworks.net##.eupopup-color-default.eupopup-container-bottom.eupopup-container
+www.held-der-steine.de###cookieSettingsDialog
+www.pushsquare.com##.dgp-consent
+@@||cutcaptcha.net^$script,domain=filecrypt.cc
+forum.xda-developers.com##.rsb-bottom > .honor-spon-banner
+||cdn.consentmanager.mgr.consensu.org^$script,domain=www.pc-magazin.de,important
+www.gtabase.com###cookieChoiceInfo
+stadt-bremerhaven.de##.aawp
+||www.dvd-forum.at/wp-content/plugins/borlabs-cookie/*$script,domain=www.dvd-forum.at,important
+||cdn-75.privacy-mgmt.com^$script,domain=www.bild.de
 
 
 ! 9/12/2018, 4:12:11 PM Block annoying amazon ads
