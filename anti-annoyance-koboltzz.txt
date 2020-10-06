@@ -714,7 +714,6 @@ www.samsung.com##.cm-cookie-geo--type-manage.cm-cookie-geo
 forums.tomshardware.com##.jw-player-minimize.jw-loaded
 www.reisemed.at##.cc_container--open.cc_container.cc_banner
 ||www.notebookcheck.com/fileadmin/Sonstiges/amazon_ab_de.html$subdocument
-www.notebookcheck.com###nbc_contentcontainer > div:nth-of-type(1)
 ||www.notebookcheck.net/fileadmin/Sonstiges/amazon_ab_us.html$subdocument
 www.notebookcheck.net###nbc_contentcontainer > div:nth-of-type(1)
 linuxize.com###ez-cookie-dialog-wrapper
