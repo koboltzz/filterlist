@@ -77,6 +77,10 @@ uploadgig.com###freevid
 ###cookie-policy
 ##.cookiePolicyNotice.info
 ##.notice--cookie.notice--primary.js-notice.notice
+##.cc_banner-wrapper
+##.cookieinfo
+||quantcast.mgr.consensu.org^$script
+@@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -182,7 +186,6 @@ www.extremetech.com###_evidon-background
 www.extremetech.com###_evidon-barrier-wrapper
 www.kotte-zeller.de###ws_cookie_layer
 www.sportspar.de##.page-wrap--cookie-permission
-notepad-plus-plus.org##.cc_banner-wrapper
 www.express.co.uk###cmp-container-id
 www.galeria-kaufhof.de##.gk-stickymessage__content
 www.check24.de##.c24-cookie-animate.c24-cookie
@@ -253,7 +256,6 @@ www.tesa-clean-air.com###eu-cookie
 www.urbia.de##.layer-inner
 www.duden.de###sliding-popup
 vimeo.com##.gdpr_banner
-||static.quantcast.mgr.consensu.org/v13/cmpui-banner.js$script,domain=www.guru3d.com,important
 www.borncity.com##.pea_cook_bottomright.pea_cook_wrapper
 www.paketda.de###content_privacy_consent
 www.babycenter.de##.hide-cookie-setting-button.optanon-alert-box-wrapper
@@ -269,8 +271,6 @@ www.inside-handy.de##.qc-cmp-showing.qc-cmp-ui-container
 www.gadgetsnow.com##.consent-popup
 www.areamobile.de##.dataPrivacyOverlay
 www.areamobile.de###cookieChooserWrapper
-||static.quantcast.mgr.consensu.org^$subdocument,domain=www.androidpolice.com,important
-||quantcast.mgr.consensu.org^$script,domain=www.androidpolice.com,important
 www.autoplenum.at###cookie-law
 www.motortests.de##.mt-cc-bnnr
 www.autoplenum.de###cookie-law
@@ -333,7 +333,6 @@ meine.postbank.de##.c-notification__content
 www.postbank.de##.cookie-disclaimer
 telekomhilft.telekom.de###mms-cookie-disclaimer
 abload.de###cookies
-@@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
 www.deepl.com###dl_cookie_footer > div
 www.amazon.de###nav-upnav
 www.pinterest.com##.outerCookieBar
@@ -355,7 +354,6 @@ mobil.teltarif.de###cookie-consent
 www.wikifeet.com##.cc-color-custom--338742448.cc-top.cc-layout-block.cc-type-info.cc-banner.cc-container
 www.nintendolife.com##.cookie-bar.cookie-gdpr
 www.eurogamer.net##.bottom.cookie-bar.cookie-gdpr
-medlexi.de##.cookieinfo
 campus.barracuda.com##.alert-tertiary.alert
 ||www.taschenlampen-forum.de/images/acebeam/Acebeam-P4.gif$image
 ||www.taschenlampen-forum.de/images/folomov/18650S.gif$image
@@ -479,7 +477,6 @@ www.macrorecorder.com##.js-show.pwcmb-widget--notice.pwcmb-widget
 steamcharts.com##.intro_intro--Ntqks
 www.wer-weiss-was.de###cookie_hint
 serverfault.com###js-gdpr-consent-banner
-forums.ivanti.com##.cookieinfo
 www.colorconsole.de###cookiebar
 ||www.asus.com/cookienotice.json$xmlhttprequest,domain=www.asus.com,important
 www.twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text-overlay.tw-c-background-accent-alt-2.tw-align-items-center.gdpr-consent-banner
@@ -490,7 +487,6 @@ www.berliner-kurier.de##.optanon-alert-box-bg
 www.berliner-kurier.de##.hide-cookie-setting-button.optanon-alert-box-wrapper
 bestware.com###notice-cookie-block
 login.live.com###msccBanner
-www.technic-dialog.de##.Cookieinfo
 www.technic-dialog.de###Cookieinfo
 www.lego.com##.l-accept.l-sticky-gf__accept
 ! www.reddit.com##.czhyGp.yscgwn-2
@@ -575,7 +571,6 @@ sensorstechforum.com###cookiescript_injected
 filehippo.com##.optanon-alert-box-wrapper
 osdn.net##.cookie-bar__inner
 www.cinemaxx.de##.active.cookie-msg > .container-small.container
-||static.quantcast.mgr.consensu.org^$script,domain=www.thetvdb.com,important
 shop.apotal.de###cookie-message
 shop.apotal.de###customSkyBanner
 www.lovemyfire.com##.show.bottom.eucookiebar
@@ -584,7 +579,6 @@ www.howtogeek.com##.overlay-inner
 www.userbenchmark.com##.nb-parent
 www.3dmark.com##.optanon-alert-box-wrapper
 entertainment.unitymedia.de##.gdpr_main
-||static.quantcast.mgr.consensu.org^$script,domain=forums.tomshardware.com,important
 ! ||slot1-images.wikia.nocookie.net/__load/-/*$script,domain=jedipedia.fandom.com,important
 jedipedia.fandom.com###WikiaRail
 www.bym.de##.guj-cb
@@ -605,8 +599,6 @@ www.kino-zeit.de###FwlzZtuxQTdp
 www.spotify.com###js-message-bar-cookie-notice
 www.hallmark.de###cookie--container
 www.tellows.de##.container
-||static.quantcast.mgr.consensu.org^$script,domain=segmentnext.com,important
-||static.quantcast.mgr.consensu.org^$script,domain=windowsreport.com,important
 www.bestcheck.de###sp_message_panel_id1570641782133
 www.saturn.at###myCustomCookieLayer
 www.real.de###cookie-message
@@ -638,14 +630,11 @@ de.aliexpress.com###j-aliexpress-notice
 ||worldbricks.com/modules/mod_cookiesaccept/img/przez.png$image
 worldbricks.com###ca_banner
 www.bild.de##.as-oil-content-overlay
-www.ionos.de##.cc_banner-wrapper
 www.held-der-steine.de###cm4all-cookie-policy-page
 www8.garmin.com###truste-consent-content
 ||fundingchoices.google.com^$script,domain=forums.watchuseek.com,important
 forums.watchuseek.com###ukCookiePopup
 www.dcrainmaker.com###eu-cookie-bar
-www.sofort.de##.cc_banner-wrapper.alert-box
-www.klarna.com##.cc_banner-wrapper.alert-box
 www.redbubble.com##.styles__paddingRight-1--1g1Gg.styles__padding-1--2uY5j.styles__justifyContent-space-between--15rSp.styles__alignItems-center--2ayqI.styles__display-flex--1Kw4S.styles__toast--3K_qu.styles__box--206r9
 www.disboards.com##.js-notices.notices--bottom_fixer.notices > .custom-notice.js-notice.notice > .notice-content
 www.disboards.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
@@ -666,7 +655,6 @@ www.abbvie.de##.notification__container
 www.abbvie.de###notificationCookies
 www.giropay.de###CookiePrivacy
 www.sofort.com##.DE.cookie-banner
-||quantcast.mgr.consensu.org^$script,domain=brickset.com,important
 ||lego.com/de-DE/go/190/v2/Service$script,domain=www.lego.com,important
 www.top10spielzeug.de##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 www.flickr.com##.foot-banner-style.basic-banner
@@ -719,7 +707,6 @@ airvpn.org###cookieLaw
 www.router-forum.de###cms_dp_bar
 www.lz.de###cmpbox
 douploads.net###gdpr-cookie-notice
-||quantcast.mgr.consensu.org/cmp.js$script,domain=forums.tomsguide.com,important
 @@||utopia.de/advertisement.js$xhr,1p
 zattoo.com##.PXP-z
 zattoo.com##.zrs_1Scz3
@@ -739,20 +726,17 @@ personensuche.dastelefonbuch.de##.sticky_cookie
 switchbounty.com##.switc-widget.swidgets-wrap.widget.header-widget
 www.aerztezeitung.de###fi-cookieconsent
 www.stfranziskus.de##.visible-lg.visible-md.auto-init.ce-spacing-bottom-small.ce-spacing-top-none.container-full-width.ce-puzzle.ce.cookieconsent__inner
-www.kkrn.de##.cc_banner-wrapper
 www.radiologie-marl-haltern.de###cookie_alert
 www.ekonline.de##.cc-color-override-746599741.cc-bottom.cc-theme-cosmo.cc-type-info.cc-banner.cc-window
 www.talospace.com##.cookie-choices-inner
 portabletor.de.softonic.com##.hide-accept-button.optanon-alert-box-wrapper
 tor.stackexchange.com###js-gdpr-consent-banner
 www.petri.com##.gdpr-cookie-banner
-||quantcast.mgr.consensu.org/cmp.js$script,domain=www.phoronix.com,important
 www.ntlite.com##.notice-content
 de.malwarebytes.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
 webmail.freenet.de###ext-element-339
 schokoladenjahre.com###buzzblogpro-cookie-banner
 www.glamour.de##.optanon-alert-box-wrapper
-||quantcast.mgr.consensu.org/cmp.js$script,domain=www.bleepingcomputer.com,important
 www.zeit.de###data-protection-overlay
 www.vitamindoctor.com##.shrinked.infobox
 www.shop-apotheke.com###cookiebanner
@@ -768,7 +752,6 @@ www.zentraldrogerie.de##.pea_cook_bottomcenter.pea_cook_wrapper
 candycush.de##.otCookiesNotification
 womz.de###BorlabsCookieBox
 beziehung.gofeminin.de###af-cookie-policy
-||quantcast.mgr.consensu.org/cmp.js$script,domain=thetvdb.com,important
 ||www.kukksi.de/wp-content/cache/busting/1/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min-2.1.12.js$script,domain=www.kukksi.de,important
 www.gettyimages.de###euCookieDialog
 www.klinik-ebe.de##.cc-color-override-1004444688.cc-top.cc-static.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
@@ -778,7 +761,6 @@ www.fem.com###cookie-consent-banner
 www.welt.de##.as-oil-content-overlay
 veranstaltungen.meinestadt.de##.o-cookieOk
 www.ticketonline.de##.optanon-alert-box-wrapper
-||quantcast.mgr.consensu.org/cmp.js$script,domain=www.indiewire.com,important
 www.wp.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 www.verbformen.de###anzeigen-einwilligung
 www.medizinfo.de###ez-cookie-dialog-wrapper
@@ -811,7 +793,6 @@ www.textwende.de###SgCookieOptin
 twitter.com##.r-13qz1uu.r-13fypes.r-1sp51qo.r-18u37iz.r-1upvrn0.r-gvpnoh.css-1dbjc4n
 www.escardio.org##.optanon-alert-box-wrapper
 www.maennergesundheit.info##.cc-color-override--1338611334.cc-bottom.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
-||static.quantcast.mgr.consensu.org/v26/cmpui-banner.js$script,domain=de.pons.com,important
 www.krebsgesellschaft.de##.cookiebar--active.cookiebar--position-top.cookiebar
 www.paradisi.de###Cookies > div
 www.dmkg.de##.cookiebar--active.cookiebar--position-bottom.cookiebar
@@ -851,8 +832,6 @@ www.kenhub.com##.in.fade.modal-backdrop
 www.kenhub.com###training_cta_modal
 graslutscher.de##.pea_cook_bottomright.pea_cook_wrapper
 appnee.com#@#+js(nobab)
-www.aerztezeitung.at##.cc_banner-wrapper
-board.jdownloader.org##.cc_banner-wrapper
 www.gelsenkirchen.de###cookiehinweis
 www.blutwert.net###datenschutzhinweis
 visario.de##.cc-color-override-688238583.cc-right.cc-top.cc-theme-block.cc-type-info.cc-floating.cc-window
@@ -871,7 +850,6 @@ extreme.pcgameshardware.de###post_rec2
 extreme.pcgameshardware.de###post_rec
 ||consent-st.trustarc.com/asset/notice.js/v/*$script,domain=help.dyn.com,important
 ||consent-st.trustarc.com/asset/notice.js/v/*$script,domain=dyn.com,important
-||static.quantcast.mgr.consensu.org^$script,domain=forum.xda-developers.com,important
 medium.com##.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.hh.sm.sl.sk.sj.si.sh.sg.sf.se.sd.sc.sb.sa.rz.ry.rx.rw.rv.ak.ru.jj.t.s
 www.pornhub.com###videoCategory > .alpha
 www.pornhub.com##.pjddfngsmg
@@ -894,11 +872,8 @@ www.prodad.nl###cookiebar
 www.meinestadt.de##.o-cookieOk
 www.team-mediaportal.com##.black.cookie-bg.jb
 www.team-mediaportal.com##.orange.black.bottom.cookie.jb
-||quantcast.mgr.consensu.org/cmp.js$script,domain=wccftech.com,important
 gamefaqs.gamespot.com##.ot-fade-in.onetrust-pc-dark-filter
 gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
-||static.quantcast.mgr.consensu.org/v32/cmpui-banner.js$script,domain=www.gamepur.com,important
-||static.quantcast.mgr.consensu.org/v32/cmpui-banner.js$script,domain=sweetfx1.rssing.com,important
 @@||10866-1.s.cdn13.com^$script,domain=ddl.to
 www.morgenpost.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 www.lieferando.de##.cc-banner-legacy__container
@@ -907,7 +882,6 @@ www.hochdachkombi.de##.noticeContent.baseHtml
 de.xhamster.desi##.no-popunder.cookie-announce.bottom-announce
 www.braunschweiger-zeitung.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 www.spielfilm.de###usecookies
-||static.quantcast.mgr.consensu.org/v32/cmpui-banner.js$script,domain=www.windowsphoneinfo.com,important
 www.filmtoast.de##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
 koopahtmaniac.com###gdpr-cookie-message
 ou.medizintogo.de##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
@@ -917,7 +891,6 @@ www.wintotal.de##.show-cookie-box._brlbs-bg-dark._brlbs-block-content.middle-cen
 www.heise.de###uc-btn-outside-click-banner-modal
 ||www.heise.de/icons/svg/logos/svg/heiseonline_dark.svg$image
 www.heise.de##.uc-banner-content
-||static.quantcast.mgr.consensu.org/v32/cmpui-popup.js$script,domain=www.techradar.com,important
 www.techradar.com##.region_redirect_popup_asset
 www.techrepublic.com##.ot-fade-in.onetrust-pc-dark-filter
 www.techrepublic.com###onetrust-button-group
@@ -959,7 +932,6 @@ pagereboot.com##script:contains(registeredBloggerCallbacks)
 ||ddl-warez.to^$inline-script,1p
 @@||ddl-warez.to/download/*$inline-script,1p
 jdownloader.org###cookie_info
-||quantcast.mgr.consensu.org/choice/*$script,domain=www.creativebloq.com,important
 www.newyorker.com##.ot-sdk-container > .ot-sdk-row
 www.newyorker.com##.paywall-bar--expanded-content
 www.newyorker.com##.paywall-bar__expanded.paywall-bar-wrapper
@@ -967,7 +939,6 @@ www.hexal.de##.ot-sdk-container > .ot-sdk-row
 www.krebs-und-ich.de###trackingconsent
 ||www.lg.com/lg5-common-gp/js/e-privacy.min.js$script,domain=www.lg.com,important
 wirtschaftslexikon.gabler.de##.eu-cookie-compliance-banner--default.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
-||quantcast.mgr.consensu.org^$script,domain=www.bleepingcomputer.com,important
 www.superherohype.com###cookieNotice
 www.filme.de##.pea_cook_bottomcenter.pea_cook_wrapper
 www.ratiopharm.de##.uc-banner-content > div
@@ -979,7 +950,6 @@ crack4windows.com##.tibrr-cookie-consent-container
 www.handelszeitung.ch##.tp-container-inner
 www.mirinsoft.com###easycookieinfo
 www.lieferando.de##.cc-banner__container
-||static.quantcast.mgr.consensu.org^$script,domain=www.techradar.com,important
 wintechlab.com##.bs-gdpr-law
 www.strava.com###stravaCookieBanner
 ||www.kodi-blog.de/wp-content/plugins/borlabs-cookie/*$script,domain=www.kodi-blog.de,important
@@ -997,16 +967,11 @@ www.techspot.com###qcCmpUi
 www.videobuster.de###cookie-consent-banner
 www.netflix.com##.reg.cookie-disclosure-message
 ||www.buchreport.de/wp-content/plugins/borlabs-cookie/*$script,domain=www.buchreport.de,important
-||quantcast.mgr.consensu.org^$script,domain=www.express.co.uk,important
 www.janrufmonitor.de##.bst-panel-fixed.group.bst-panel
-||static.quantcast.mgr.consensu.org^$script,domain=www.xda-developers.com,important
 www.lea-drueppel-theater.de##.cc-color-override--1533458208.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 www.deepl.com###dl_app_banner_popup
-||quantcast.mgr.consensu.org/cmp.js$script,domain=www.goldderby.com,important
 wwwm.creativecow.net##object
 www.daskreativeuniversum.de###ez-cookie-dialog-wrapper
-||static.quantcast.mgr.consensu.org^$script,domain=www.filmaffinity.com,important
-||static.quantcast.mgr.consensu.org^$script,domain=de.pons.com,important
 ||cdn.snigelweb.com/sncmp/latest/sncmp.min.js$script,domain=www.linguee.de,important
 ||cdn.cookielaw.org/consent/*$script,domain=www.imodium.de,important
 ||honorableland.com^$script,domain=www.rottentomatoes.com
@@ -1014,21 +979,16 @@ www.songtexte.com###id3
 www.golem.de###golem-cookie-accept
 context.reverso.net###didomi-notice
 emscherblog.de##.uk-position-z-index.uk-position-fixed.uk-position-bottom.uk-section-muted.uk-section-xsmall.uk-section
-||quantcast.mgr.consensu.org/cmp.js$script,domain=www.researchgate.net,important
 www.bpb.de##.cookie-banner
 filmkunstkinos.de##.cookie-pop > .container
-www.uncut.at##.cookieinfo
 www.scribbr.de###scw-158427
 www.scribbr.de##.show.fade.modal-backdrop
 www.minimed.at##.cookieContent
 www.androidpolice.com##.homepage-sponsor
 ||www.enzyklopaedie-dermatologie.de/assets/*$script,domain=www.enzyklopaedie-dermatologie.de,important
-||static.quantcast.mgr.consensu.org^$script,domain=www.ultrabookreview.com,important
-||static.quantcast.mgr.consensu.org^$script,domain=www.softpedia.com,important
 www.softpedia.com###cookienotif
 ||taz.de/lib/ch/web/js/*$script,1p,important
 www.medical-tribune.de###cookie_consent_notification
-||static.quantcast.mgr.consensu.org^$script,domain=www.artistapirata.com,important
 www.suchtmittel.de###SpendenMessage
 www.pari.com###SgCookieOptin
 www.chronische-bronchitis.net##._brlbs-bar
@@ -1046,7 +1006,6 @@ www.mondosano.de##.cookie-notice
 www.medpertise.de##.cookiebanner
 www.mr-fuss.com##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=C2021_enNL_dsk_FR&banner=B2021_071720_enNL_dsk_p2_sm_txt_cnt&uselang=en&debug=false$script,domain=en.wikipedia.org,important
-||quantcast.mgr.consensu.org/cmp.js$script,domain=www.moviemeter.nl,important
 iffr.com###cookie-warning
 ||www.drgoerg.com/js/mage/cookies.js$script,domain=www.drgoerg.com
 ||consent.cookiebot.com/uc.js$script,domain=www.drgoerg.com,important
@@ -1077,7 +1036,6 @@ www.lehmanns.de##.py-5.px-5.simple.dark.cc_dialog
 www.allesbeste.de##.show-cookie-box._brlbs-bg-dark._brlbs-block-content.middle-center
 www.backblaze.com##.ot-sdk-container > .ot-sdk-row
 www.nytimes.com##.b28f1abf.f11a4849
-www.technicdialog.de##.Cookieinfo
 www.technicdialog.de###Cookieinfo
 justbricks.de###tarteaucitronAlertBig
 nitroflare.com###superbox-container
@@ -1144,6 +1102,24 @@ www.online-convert.com##.show.consent-toast.qg-consent.toast
 www.img2go.com##.show.hidden.consent-toast.qg-consent.toast
 ||api.usercentrics.eu^$xhr,important
 ||privacy.astrowoche.wunderweib.de^$xhr,domain=astrowoche.wunderweib.de,important
+www.hagebau.de##.js-cookie-hint.CookieHint-layer
+www.hagebau.de##.js-cookie-hint.CookieHint
+www.tbs-aachen.de##.new_cooky_layer
+||www.testsieger.de/wp-content/plugins/borlabs-cookie/*$script,domain=www.testsieger.de,important
+||cc.cdn.civiccomputing.com^$xhr,domain=www.film.tv
+||www.gehoerschutz-versand.de/includes/plugins/jst_eu_cookie/*$xhr,domain=www.gehoerschutz-versand.de,important
+||www.gehoerschutz-versand.de/includes/plugins/jst_eu_cookie/*$script,domain=www.gehoerschutz-versand.de,important
+www.gehoerschutz-versand.de###eu_cookie
+uploadrar.com##.hide2
+@@||d2zl2n5iz2c0l7.cloudfront.net^$script,domain=www.langweiledich.net
+www.langweiledich.net##.active.pukcookie.pc-wrapper
+www.lecturio.de###onetrust-banner-sdk > .ot-sdk-container
+www.dr-gumpert.de##.cc_overlay_lock
+pangoly.com##.qb-cookielaw-bar
+link.springer.com###onetrust-consent-sdk
+www.cochlear.com###cookie-popup
+||www.augenklinik.de/typo3temp/*$script,domain=www.augenklinik.de
+||www.klinikum.uni-heidelberg.de/fileadmin/sg_cookie_optin/*$script,domain=www.klinikum.uni-heidelberg.de,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
