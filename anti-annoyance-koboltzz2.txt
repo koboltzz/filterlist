@@ -81,6 +81,8 @@ uploadgig.com###freevid
 ##.cookieinfo
 ||quantcast.mgr.consensu.org^$script
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
+##.cookieBanner
+###cookieconsent
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -245,7 +247,6 @@ www.mammo-programm.de##.open.legal-banner
 www.azocleantech.com###cookie-notice-bar
 ny.curbed.com###privacy-consent
 www.sitepoint.com##.l-jc-cen.l-gs-pv2.l-pa3.l-fw-n--2col.l-fw-w.l-d-f.l-w-100.u-show.CookieWarning
-wirtschaftslexikon.gabler.de###cookieconsent
 softwarerecs.stackexchange.com###js-gdpr-consent-banner
 www.gearslutz.com###crawler
 www.allwetterzoo.de###cookieConfirmation
@@ -263,7 +264,6 @@ www.krebsgesellschaft.de###cookiebar
 www.test.de##.cookie-disclaimer--visible.js-cookie-disclaimer.cookie-disclaimer
 community.phones.nokia.com##.bg-gray-5.cookie_container--open.cookie_container
 www.mitsubishi-motors.de###cookieLayer > .container
-www.sportalbert.de##.Customizable.CookieBanner
 www.pedelecforum.de##div.bottomFixer:nth-of-type(4) > .Notices.PanelScrollerOff > .scrollContainer > .PanelContainer > .Panels > .notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
 www.pedelecforum.de##div.bottomFixer:nth-of-type(3) > .Notices.PanelScrollerOff > .scrollContainer > .PanelContainer > .Panels > .notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
 www.inside-handy.de###qcCmpUi
@@ -366,7 +366,6 @@ campus.barracuda.com##.alert-tertiary.alert
 ||www.taschenlampen-forum.de/images/olight/WARRIOR-X--340x280.png$image
 www.archos.com###cookiesdirective
 www.kenn-dein-limit.de##.cc-color-override-688238583.cc-top.cc-static.cc-theme-classic.cc-type-info.cc-banner.cc-window
-www.smart-rechner.de###cookieConsent
 www.fuehrerscheinfix.de##.cookieAdvice > p
 www.glutarazidurie.de###sliding-popup > div
 www.amazon.de###nav-upnav
@@ -414,7 +413,6 @@ www.nexusmods.com##.banner_banner--3pjXd
 gamebanana.com##.banner_banner--3pjXd
 www.nintendo.co.uk###cookie-topbar
 all3dp.com##.cookie-consent--open.cookie-consent
-www.chirurgie-portal.de##.cookiebanner
 www.springlane.de##.clear.coockieBar
 uploadever.com###gdpr-cookie-notice
 gls-group.eu###cookiePopup
@@ -449,7 +447,6 @@ www.assettocorsa.net##.notice_-1.DismissParent.Notice.panel > .noticeContent.bas
 www.racedepartment.com##.noticeContent.baseHtml
 filmora.wondershare.com##.active.transition.bg-cover.shrink.a-block.bottom.fixed.seasonal-btm.seasonal
 www.mactechnews.de###cookiechoice > div
-www.pornhub.com##.cookieBanner
 mammazentrum-hamburg.de##.pea_cook_topright.pea_cook_wrapper
 fstoppers.com###sliding-popup > div
 www.maintrac.de###CookieNoticeBar
@@ -647,7 +644,6 @@ www.kaffee-netz.de##.notice_-1.DismissParent.Notice.panel
 www.androidpolice.com##.big-sponsor
 ideas.lego.com##.lego-policy-popup
 www.lepinboard.de##.rightside.cookie-box.cookieAcceptBox
-www.zoll.de###cookiebanner
 www.netzwerk-von-willebrand.de##.inner
 www.info-von-willebrand.de###cookieNotice
 www.eblocker.com##.cookies
@@ -739,7 +735,6 @@ schokoladenjahre.com###buzzblogpro-cookie-banner
 www.glamour.de##.optanon-alert-box-wrapper
 www.zeit.de###data-protection-overlay
 www.vitamindoctor.com##.shrinked.infobox
-www.shop-apotheke.com###cookiebanner
 www.medpex.de###cookie-wrapper
 @@||bullads.net^$subdocument,domain=filecrypt.cc
 @@||bullads.net^$script,domain=cutcaptcha.com
@@ -766,18 +761,15 @@ www.verbformen.de###anzeigen-einwilligung
 www.medizinfo.de###ez-cookie-dialog-wrapper
 www.quotenmeter.de###lightboxOverlay
 www.quotenmeter.de###lightbox
-www.portal-der-schoenheit.de##.cookiebanner
 forum.team-mediaportal.com##.notice-content
 www.ccleaner.com##.pa--xs.cookie-banner.fixed-banner
 anydesk.com###any-cookieBar
 www.wn.de##.avCookieLaw
-www.sekundarschule-luedinghausen.de###cookieconsent
 anydesk.en.softonic.com##.hide-accept-button.optanon-alert-box-wrapper
 anydesk.en.softonic.com###Noodle-LiteRegistration-container
 www.bepanthen.de##.cc-color-override--1374214108.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window.primary-cookie-banner
 hylo.de###cookie-warning-container
 www.onmeda.de##.cookie-notice-content
-www.marienschule-lh.de###cookieconsent
 www.lwl-baukultur.de###CookielawBanner
 ||www.apotheken-umschau.de/js/diyscmp.min.js$script,domain=www.apotheken-umschau.de,important
 www.24vest.de##.id-CookieConsent
@@ -804,7 +796,6 @@ www.kardiologie.org##.optanon-alert-box-wrapper
 www.dimdi.de###cookiedisclaimer
 ||app.usercentrics.eu/uat/bundle.js$script,domain=www.heise.de
 www.snapfiles.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
-www.rki.de###cookiebanner
 www.zeitblueten.com##.cc-color-override--355542678.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 www.welt.de##.as-oil-content-overlay
 www.bildderfrau.de##.cookie-note--dark.cookie-note--bottom.cookie-note
@@ -1003,7 +994,6 @@ www.w10privacy.de##.cc-individual-cookie-settings
 pdfcandy.com##.clearfix.subfooter
 pdfcandy.com###cookie-law
 www.mondosano.de##.cookie-notice
-www.medpertise.de##.cookiebanner
 www.mr-fuss.com##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=C2021_enNL_dsk_FR&banner=B2021_071720_enNL_dsk_p2_sm_txt_cnt&uselang=en&debug=false$script,domain=en.wikipedia.org,important
 iffr.com###cookie-warning
@@ -1077,7 +1067,6 @@ www.prinz-sportlich.de##.cc-wrapper
 ||laufvernarrt.de/wp-content/cache/autoptimize/js/*$script,1p,important
 www.divi.de##.cpnb-inner
 github.com##.mx-auto.box-shadow-medium.hx_cookie-banner-box.Box
-forum.filmundo.de###cookiebanner
 onofaro.de##.pea_cook_bottomright.pea_cook_wrapper
 www.doctolib.de###didomi-notice
 www.weisse-liste.de##.cf2tVG.cf3E9g
@@ -1120,6 +1109,9 @@ link.springer.com###onetrust-consent-sdk
 www.cochlear.com###cookie-popup
 ||www.augenklinik.de/typo3temp/*$script,domain=www.augenklinik.de
 ||www.klinikum.uni-heidelberg.de/fileadmin/sg_cookie_optin/*$script,domain=www.klinikum.uni-heidelberg.de,important
+||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*$script,domain=www.computerwissen.de,important
+||5f3c395.ccm19.de^$script,domain=www.computerwissen.de,important
+||www.computerbase.de/js/main.65af964f.js$script,domain=www.computerbase.de
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
