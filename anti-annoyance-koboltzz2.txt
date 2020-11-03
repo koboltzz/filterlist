@@ -83,6 +83,8 @@ uploadgig.com###freevid
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
+###cookiebar
+##.bottom-cookie-wrap
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -118,7 +120,6 @@ www.ruhr-uni-bochum.de###sliding-popup
 www.derwesten.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 www.bergmannsheil-buer.de###cpopup
 android.stackexchange.com###js-gdpr-consent-banner
-www.perfect-privacy.com###cookiebar
 www.wieistmeineip.de###cookie-notifier-desktop
 www.filmstarts.de###js-cookie-info
 obsproject.com##.notice-content
@@ -175,7 +176,6 @@ www.paypal.com###gdprCookieBanner
 scifi.stackexchange.com###js-gdpr-consent-banner
 apple.stackexchange.com###js-gdpr-consent-banner
 www.fonepaw.com##.cookie-alert
-www.partitionwizard.com##.bottom-cookie-wrap
 www.mobile.de###consentBanner
 opengapps.org##.mdl-snackbar--active.mdl-js-snackbar.mdl-snackbar
 www.cnet.com##.entered.dock.inviewElement
@@ -231,7 +231,6 @@ www.bq.com###alert-cookie
 www.bunte.de##.as-oil-content-overlay
 www.mediamarkt.de##.mms-cookielayer
 www.obi.de##.cookiepolicy__container
-www.hertener-allgemeine.de##.cookiebar
 www.kalenderpedia.de##p
 www.haemophilie.org###cookie-banner
 www.gesundheit.de##.cookie-content
@@ -260,7 +259,6 @@ vimeo.com##.gdpr_banner
 www.borncity.com##.pea_cook_bottomright.pea_cook_wrapper
 www.paketda.de###content_privacy_consent
 www.babycenter.de##.hide-cookie-setting-button.optanon-alert-box-wrapper
-www.krebsgesellschaft.de###cookiebar
 www.test.de##.cookie-disclaimer--visible.js-cookie-disclaimer.cookie-disclaimer
 community.phones.nokia.com##.bg-gray-5.cookie_container--open.cookie_container
 www.mitsubishi-motors.de###cookieLayer > .container
@@ -474,7 +472,6 @@ www.macrorecorder.com##.js-show.pwcmb-widget--notice.pwcmb-widget
 steamcharts.com##.intro_intro--Ntqks
 www.wer-weiss-was.de###cookie_hint
 serverfault.com###js-gdpr-consent-banner
-www.colorconsole.de###cookiebar
 ||www.asus.com/cookienotice.json$xmlhttprequest,domain=www.asus.com,important
 www.twitch.tv##.tw-top-0.tw-right-0.tw-relative.tw-pd-y-1.tw-pd-x-2.tw-left-0.tw-justify-content-center.tw-flex-row.tw-flex.tw-c-text-overlay.tw-c-background-accent-alt-2.tw-align-items-center.gdpr-consent-banner
 android-zone.ws###elGuestTerms
@@ -581,7 +578,6 @@ jedipedia.fandom.com###WikiaRail
 www.bym.de##.guj-cb
 www.kleiderkreisel.de##.c-cell--default.c-cell--primary.c-cell--wide.c-cell
 forum.readmore.de##.dataPrivacyOverlay
-de.pokerstrategy.com##.cookiebar
 support.razer.com###cookies_popup_container
 beta.sportograf.com##.cookie-banner-container
 www.11880.com##.cookie-bar
@@ -859,7 +855,6 @@ www.brutto-netto-rechner.info##.eupopup-color-default.eupopup-container-bottom.e
 de.clearblue.com##.active.kali-cc-bandeau
 www.babyclub.de##.cookie-warning
 www.prodad.com###sl_cookie_info
-www.prodad.nl###cookiebar
 www.meinestadt.de##.o-cookieOk
 www.team-mediaportal.com##.black.cookie-bg.jb
 www.team-mediaportal.com##.orange.black.bottom.cookie.jb
@@ -1112,6 +1107,14 @@ www.cochlear.com###cookie-popup
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*$script,domain=www.computerwissen.de,important
 ||5f3c395.ccm19.de^$script,domain=www.computerwissen.de,important
 ||www.computerbase.de/js/main.65af964f.js$script,domain=www.computerbase.de
+www.act-computer.de##.uk-panel.uk-notification-message
+www.g2.com##.x-bottom-overlay-initialized.x-event-toggle-initialized.border-color-primary.border--thick.border.js-cookie-consent-overlay.full-width.bg-white.bottom-sticky
+unix.stackexchange.com##.z-banner.r0.l0.b0.ps-fixed.ff-sans.p8
+www.alternate.de###TLEConsentDialog
+www.alternate.de##.fixed
+filecrypt.*#@#.butt0ns > i
+www.freundin.de###gdpr-consent-tool-wrapper
+www.der-windows-papst.de##.BorlabsCookie
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
