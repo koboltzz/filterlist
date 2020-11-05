@@ -80,11 +80,13 @@ uploadgig.com###freevid
 ##.cc_banner-wrapper
 ##.cookieinfo
 ||quantcast.mgr.consensu.org^$script
+||cdn.privacy-mgmt.com^$script
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
 ###cookiebar
 ##.bottom-cookie-wrap
+##.BorlabsCookie
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1004,7 +1006,6 @@ il2sturmovik.com###cookieNotice
 www.moviejones.de##.ot-fade-in.onetrust-pc-dark-filter
 www.moviejones.de##.ot-sdk-container > .ot-sdk-row
 www.netflix.com##.cta-btn-container
-||cdn.privacy-mgmt.com^$script,domain=www.cinema.de,important
 ||sdk.privacy-center.org^$script,domain=www.filmstarts.de,important
 ||sdk.privacy-center.org^$script,domain=www.moviepilot.de,important
 ||cdn.cookielaw.org/scripttemplates/*$script,domain=www.nachrichten.at,important
@@ -1077,8 +1078,6 @@ forums-de.ubisoft.com###footer_tc_privacy
 ||app.usercentrics.eu/latest/main.js$script,domain=acronaut.de,important
 tarnkappe.info##.gdpr-cookie-notice
 !||interactive-web.la.spring-media.de^$script,domain=interactive-web.la.spring-media.de,important
-||cdn.privacy-mgmt.com^$domain=cdn.privacy-mgmt.com,important
-||cdn.privacy-mgmt.com^$domain=www.stylebook.de,important
 ||userconsent.xingassets.com/public-cookie-consent/*$xhr,domain=login.xing.com,important
 ||userconsent.xingassets.com/public-cookie-consent/*$xhr,domain=www.xing.com,important
 bild.online-convert.com##.show.consent-toast.qg-consent.toast
@@ -1114,7 +1113,10 @@ www.alternate.de###TLEConsentDialog
 www.alternate.de##.fixed
 filecrypt.*#@#.butt0ns > i
 www.freundin.de###gdpr-consent-tool-wrapper
-www.der-windows-papst.de##.BorlabsCookie
+www.presseportal.de###nacc-overlay
+||cmp.focus.de^$script,domain=www.focus.de,important
+www.androidkosmos.de##.bst-panel-fixed.group.bst-panel
+||cdn-212.privacy-mgmt.com^$xhr,domain=www.stern.de,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
