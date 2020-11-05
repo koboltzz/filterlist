@@ -81,6 +81,7 @@ uploadgig.com###freevid
 ##.cookieinfo
 ||quantcast.mgr.consensu.org^$script
 ||cdn.privacy-mgmt.com^$script
+||cdn.privacy-mgmt.com^$subdocument
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
