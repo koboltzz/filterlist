@@ -93,6 +93,7 @@ uploadgig.com###freevid
 ##.cookieBanner
 ###cookieconsent
 ###cookiebar
+##.cookies
 ##.bottom-cookie-wrap
 ##.BorlabsCookie
 
@@ -200,7 +201,6 @@ www.express.co.uk###cmp-container-id
 www.galeria-kaufhof.de##.gk-stickymessage__content
 www.check24.de##.c24-cookie-animate.c24-cookie
 www.dm.de##.u.t.s.r.q.p.o.d.n.c
-www.moviepilot.de##.is-visible.cookies
 www.idee-fuer-mich.de##.safeSpaceForClose.subNaviNotification
 www.tomshardware.co.uk##.prism-modal-content
 lib1.org#@#.adsbygoogle
@@ -650,7 +650,6 @@ ideas.lego.com##.lego-policy-popup
 www.lepinboard.de##.rightside.cookie-box.cookieAcceptBox
 www.netzwerk-von-willebrand.de##.inner
 www.info-von-willebrand.de###cookieNotice
-www.eblocker.com##.cookies
 www.abbvie.de##.notification__container
 www.abbvie.de###notificationCookies
 www.giropay.de###CookiePrivacy
