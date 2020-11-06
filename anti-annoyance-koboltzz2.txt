@@ -60,14 +60,19 @@ uploadgig.com###freevid
 ###cookiehint
 ###redim-cookiehint
 ##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+##.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
+##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
-##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+##.cc-bottom.cc-theme-epx.cc-type-opt-in.cc-floating.cc-window
+##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ###cookie-notice
 ##.cookie-notice-container
 ###_evidon_banner
+###_evidon-barrier-wrapper
 ###cookie-law-info-bar
 ###eu-cookie-law
 ###cookieChoiceInfo
@@ -82,6 +87,8 @@ uploadgig.com###freevid
 ||quantcast.mgr.consensu.org^$script
 ||cdn.privacy-mgmt.com^$script
 ||cdn.privacy-mgmt.com^$subdocument
+||cdn.cookielaw.org^$xhr
+||cdn.cookielaw.org^$script
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
@@ -184,11 +191,9 @@ opengapps.org##.mdl-snackbar--active.mdl-js-snackbar.mdl-snackbar
 www.cnet.com##.entered.dock.inviewElement
 www.geek.com###_evidon-banner
 www.geek.com###_evidon-background
-www.geek.com###_evidon-barrier-wrapper
 malwaretips.com##.notice-content
 www.extremetech.com###_evidon-banner
 www.extremetech.com###_evidon-background
-www.extremetech.com###_evidon-barrier-wrapper
 www.kotte-zeller.de###ws_cookie_layer
 www.sportspar.de##.page-wrap--cookie-permission
 www.express.co.uk###cmp-container-id
@@ -783,7 +788,6 @@ www.textwende.de###SgCookieOptin
 ||www.apotheken-umschau.de/js/diyscmp.min.js$script,domain=www.apotheken-umschau.de
 twitter.com##.r-13qz1uu.r-13fypes.r-1sp51qo.r-18u37iz.r-1upvrn0.r-gvpnoh.css-1dbjc4n
 www.escardio.org##.optanon-alert-box-wrapper
-www.maennergesundheit.info##.cc-color-override--1338611334.cc-bottom.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
 www.krebsgesellschaft.de##.cookiebar--active.cookiebar--position-top.cookiebar
 www.paradisi.de###Cookies > div
 www.dmkg.de##.cookiebar--active.cookiebar--position-bottom.cookiebar
@@ -795,7 +799,6 @@ www.kardiologie.org##.optanon-alert-box-wrapper
 www.dimdi.de###cookiedisclaimer
 ||app.usercentrics.eu/uat/bundle.js$script,domain=www.heise.de
 www.snapfiles.com##.cc-color-override-530831885.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
-www.zeitblueten.com##.cc-color-override--355542678.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 www.welt.de##.as-oil-content-overlay
 www.bildderfrau.de##.cookie-note--dark.cookie-note--bottom.cookie-note
 healthcare-in-europe.com###cookie-message
@@ -873,7 +876,6 @@ www.braunschweiger-zeitung.de##.cookie-note--dark.cookie-note--bottom.cookie-not
 www.spielfilm.de###usecookies
 www.filmtoast.de##._brlbs-bg-dark.show-cookie-box._brlbs-bg-animation._brlbs-block-content.middle-center
 koopahtmaniac.com###gdpr-cookie-message
-ou.medizintogo.de##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
 windowsarea.de##.moove-gdpr-info-bar-container
 windowsarea.de###moove_gdpr_cookie_info_bar
 www.wintotal.de##.show-cookie-box._brlbs-bg-dark._brlbs-block-content.middle-center
@@ -957,12 +959,10 @@ www.videobuster.de###cookie-consent-banner
 www.netflix.com##.reg.cookie-disclosure-message
 ||www.buchreport.de/wp-content/plugins/borlabs-cookie/*$script,domain=www.buchreport.de,important
 www.janrufmonitor.de##.bst-panel-fixed.group.bst-panel
-www.lea-drueppel-theater.de##.cc-color-override--1533458208.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 www.deepl.com###dl_app_banner_popup
 wwwm.creativecow.net##object
 www.daskreativeuniversum.de###ez-cookie-dialog-wrapper
 ||cdn.snigelweb.com/sncmp/latest/sncmp.min.js$script,domain=www.linguee.de,important
-||cdn.cookielaw.org/consent/*$script,domain=www.imodium.de,important
 ||honorableland.com^$script,domain=www.rottentomatoes.com
 www.songtexte.com###id3
 www.golem.de###golem-cookie-accept
@@ -988,7 +988,6 @@ www.tenforums.com###sncmp-inner-overlay
 www.tenforums.com###sncmp-overlay
 ||assets.jimstatic.com/cookieControl.js.*$script,domain=www.w10privacy.de,important
 www.w10privacy.de##.cc-individual-cookie-settings
-||cdn.cookielaw.org/scripttemplates/*$script,domain=download.cnet.com
 pdfcandy.com##.clearfix.subfooter
 pdfcandy.com###cookie-law
 www.mondosano.de##.cookie-notice
@@ -1009,7 +1008,6 @@ www.moviejones.de##.ot-sdk-container > .ot-sdk-row
 www.netflix.com##.cta-btn-container
 ||sdk.privacy-center.org^$script,domain=www.filmstarts.de,important
 ||sdk.privacy-center.org^$script,domain=www.moviepilot.de,important
-||cdn.cookielaw.org/scripttemplates/*$script,domain=www.nachrichten.at,important
 free.kaspersky.com##.notification-bar-hidden.bottom.dark.transparent.notification-bar
 www.indiewire.com###onetrust-banner-sdk > .ot-sdk-container
 www.hitchecker.de##.uc-banner-content
@@ -1118,6 +1116,19 @@ www.presseportal.de###nacc-overlay
 ||cmp.focus.de^$script,domain=www.focus.de,important
 www.androidkosmos.de##.bst-panel-fixed.group.bst-panel
 ||cdn-212.privacy-mgmt.com^$xhr,domain=www.stern.de,important
+www.smartdroid.de##.wp-gdpr-cookie-notice
+www.synology.com##.scb_header.syno_cookie_element
+www.synology.com##.scb_header_placeholder
+||www.cybermania.ws/wp-content/plugins/deblocker/*$script,domain=www.cybermania.ws,important
+||cmp.netdoktor.de/index.html$subdocument
+www.my-spexx.de###cookiescript_injected
+caterna.de##.fusion-privacy-bar-bottom.fusion-privacy-bar
+www.rth.info##.mb-0.alert-light.alert.fixed-bottom.cookieLawInfo
+www.schlaganfall-hilfe.de##.alert
+sportchirurgie-heidelberg.de##.bottom.rh-cookiepolicy
+||tracking.netdoktor.at^$script,domain=www.netdoktor.at,important
+||cdn-1343.privacy-mgmt.com^$xhr,domain=www.netzwelt.de,important
+@@||cloudfront.net^$script,domain=www.critic.de
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
