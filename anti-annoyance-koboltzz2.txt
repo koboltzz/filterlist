@@ -89,6 +89,7 @@ uploadgig.com###freevid
 ||cdn.privacy-mgmt.com^$subdocument
 ||cdn.cookielaw.org^$xhr
 ||cdn.cookielaw.org^$script
+||sdk.privacy-center.org^$script
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
@@ -1005,8 +1006,6 @@ il2sturmovik.com###cookieNotice
 www.moviejones.de##.ot-fade-in.onetrust-pc-dark-filter
 www.moviejones.de##.ot-sdk-container > .ot-sdk-row
 www.netflix.com##.cta-btn-container
-||sdk.privacy-center.org^$script,domain=www.filmstarts.de,important
-||sdk.privacy-center.org^$script,domain=www.moviepilot.de,important
 free.kaspersky.com##.notification-bar-hidden.bottom.dark.transparent.notification-bar
 www.indiewire.com###onetrust-banner-sdk > .ot-sdk-container
 www.hitchecker.de##.uc-banner-content
@@ -1052,7 +1051,6 @@ forum.xda-developers.com##.rsb-bottom > .honor-spon-banner
 ||cdn-75.privacy-mgmt.com^$script,domain=www.bild.de
 @@||cutcaptcha.net/captcha/*$script,domain=filecrypt.cc
 www.firestartoys.com###pnlacceptcookie
-||sdk.privacy-center.org^$script,domain=www.gamestar.de,important
 www.bf-games.net###elGuestTerms
 ||www.strunz.com/pub/static/version1601033729/frontend/Foryou/luma_child/de_DE/Amasty_GdprCookie/*$script,domain=www.strunz.com,important
 www.blondblog.de##.thb-cookie-bar
