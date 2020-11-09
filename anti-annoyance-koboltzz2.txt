@@ -97,6 +97,7 @@ uploadgig.com###freevid
 ##.cookies
 ##.bottom-cookie-wrap
 ##.BorlabsCookie
+##.avia-cookie-consent
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -380,7 +381,6 @@ www.brother.de###cookieLawBar
 1fichier.com###cookie_box
 www.lifewire.com###gdpr-notification-banner__content_1-0
 www.ebay.com.au###gdpr-banner
-www.tfix.co.uk##.avia-cookiemessage-bottom.avia-cookie-consent
 www.theverge.com###privacy-consent
 www.eurogamer.net##.bottom.cookie-bar.cookie-gdpr
 www.polygon.com###privacy-consent
@@ -1126,6 +1126,9 @@ sportchirurgie-heidelberg.de##.bottom.rh-cookiepolicy
 ||tracking.netdoktor.at^$script,domain=www.netdoktor.at,important
 ||cdn-1343.privacy-mgmt.com^$xhr,domain=www.netzwelt.de,important
 @@||cloudfront.net^$script,domain=www.critic.de
+medium.com##.vj.vi.qw.vh.vg.vf.ve.qv.vd.vc.vb.va.jp.uz.uy.ux.uw.uv.uu.ut.us.ur.uq.up.uo.un.um.ul.uk.uj.ui.t.kr.md.ga.mb
+www.moddb.com##.cc_container--open.cc_container.cc_banner
+forum.xda-developers.com##.livestream-container
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
