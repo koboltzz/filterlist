@@ -87,6 +87,8 @@ uploadgig.com###freevid
 ||quantcast.mgr.consensu.org^$script
 ||cdn.consentmanager.mgr.consensu.org^$xhr
 ||cdn.privacy-mgmt.com^$script
+||cdn-*.privacy-mgmt.com^$script
+||cdn-*.privacy-mgmt.com^$xhr
 ||cdn.privacy-mgmt.com^$subdocument
 ||cdn.cookielaw.org^$xhr
 ||cdn.cookielaw.org^$script
@@ -100,6 +102,8 @@ uploadgig.com###freevid
 ##.bottom-cookie-wrap
 ##.BorlabsCookie
 ##.avia-cookie-consent
+##.id-CookieConsent
+###CookieConsent
 
 ! 8/25/2018, 6:01:18 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -315,7 +319,6 @@ suchen.mobile.de###consentBanner
 www.dgnp.de##.cookieHintContentWrap
 onlinelibrary.wiley.com##.cookiePolicy-popup
 buy.garmin.com###truste-consent-content
-www.fr.de##.id-CookieConsent
 www.motor-talk.de##.mt-cc-bnnr
 www.kfz-betrieb.vogel.de###cookie-statement
 www.drivespark.com###cookiePrompt
@@ -778,7 +781,6 @@ hylo.de###cookie-warning-container
 www.onmeda.de##.cookie-notice-content
 www.lwl-baukultur.de###CookielawBanner
 ||www.apotheken-umschau.de/js/diyscmp.min.js$script,domain=www.apotheken-umschau.de,important
-www.24vest.de##.id-CookieConsent
 www.lovescout24.de##.hide-accept-button.optanon-alert-box-wrapper
 www.fototv.de###sliding-popup > div
 ||gdpr.internetbrands.com/v1/ibeugdpr.min.js$script,domain=bluray.highdefdigest.com,important
@@ -850,7 +852,6 @@ www.pornhub.com###videoCategory > .alpha
 www.pornhub.com##.pjddfngsmg
 www.pornhub.com##.dfngrmfnhu
 www.provideocoalition.com##.ot-sdk-container > .ot-sdk-row
-www.merkur.de##.id-CookieConsent
 www.bunte.de##.cleverpush-confirm-1.cleverpush-confirm-firefox.cleverpush-confirm-chrome.cleverpush-confirm-speechbubble.cleverpush-confirm
 www.bunte.de##.h-auto.shadow-xs.bottom-0.left-0.z-880.w-full.bg-white.flex.fixed
 www.antary.de##.cc-color-override--1817837154.cc-bottom.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
@@ -1126,7 +1127,6 @@ www.rth.info##.mb-0.alert-light.alert.fixed-bottom.cookieLawInfo
 www.schlaganfall-hilfe.de##.alert
 sportchirurgie-heidelberg.de##.bottom.rh-cookiepolicy
 ||tracking.netdoktor.at^$script,domain=www.netdoktor.at,important
-||cdn-1343.privacy-mgmt.com^$xhr,domain=www.netzwelt.de,important
 @@||cloudfront.net^$script,domain=www.critic.de
 medium.com##.vj.vi.qw.vh.vg.vf.ve.qv.vd.vc.vb.va.jp.uz.uy.ux.uw.uv.uu.ut.us.ur.uq.up.uo.un.um.ul.uk.uj.ui.t.kr.md.ga.mb
 www.moddb.com##.cc_container--open.cc_container.cc_banner
