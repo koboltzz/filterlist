@@ -85,6 +85,7 @@ uploadgig.com###freevid
 ##.cc_banner-wrapper
 ##.cookieinfo
 ||quantcast.mgr.consensu.org^$script
+||cdn.consentmanager.mgr.consensu.org^$xhr
 ||cdn.privacy-mgmt.com^$script
 ||cdn.privacy-mgmt.com^$subdocument
 ||cdn.cookielaw.org^$xhr
@@ -1129,6 +1130,9 @@ sportchirurgie-heidelberg.de##.bottom.rh-cookiepolicy
 medium.com##.vj.vi.qw.vh.vg.vf.ve.qv.vd.vc.vb.va.jp.uz.uy.ux.uw.uv.uu.ut.us.ur.uq.up.uo.un.um.ul.uk.uj.ui.t.kr.md.ga.mb
 www.moddb.com##.cc_container--open.cc_container.cc_banner
 forum.xda-developers.com##.livestream-container
+||www.kissnofrog.com/popups/cookie_disclaimer$xhr,domain=www.kissnofrog.com,important
+www.kissnofrog.com##.mdl-cookie-disclaimer-layer.wait.mdl-bd
+www.kissnofrog.com##.nt-cc.nt
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
