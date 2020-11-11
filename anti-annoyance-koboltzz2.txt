@@ -91,6 +91,7 @@ uploadgig.com###freevid
 ||cdn.cookielaw.org^$xhr
 ||cdn.cookielaw.org^$script
 ||sdk.privacy-center.org^$script
+||cdn.opencmp.net^$script
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
@@ -1133,6 +1134,9 @@ forum.xda-developers.com##.livestream-container
 ||www.kissnofrog.com/popups/cookie_disclaimer$xhr,domain=www.kissnofrog.com,important
 www.kissnofrog.com##.mdl-cookie-disclaimer-layer.wait.mdl-bd
 www.kissnofrog.com##.nt-cc.nt
+||www.computerbase.de/js/*$script,domain=www.computerbase.de
+www.bszonline.de###EUconsentForCookies-cookie-banner
+||speedcdn.cloud.funkedigital.de^$script,domain=www.waz.de,important
 
 ! 9/12/2018, 4:12:11 PM Block annoying google messages
 google.*###lb
