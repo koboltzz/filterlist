@@ -1,6 +1,6 @@
 ! 7/16/2018, 2:28:32 PM Block false dom filters by adding @ between ##
 
-! 9/25/2018, 5:57:10 PM Disable adblock detector
+! 7/16/2018, 2:28:32 PM Disable adblock detector
 @@||douploads.com^$script,domain=noobfile.com
 @@||getfreesmsnumber.com^$script,first-party
 @@||www.watson.de^$script,domain=www.watson.de
@@ -28,11 +28,11 @@ www.glamour.de###AdblockerLayerContent
 kinox.*#@#+js(abort-on-property-read, AaDetector)
 kinox.*#@#+js(abort-on-property-read, decodeURI)
 
-! 8/15/2018, 7:02:37 PM Cosmetic filter for xda forum
+! 7/16/2018, 2:28:32 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
 forum.xda-developers.com##.xda-box.post-content-container
 
-! 8/17/2018, 4:12:11 PM Block annoying realted posts
+! 7/16/2018, 2:28:32 PM Block annoying realted posts
 stadt-bremerhaven.de##.related-posts
 stadt-bremerhaven.de##.recent-posts
 stadt-bremerhaven.de##.recent-posts__heading
@@ -43,7 +43,7 @@ stadt-bremerhaven.de##.wpcc-color-custom--943834009.wpcc-bottom.wpcc-border-thin
 ||stadt-bremerhaven.de/wp-content/uploads/2018/11/seagate.jpg$image
 ||api.heise.de^$subdocument,domain=stadt-bremerhaven.de,important
 
-! 8/25/2018, 6:01:18 PM Block additional ads
+! 7/16/2018, 2:28:32 PM Block additional ads
 www.t-online.de###T-84436680
 www.t-online.de##.Tmc4a.toiclaus
 www.t-online.de###Tcb
@@ -54,7 +54,16 @@ www.androidpolice.com##.ains-33.ains
 www.rlslog.net###bottombanner
 uploadgig.com###freevid
 
-! 8/25/2018, 6:01:18 generic rules
+! 7/16/2018, 2:28:32 PM Block bad rules
+@@||privacy-mgmt.com^$script,domain=n-tv.de,badfilter
+@@||cdn.privacy-mgmt.com^$subdocument,domain=ekstrabladet.dk|giga.de|manager-magazin.de|spiegel.de|sport1.de|vtm.begmt.com|welt.de,badfilter
+
+! 7/16/2018, 2:28:32 PM Whitelist generic cookie rules
+@@||cdn.privacy-mgmt.com/index.html$subdocument,domain=www.spiegel.de,important
+@@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
+@@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
+
+! 7/16/2018, 2:28:32 PM Generic cookie rules
 ##.info.popup-content
 ##.cc_container--open.cc_container.cc_banner
 ###cookiehint
@@ -62,6 +71,7 @@ uploadgig.com###freevid
 ##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ##.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
 ##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
+##.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-out.cc-floating.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
@@ -94,7 +104,6 @@ uploadgig.com###freevid
 ||cdn.cookielaw.org^$script
 ||sdk.privacy-center.org^$script
 ||cdn.opencmp.net^$script
-@@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net,important
 ##.cookieBanner
 ###cookieconsent
 ###cookiebar
@@ -104,8 +113,9 @@ uploadgig.com###freevid
 ##.avia-cookie-consent
 ##.id-CookieConsent
 ###CookieConsent
+##.cookie-notice
 
-! 8/25/2018, 6:01:18 PM Block cookie notices
+! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
 www.kino-zeit.de##.eu-cookie-compliance-content.info.popup-content
 discourse.coreelec.org###ccc-content
@@ -1130,6 +1140,7 @@ sportchirurgie-heidelberg.de##.bottom.rh-cookiepolicy
 @@||cloudfront.net^$script,domain=www.critic.de
 medium.com##.vj.vi.qw.vh.vg.vf.ve.qv.vd.vc.vb.va.jp.uz.uy.ux.uw.uv.uu.ut.us.ur.uq.up.uo.un.um.ul.uk.uj.ui.t.kr.md.ga.mb
 www.moddb.com##.cc_container--open.cc_container.cc_banner
+www.ruhrnachrichten.de##.topOfferContainer
 forum.xda-developers.com##.livestream-container
 ||www.kissnofrog.com/popups/cookie_disclaimer$xhr,domain=www.kissnofrog.com,important
 www.kissnofrog.com##.mdl-cookie-disclaimer-layer.wait.mdl-bd
@@ -1137,8 +1148,16 @@ www.kissnofrog.com##.nt-cc.nt
 ||www.computerbase.de/js/*$script,domain=www.computerbase.de
 www.bszonline.de###EUconsentForCookies-cookie-banner
 ||speedcdn.cloud.funkedigital.de^$script,domain=www.waz.de,important
+www.tip-berlin.de###adsimple-cookie-notice
+www.1und1.net##.sliding-popup-bottom
+soundcloud.com##.m-dismiss-visible.sc-type-small.sc-text-verylight.sc-background-darkgrey.announcement
+www.dw.com##.cookie--visible.cookie
+www.zdf.de##.align-center.grid-x.system-dialog-inner
+www.thelocal.de##.ad_container.ad-leaderboard-sticky
+www.mediadefine.com###cookiedingsbums
+||tinderacademy.com/wp-admin/admin-ajax.php$xhr,1p
 
-! 9/12/2018, 4:12:11 PM Block annoying google messages
+! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
 google.*##html:style(overflow: visible !important;)
 @@||www.google.de/gen_204$ping,domain=www.google.de,important
@@ -1149,11 +1168,11 @@ www.google.de##.xFNJP
 www.google.de##.b0KoTc
 developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
 
-! 9/12/2018, 4:12:11 PM Block annoying amazon ads
+! 7/16/2018, 2:28:32 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
 www.amazon.de##.s-col-span-2.s-item-placeholder.s-result-item
 
-! 9/12/2018, 4:12:11 PM Block XXX
+! 7/16/2018, 2:28:32 PM Block XXX
 ddl-warez.to##div.row:nth-of-type(5):has-text(XXX)
 ddl-warez.to##div.row:nth-of-type(2):has-text(XXX)
 ddl-warez.to##div.row:nth-of-type(13):has-text(XXX)
