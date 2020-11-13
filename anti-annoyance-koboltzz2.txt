@@ -114,6 +114,10 @@ uploadgig.com###freevid
 ##.id-CookieConsent
 ###CookieConsent
 ##.cookie-notice
+###cookie_info
+###cookiescript_injected
+###gdpr-cookie-notice
+###cookieNotice
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -189,7 +193,6 @@ webmail.freenet.de###ext-element-322
 www.meinestadt.de##.ms-cookie-ok
 web.basemark.com##.copy
 support.brother.com###cookieLawBar
-www.tenforums.com###cookiescript_injected
 rapidgator.net###cookie-dlg
 login.microsoftonline.com###msccBanner
 www.getdigital.de##.privacy-wrapper
@@ -227,7 +230,6 @@ www.netzwelt.de##.w-m-100.cl-ap.b-0.zi-50.pos-f.cookie-choice
 forum.chip.de##.as-oil-content-overlay
 community.spiceworks.com##.sui-site-message-container
 www.siedler3.net###box1
-ayefiles.com###gdpr-cookie-notice
 en.wikipedia.org##.banner
 praxistipps.chip.de##.as-oil-content-overlay
 www.finder.com##.cookie-footer-bar__show.cookie-footer-bar.fixed-footer
@@ -340,7 +342,6 @@ www.baua.de###cookiebanner
 www.uniklinik-duesseldorf.de##.cookie-layer
 www.digitalcitizen.life###eu-cookies-consent
 ||assets.filmstarts.de/js/filmstarts/website/modal-review~toaster-newsletter.fd3099b645e6b15e3230.js$script,domain=www.filmstarts.de,important
-forums.creativecow.net###cookieNotice > div
 www.garmin.com###truste-consent-content
 ||fundingchoices.google.com^$script,domain=www.phonearena.com,important
 www.mobilcom-debitel.de##.cookie-message
@@ -436,7 +437,6 @@ gamebanana.com##.banner_banner--3pjXd
 www.nintendo.co.uk###cookie-topbar
 all3dp.com##.cookie-consent--open.cookie-consent
 www.springlane.de##.clear.coockieBar
-uploadever.com###gdpr-cookie-notice
 gls-group.eu###cookiePopup
 www.razer.com###cookies_popup_container
 store.hp.com##.optanon-alert-box-wrapper
@@ -490,7 +490,6 @@ www.com-magazin.de##.cc-color-override--227966932.cc-top.cc-theme-block.cc-type-
 netzpolitik.org###spendenleiste
 www.pcgames.de##.dataPrivacyOverlay
 ! www.reddit.com##.czhyGp.yscgwn-2
-www.gamerevolution.com###cookieNotice
 www.photographyaxis.com##.be-gdpr-cookie-notice-bar
 www.macrorecorder.com##.js-show.pwcmb-widget--notice.pwcmb-widget
 steamcharts.com##.intro_intro--Ntqks
@@ -585,7 +584,6 @@ extreme.pcgameshardware.de##.dataPrivacyOverlay
 h30434.www3.hp.com##.optanon-alert-box-wrapper
 de.drivereasy.com##.float-bar
 www.bankinfosecurity.com##.cookies-alert-box-wrapper
-sensorstechforum.com###cookiescript_injected
 filehippo.com##.optanon-alert-box-wrapper
 osdn.net##.cookie-bar__inner
 www.cinemaxx.de##.active.cookie-msg > .container-small.container
@@ -665,7 +663,6 @@ www.androidpolice.com##.big-sponsor
 ideas.lego.com##.lego-policy-popup
 www.lepinboard.de##.rightside.cookie-box.cookieAcceptBox
 www.netzwerk-von-willebrand.de##.inner
-www.info-von-willebrand.de###cookieNotice
 www.abbvie.de##.notification__container
 www.abbvie.de###notificationCookies
 www.giropay.de###CookiePrivacy
@@ -721,7 +718,6 @@ ddnss.de##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-opt-in
 airvpn.org###cookieLaw
 www.router-forum.de###cms_dp_bar
 www.lz.de###cmpbox
-douploads.net###gdpr-cookie-notice
 @@||utopia.de/advertisement.js$xhr,1p
 zattoo.com##.PXP-z
 zattoo.com##.zrs_1Scz3
@@ -935,7 +931,6 @@ pagereboot.com##script:contains(registeredBloggerCallbacks)
 ||www.rlslog.net^$inline-script,domain=www.rlslog.net,important
 ||ddl-warez.to^$inline-script,1p
 @@||ddl-warez.to/download/*$inline-script,1p
-jdownloader.org###cookie_info
 www.newyorker.com##.ot-sdk-container > .ot-sdk-row
 www.newyorker.com##.paywall-bar--expanded-content
 www.newyorker.com##.paywall-bar__expanded.paywall-bar-wrapper
@@ -943,10 +938,8 @@ www.hexal.de##.ot-sdk-container > .ot-sdk-row
 www.krebs-und-ich.de###trackingconsent
 ||www.lg.com/lg5-common-gp/js/e-privacy.min.js$script,domain=www.lg.com,important
 wirtschaftslexikon.gabler.de##.eu-cookie-compliance-banner--default.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
-www.superherohype.com###cookieNotice
 www.filme.de##.pea_cook_bottomcenter.pea_cook_wrapper
 www.ratiopharm.de##.uc-banner-content > div
-www.dhm.mhn.de###cookie_info
 www.gamefront.com##.intro_intro--Ntqks
 gaming.stackexchange.com###js-gdpr-consent-banner
 crack4windows.com##.tibrr-cookie-consent-container
@@ -1015,7 +1008,6 @@ www.bluebrixx.com##.headline.light.cc_dialog.cc_css_reboot
 www.tchibo.de##.ot-sdk-container > .ot-sdk-row
 www.lte-anbieter.info###cookiedings > div
 www.dance-charts.de##.cpnb-inner
-il2sturmovik.com###cookieNotice
 www.moviejones.de##.ot-fade-in.onetrust-pc-dark-filter
 www.moviejones.de##.ot-sdk-container > .ot-sdk-row
 www.netflix.com##.cta-btn-container
@@ -1123,15 +1115,12 @@ www.alternate.de##.fixed
 filecrypt.*#@#.butt0ns > i
 www.freundin.de###gdpr-consent-tool-wrapper
 www.presseportal.de###nacc-overlay
-||cmp.focus.de^$script,domain=www.focus.de,important
 www.androidkosmos.de##.bst-panel-fixed.group.bst-panel
-||cdn-212.privacy-mgmt.com^$xhr,domain=www.stern.de,important
 www.smartdroid.de##.wp-gdpr-cookie-notice
 www.synology.com##.scb_header.syno_cookie_element
 www.synology.com##.scb_header_placeholder
 ||www.cybermania.ws/wp-content/plugins/deblocker/*$script,domain=www.cybermania.ws,important
 ||cmp.netdoktor.de/index.html$subdocument
-www.my-spexx.de###cookiescript_injected
 caterna.de##.fusion-privacy-bar-bottom.fusion-privacy-bar
 www.rth.info##.mb-0.alert-light.alert.fixed-bottom.cookieLawInfo
 www.schlaganfall-hilfe.de##.alert
@@ -1156,6 +1145,10 @@ www.zdf.de##.align-center.grid-x.system-dialog-inner
 www.thelocal.de##.ad_container.ad-leaderboard-sticky
 www.mediadefine.com###cookiedingsbums
 ||tinderacademy.com/wp-admin/admin-ajax.php$xhr,1p
+www.pinterest.de###unauthEuCookieBar
+www.deskmodder.de##.cc_container--open.cc_container.cc_banner
+@@||www.suedostschweiz.ch/themes/suedostschweiz/js/showads.js$xhr,domain=www.suedostschweiz.ch
+www.suedostschweiz.ch##.so-cookie-wrapper
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
