@@ -27,6 +27,7 @@ www.glamour.de###AdblockerLayerContent
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*$xhr,domain=forum.tarnkappe.info
 kinox.*#@#+js(abort-on-property-read, AaDetector)
 kinox.*#@#+js(abort-on-property-read, decodeURI)
+apotheken-umschau.de#@#.cookies
 
 ! 7/16/2018, 2:28:32 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -1149,6 +1150,10 @@ www.pinterest.de###unauthEuCookieBar
 www.deskmodder.de##.cc_container--open.cc_container.cc_banner
 @@||www.suedostschweiz.ch/themes/suedostschweiz/js/showads.js$xhr,domain=www.suedostschweiz.ch
 www.suedostschweiz.ch##.so-cookie-wrapper
+www.amplifon.com##.cookie-animation-open
+||www.praxis-depesche.de/preside/system/assets/extension/preside-ext-gdpr/assets/js/specific/gdpr/*$script,domain=www.praxis-depesche.de,important
+shop.apotal.de###footer
+www.izo-atos.de###consent_info
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
