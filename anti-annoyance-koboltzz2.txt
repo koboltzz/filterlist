@@ -1154,6 +1154,17 @@ www.amplifon.com##.cookie-animation-open
 ||www.praxis-depesche.de/preside/system/assets/extension/preside-ext-gdpr/assets/js/specific/gdpr/*$script,domain=www.praxis-depesche.de,important
 shop.apotal.de###footer
 www.izo-atos.de###consent_info
+www.diefenbach-coaching.de###chimpify-popup-22
+||www.mediamarkt.de/de/cookielayer.json$xhr,domain=www.mediamarkt.de
+www.kitele.com##.close-code_cookies.code_cookies.code
+de.forvo.com###cookie_assistant
+www.destatis.de##.cookiebannerbox
+||*.a.akamaiedge.net^$script,domain=www.telekom.de
+www.apotheken.de###mtm-root-container
+||www.deutsche-apotheker-zeitung.de/_Resources/Static/Packages/CRON.DazSite/js/cookie-approval.js$script,domain=www.deutsche-apotheker-zeitung.de
+www.custombricks.de##.bottom.cookie-bar.row
+www.gog.com##.ng-scope._floating-banner
+www.fantastierisch.de##.bst-panel-fixed.group.bst-panel
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
