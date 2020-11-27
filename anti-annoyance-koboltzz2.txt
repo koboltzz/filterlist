@@ -130,11 +130,11 @@ www.mydealz.de##.nav-banner
 webmail.freenet.de###ext-frn-switchinwindow-1-floatWrap
 webmail.freenet.de###global-floatWrap
 www.mydealz.de##.softMessages-item--fromW3-maxWidth.space--mb-2.space--h-3.space--v-3.softMessages-item--visible.softMessages-item
-! www.reddit.com##.hDANzL.s1pfx7qz-2
+!www.reddit.com##.hDANzL.s1pfx7qz-2
 www.ebay.de###gdpr-banner
 www.congstar.de##.cpolicy-bar__wrapper
 www.dropbox.com###top-notification-bar-container
-! www.facebook.com###u_0_d
+!www.facebook.com###u_0_d
 www.digital-eliteboard.com##.qc-cmp-showing.qc-cmp-ui-container
 www.tchibo.de##.euCookiePanel
 www.esprit.de###policy_header
@@ -159,8 +159,6 @@ www.filmstarts.de###js-cookie-info
 obsproject.com##.notice-content
 stackoverflow.com##.js-dismissable-hero._fixed.hero-container.old-hero
 stackoverflow.com###js-gdpr-consent-banner
-www.youtube.com###ticker
-www.youtube.com##.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 mobilfunk.tchibo.de###cookies
 www.themoviedb.org###cookie_notice
 de.geneanet.org###header-info-cookie
@@ -671,8 +669,6 @@ www.sofort.com##.DE.cookie-banner
 ||lego.com/de-DE/go/190/v2/Service$script,domain=www.lego.com,important
 www.top10spielzeug.de##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 www.flickr.com##.foot-banner-style.basic-banner
-www.youtube.com##.opened
-www.youtube.com###dialog
 ||storage.proboards.com/forum/js/proboards.combined_953.js$script,domain=seamonkey.boards.net
 contranetwork.it##.thb-cookie-bar
 www.wbs-law.de##.uc-banner-content
@@ -1165,6 +1161,7 @@ www.apotheken.de###mtm-root-container
 www.custombricks.de##.bottom.cookie-bar.row
 www.gog.com##.ng-scope._floating-banner
 www.fantastierisch.de##.bst-panel-fixed.group.bst-panel
+www.fanatical.com##.cookie-collapsible
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
@@ -1176,6 +1173,10 @@ www.google.de##.DodYv
 www.google.de##.xFNJP
 www.google.de##.b0KoTc
 developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
+www.youtube.com###ticker
+www.youtube.com#@#.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+www.youtube.com##.opened
+www.youtube.com#@##dialog
 
 ! 7/16/2018, 2:28:32 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
