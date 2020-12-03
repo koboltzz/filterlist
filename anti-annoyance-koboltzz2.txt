@@ -76,6 +76,7 @@ uploadgig.com###freevid
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
 ##.cc-bottom.cc-theme-epx.cc-type-opt-in.cc-floating.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
@@ -1162,6 +1163,15 @@ www.custombricks.de##.bottom.cookie-bar.row
 www.gog.com##.ng-scope._floating-banner
 www.fantastierisch.de##.bst-panel-fixed.group.bst-panel
 www.fanatical.com##.cookie-collapsible
+||zeitzuleben.de/wp-admin/admin-ajax.php$xhr,1p
+zeitzuleben.de###elementor-popup-modal-92773
+dorsch.hogrefe.com##.passive-consent.top-message-wrap
+en.wikipedia.org##.cn-fundraising
+creativecow.net##.SCK_BannerContainer
+creativecow.net##.advads-background
+creativecow.net##.is-sticky.advads-close.advads-background-click-close.advads-has-background.cowtracks-layer-onload.cowtracks-layer.bbcow-ad-interstitial-container.cowtracks-interstitial
+www.dailymotion.com##.TCF2Banner__container___1D3J6
+w14.monkrus.ws##.skiptranslate.goog-te-banner-frame
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
