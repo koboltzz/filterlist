@@ -63,6 +63,7 @@ uploadgig.com###freevid
 @@||cdn.privacy-mgmt.com^$subdocument,domain=www.spiegel.de
 @@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
+www.nomanssky.com#@##cookie-law-info-bar
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ##.info.popup-content
