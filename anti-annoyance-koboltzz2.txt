@@ -123,6 +123,8 @@ www.nomanssky.com#@##cookie-law-info-bar
 ###cookieNotice
 ###cookie-hinweis
 ###cookie-hint
+###cookie-consent-banner
+###cookie-consent
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1187,6 +1189,10 @@ www.m-plan.com##.modal__holder
 www.m-plan.com##.modal
 www.kino-zeit.de##.adlayer-close
 t3n.de##.c-cookienotice
+www.rotkreuzkliniken.de##.scroll-to-fixed-fixed.left_none
+stadt-bremerhaven.de###ad-sb-oben
+www.mediafire.com###cookie-accept-footer
+gtaforums.com##.ipsJS_hide.ipsPad_half
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
