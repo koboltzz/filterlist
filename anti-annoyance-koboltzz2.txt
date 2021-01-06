@@ -64,6 +64,10 @@ uploadgig.com###freevid
 @@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
 www.nomanssky.com#@##cookie-law-info-bar
+web.de#@#.ad
+web.de#@#.ad-container
+scootersoftware.com#@#.cookies
+phoronix.com#@#.cookies
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ##.info.popup-content
@@ -93,6 +97,7 @@ www.nomanssky.com#@##cookie-law-info-bar
 ###cookie-bar
 ###catapult-cookie-bar
 ###cookie-policy
+##.cookie-policy
 ##.cookiePolicyNotice.info
 ##.notice--cookie.notice--primary.js-notice.notice
 ##.cc_banner-wrapper
@@ -108,6 +113,7 @@ www.nomanssky.com#@##cookie-law-info-bar
 ||sdk.privacy-center.org^$script
 ||cdn.opencmp.net^$script
 ##.cookieBanner
+##.cookiebanner
 ###cookieconsent
 ###cookiebar
 ##.cookies
@@ -125,6 +131,7 @@ www.nomanssky.com#@##cookie-law-info-bar
 ###cookie-hint
 ###cookie-consent-banner
 ###cookie-consent
+##.cookiefooter
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -168,7 +175,6 @@ stackoverflow.com###js-gdpr-consent-banner
 mobilfunk.tchibo.de###cookies
 www.themoviedb.org###cookie_notice
 de.geneanet.org###header-info-cookie
-www.watson.de##.cookiefooter
 www.instagram.com##.lOPC8
 www.booking.com##.warning_content
 veluwsebron.nl###cookie-notification
@@ -746,6 +752,7 @@ www.talospace.com##.cookie-choices-inner
 portabletor.de.softonic.com##.hide-accept-button.optanon-alert-box-wrapper
 tor.stackexchange.com###js-gdpr-consent-banner
 www.petri.com##.gdpr-cookie-banner
+petri.com##.gdpr-cookie-banner
 www.ntlite.com##.notice-content
 de.malwarebytes.com##.hide-cookie-setting-button.optanon-alert-box-wrapper
 webmail.freenet.de###ext-element-339
@@ -1193,6 +1200,16 @@ www.rotkreuzkliniken.de##.scroll-to-fixed-fixed.left_none
 stadt-bremerhaven.de###ad-sb-oben
 www.mediafire.com###cookie-accept-footer
 gtaforums.com##.ipsJS_hide.ipsPad_half
+fasrby761.weebly.com##.kb-container
+www.lcpdfr.com##.as-oil-content-overlay
+www.sportskeeda.com##.ot-sdk-container > .ot-sdk-row
+||with.contentpass.net^$script,domain=www.spielfilm.de
+www.digitalocean.com##._panel_1nv7e_1
+packagecloud.io##.cookie-popover
+mathiashueber.com##.cc-blockingScreen
+www.eucerin.de##.popup
+www.pickelschnellweg.de##.cmplz-categories-no.cc-color-override-1372701308.cc-center.cc-theme-minimal.cc-type-opt-in.cc-floating.cc-window
+||intelligentsystemsmonitoring.com/wp-content/plugins/icegram/assets/js/icegram.min.js?var=1.10.45$script,1p
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
