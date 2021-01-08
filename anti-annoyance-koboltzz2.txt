@@ -94,6 +94,7 @@ phoronix.com#@#.cookies
 ###eu-cookie-law
 ###cookieChoiceInfo
 ###CybotCookiebotDialog
+||consent.cookiebot.com^$script
 ###cookie-bar
 ###catapult-cookie-bar
 ###cookie-policy
