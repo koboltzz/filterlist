@@ -62,6 +62,8 @@ uploadgig.com###freevid
 ! 7/16/2018, 2:28:32 PM Whitelist generic cookie rules
 @@||cdn.privacy-mgmt.com^$subdocument,domain=www.spiegel.de
 @@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
+@@||cdn-375.privacy-mgmt.com^$script,domain=www.t-online.de
+@@||sdk.privacy-center.org^$script,domain=www.filmstarts.de
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
 www.nomanssky.com#@##cookie-law-info-bar
 web.de#@#.ad
@@ -75,6 +77,7 @@ phoronix.com#@#.cookies
 ###cookiehint
 ###redim-cookiehint
 ##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+##.cc-bottom.cc-theme-block.cc-type-categories.cc-floating.cc-window
 ##.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
 ##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
 ##.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-out.cc-floating.cc-window
@@ -87,6 +90,7 @@ phoronix.com#@#.cookies
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ###cookie-notice
+##.cookie-notice
 ##.cookie-notice-container
 ###_evidon_banner
 ###_evidon-barrier-wrapper
@@ -135,6 +139,8 @@ phoronix.com#@#.cookies
 ###cookie-consent
 ##.cookiefooter
 ##.cookiefirst-root
+###eu-cookie
+###cconsent-bar
 
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
@@ -1214,6 +1220,13 @@ mathiashueber.com##.cc-blockingScreen
 www.eucerin.de##.popup
 www.pickelschnellweg.de##.cmplz-categories-no.cc-color-override-1372701308.cc-center.cc-theme-minimal.cc-type-opt-in.cc-floating.cc-window
 ||intelligentsystemsmonitoring.com/wp-content/plugins/icegram/assets/js/icegram.min.js?var=1.10.45$script,1p
+helpdeskgeek.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_2.et_bloom_resize.et_bloom_optin.et_bloom_popup
+stadt-bremerhaven.de##.content > .group.pad > p
+www.zeit.de##.paywall-footer--expandable.paywall-footer
+memesbams.com###gdpr-consent-tool-wrapper
+www.klemmshop.de##.cm-bg
+www.klemmshop.de###eu-cookie-modal
+www.klemmshop.de##.cookie-modal
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
