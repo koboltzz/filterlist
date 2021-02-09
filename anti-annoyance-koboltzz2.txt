@@ -57,14 +57,16 @@ uploadgig.com###freevid
 
 ! 7/16/2018, 2:28:32 PM Block bad rules
 @@||privacy-mgmt.com^$script,domain=n-tv.de,badfilter
-@@||cdn.privacy-mgmt.com^$subdocument,domain=ekstrabladet.dk|giga.de|manager-magazin.de|spiegel.de|sport1.de|vtm.begmt.com|welt.de,badfilter
+@@||cdn.privacy-mgmt.com^$subdocument,domain=ekstrabladet.dk|giga.de|manager-magazin.de|spiegel.de|sport1.de|vtm.begmt.com|welt.de|sourcepoint.rtl.de,badfilter
 
 ! 7/16/2018, 2:28:32 PM Whitelist generic cookie rules
 @@||cdn.privacy-mgmt.com^$subdocument,domain=www.spiegel.de
 @@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
-@@||cdn-375.privacy-mgmt.com^$script,domain=www.t-online.de
+@@||cdn-*.privacy-mgmt.com^$script,domain=www.t-online.de
 @@||sdk.privacy-center.org^$script,domain=www.filmstarts.de
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
+@@||cdn-*.privacy-mgmt.com^$xhr,domain=www.rtl.de
+@@||cdn-*.privacy-mgmt.com^$script,domain=sourcepoint.rtl.de
 www.nomanssky.com#@##cookie-law-info-bar
 web.de#@#.ad
 web.de#@#.ad-container
@@ -141,7 +143,8 @@ phoronix.com#@#.cookies
 ##.cookiefirst-root
 ###eu-cookie
 ###cconsent-bar
-
+##.cookielaw-container
+##.justify-content-center.d-flex.cookie
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1227,6 +1230,13 @@ memesbams.com###gdpr-consent-tool-wrapper
 www.klemmshop.de##.cm-bg
 www.klemmshop.de###eu-cookie-modal
 www.klemmshop.de##.cookie-modal
+crackwatch.com##.Overlay
+enjify.com###axeptio_overlay
+||www.expert.de/shop/unsere-produkte/*$xhr,domain=www.expert.de
+www.expert.de##.btLoader-overlay
+www.expert.de##.btLoader
+www.expert.de##.border-xs-border-color.border-xs-solid.border-xs-bottom-1.border-xs-top-1.padding-md-bottom-10.padding-xs-top-10.widget-EyeCatcher---preset-fixed.widget-EyeCatcher---view-drop-zone.widget-EyeCatcher---ca96eea3-53fe-4b5f-bd7c-4fbb3802d1d4.widget-EyeCatcher.widget
+www.redbull.com##.locale-switch-banner
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
