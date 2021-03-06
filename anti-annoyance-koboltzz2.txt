@@ -72,6 +72,10 @@ web.de#@#.ad
 web.de#@#.ad-container
 scootersoftware.com#@#.cookies
 phoronix.com#@#.cookies
+@@||cdn.cookielaw.org^$script,domain=rp-online.de
+@@||cdn.cookielaw.org^$xhr,domain=rp-online.de
+@@||cdn.cookielaw.org/consent/*$script,domain=www.vichy.de
+vichy.de#@#.cookies
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ##.info.popup-content
@@ -80,6 +84,7 @@ phoronix.com#@#.cookies
 ###redim-cookiehint
 ##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-block.cc-type-categories.cc-floating.cc-window
+##.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
 ##.cc-right.cc-theme-block.cc-type-opt-in.cc-floating.cc-window
 ##.cc-right.cc-bottom.cc-type-opt-in.cc-floating.cc-window
 ##.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-out.cc-floating.cc-window
@@ -111,9 +116,11 @@ phoronix.com#@#.cookies
 ##.cookieinfo
 ||quantcast.mgr.consensu.org^$script
 ||cdn.consentmanager.mgr.consensu.org^$xhr
+||consentmanager.mgr.consensu.org/delivery/cmp.php$script
 ||cdn.privacy-mgmt.com^$script
 ||cdn-*.privacy-mgmt.com^$script
 ||cdn-*.privacy-mgmt.com^$xhr
+||*.ccm19.de/app/public/ccm19.js$script
 ||cdn.privacy-mgmt.com^$subdocument
 ||cdn.cookielaw.org^$xhr
 ||cdn.cookielaw.org^$script
@@ -145,6 +152,18 @@ phoronix.com#@#.cookies
 ###cconsent-bar
 ##.cookielaw-container
 ##.justify-content-center.d-flex.cookie
+##.cm-bg
+##.cookie-modal-left.cookie-modal
+##.seopress-user-consent
+##.page-wrap--cookie-permission
+##.gdpr-consent-tabs-v2.gdpr-consent-tabs
+###gdpr-consent-tool-wrapper
+###mbmcookie
+##.bottom_left.njt-gdpr-popup.njt-gdpr
+##.cc-individual-cookie-settings-overlay.ui-front.ui-widget-overlay
+##.ui-widget-content.ui-dialog-content.cc-individual-cookie-settings
+###cookie-wrapper-box
+##.cookie-layer
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1237,6 +1256,29 @@ www.expert.de##.btLoader-overlay
 www.expert.de##.btLoader
 www.expert.de##.border-xs-border-color.border-xs-solid.border-xs-bottom-1.border-xs-top-1.padding-md-bottom-10.padding-xs-top-10.widget-EyeCatcher---preset-fixed.widget-EyeCatcher---view-drop-zone.widget-EyeCatcher---ca96eea3-53fe-4b5f-bd7c-4fbb3802d1d4.widget-EyeCatcher.widget
 www.redbull.com##.locale-switch-banner
+www.garnelenhaus.de###acris--cookie-permission--modal-overlay
+www.garnelenhaus.de##.is--modal.acris--page-wrap--cookie-permission
+www.amazon.co.uk###sp-cc
+alb-filter.com##.overlay
+superuser.com##.js-consent-banner.md\:jc-center.md\:hmn-initial.md\:w100.b0.r0.hmn100.fc-white.bg-black-750.sm\:p16.p32.lg\:w-auto.w33.ps-fixed.z-nav.ff-sans.theme-light__forced.ai-center.grid
+www.section.io##.termly-consent-banner-bottom-fde15d.termly-consent-banner-termly-banner-f68a55
+www.virtru.com##.moove-gdpr-info-bar-container
+www.virtru.com##.gdpr_infobar_postion_bottom.moove-gdpr-dark-scheme.moove-gdpr-align-center
+||static.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*/tracking-opt-in.min.js$script,domain=minecraft.gamepedia.com,important
+www.idtech.com##.fadeInUp.animated.container-fluid
+stackoverflow.com##.js-dismissable-hero.z-nav.b0.r0.l0.ps-fixed.bc-black-100.bt.bs-sm.bg-black-025
+superuser.com##.js-consent-banner.theme-light__forced.bg-black-700.fc-white.z-banner.r0.l0.b0.ps-sticky.ff-sans.p8.grid
+www.astrazeneca.com###CookieReportsPanel > div
+astrowoche.wunderweib.de##pnespwidget
+www.arthursz.com###d-notification-bar
+www.netdoktor.de###gdpr-consent-tool-wrapper
+||static.wikia.nocookie.net/fandom-ae-assets/*$script,domain=pflege.wikia.org
+||assets.medicalnewstoday.com/_next/chunks/*$script,domain=www.healthline.com
+www.pureskinfood.de##.is-active.js-cookie.cookie.js-cookie-consent-form.cookie__form
+www.pickelstop.com##.wpgdprc-consent-bar.wpgdprc
+www.vichy.de##.optanon-alert-box-bg
+www.vichy.de##.optanon-alert-box-wrapper
+www.orthopaedie-ordination.at##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 google.*###lb
