@@ -136,7 +136,7 @@ vichy.de#@#.cookies
 ##.avia-cookie-consent
 ##.id-CookieConsent
 ###CookieConsent
-! ##.cookie-notice
+!##.cookie-notice
 ###cookie_info
 ###cookiescript_injected
 ###gdpr-cookie-notice
@@ -164,6 +164,9 @@ vichy.de#@#.cookies
 ##.ui-widget-content.ui-dialog-content.cc-individual-cookie-settings
 ###cookie-wrapper-box
 ##.cookie-layer
+##.dl_cookieBanner_container
+###cookieAcceptance
+##.show.cookiealert.text-center.alert
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1281,19 +1284,19 @@ www.vichy.de##.optanon-alert-box-wrapper
 www.orthopaedie-ordination.at##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
-google.*###lb
-google.*##html:style(overflow: visible !important;)
-@@||www.google.de/gen_204$ping,domain=www.google.de,important
-www.google.de##.vk_c.yAVMkd
-www.google.de##.U2J5q
-www.google.de##.DodYv
-www.google.de##.xFNJP
-www.google.de##.b0KoTc
-developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
-www.youtube.com###ticker
-www.youtube.com#@#.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
-www.youtube.com##.opened
-www.youtube.com#@##dialog
+!google.*###lb
+!google.*##html:style(overflow: visible !important;)
+!@@||www.google.de/gen_204$ping,domain=www.google.de,important
+!www.google.de##.vk_c.yAVMkd
+!www.google.de##.U2J5q
+!www.google.de##.DodYv
+!www.google.de##.xFNJP
+!www.google.de##.b0KoTc
+!developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
+!www.youtube.com###ticker
+!www.youtube.com#@#.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+!www.youtube.com##.opened
+!www.youtube.com#@##dialog
 
 ! 7/16/2018, 2:28:32 PM Block annoying amazon ads
 www.amazon.de###centerBelowPlusspacer
