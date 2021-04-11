@@ -63,6 +63,8 @@ uploadgig.com###freevid
 @@||cdn.privacy-mgmt.com^$subdocument,domain=www.spiegel.de
 @@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
 @@||cdn-*.privacy-mgmt.com^$script,domain=www.t-online.de
+@@||cdn-*.privacy-mgmt.com^$script,domain=consent.t-online.de
+@@||cdn-*.privacy-mgmt.com^$xmlhttprequest,domain=www.t-online.de
 @@||sdk.privacy-center.org^$script,domain=www.filmstarts.de
 @@||quantcast.mgr.consensu.org^$script,domain=sourceforge.net
 @@||cdn-*.privacy-mgmt.com^$xhr,domain=www.rtl.de
@@ -95,6 +97,7 @@ vichy.de#@#.cookies
 ##.cc-bottom.cc-theme-epx.cc-type-opt-in.cc-floating.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+##.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ###cookie-notice
 ##.cookie-notice
@@ -167,6 +170,7 @@ vichy.de#@#.cookies
 ##.dl_cookieBanner_container
 ###cookieAcceptance
 ##.show.cookiealert.text-center.alert
+##.cookiepreferences_popup_content
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
