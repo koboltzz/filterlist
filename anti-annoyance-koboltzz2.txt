@@ -166,11 +166,14 @@ vichy.de#@#.cookies
 ##.cc-individual-cookie-settings-overlay.ui-front.ui-widget-overlay
 ##.ui-widget-content.ui-dialog-content.cc-individual-cookie-settings
 ###cookie-wrapper-box
+###cookie-wrapper
 ##.cookie-layer
 ##.dl_cookieBanner_container
 ###cookieAcceptance
 ##.show.cookiealert.text-center.alert
 ##.cookiepreferences_popup_content
+##.cookie-announce.bottom-announce
+##.ensureCookie
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -799,7 +802,6 @@ schokoladenjahre.com###buzzblogpro-cookie-banner
 www.glamour.de##.optanon-alert-box-wrapper
 www.zeit.de###data-protection-overlay
 www.vitamindoctor.com##.shrinked.infobox
-www.medpex.de###cookie-wrapper
 @@||bullads.net^$subdocument,domain=filecrypt.cc
 @@||bullads.net^$script,domain=cutcaptcha.com
 @@||bullads.net^$xhr,domain=cutcaptcha.com
@@ -1286,6 +1288,7 @@ www.pickelstop.com##.wpgdprc-consent-bar.wpgdprc
 www.vichy.de##.optanon-alert-box-bg
 www.vichy.de##.optanon-alert-box-wrapper
 www.orthopaedie-ordination.at##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+superuser.com##.js-consent-banner.sm\:p16.fc-white.bg-black-750.p32.ff-sans.z-nav-fixed.ps-sticky
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
