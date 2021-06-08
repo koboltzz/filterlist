@@ -98,6 +98,7 @@ vichy.de#@#.cookies
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
+##.cc-bottom.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ###cookie-notice
 ##.cookie-notice
@@ -129,6 +130,7 @@ vichy.de#@#.cookies
 ||cdn.cookielaw.org^$script
 ||sdk.privacy-center.org^$script
 ||cdn.opencmp.net^$script
+||*/cookie.privacy.protection.js$script
 ##.cookieBanner
 ##.cookiebanner
 ###cookieconsent
@@ -174,6 +176,15 @@ vichy.de#@#.cookies
 ##.cookiepreferences_popup_content
 ##.cookie-announce.bottom-announce
 ##.ensureCookie
+##.js-terms-of-use-disclaimer.navbar-fixed-bottom.fixed-footer.footer
+###cookieNotice-b
+###achtung-overlay
+##.notice-cookie.global-site-notice
+##.pea_cook_bottomcenter.pea_cook_wrapper
+##.c-gdpr-banner
+##.notification.achtung
+##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
+##.bottom-position.scommerce-gdpr-cookienotice
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1300,6 +1311,31 @@ www.ksta.de###c1-template-platzhalter
 ||edioca.com/tocnt/*.png$image
 ||cdn.iubenda.com/cookie_solution/*$script,domain=appuals.com,important
 www.modelcarworld.de##.headline.light.cc_dialog.cc_css_reboot
+@@||*.cloudfront.net/?besed=907246$script,domain=www.game3rb.com
+@@||www.googletagmanager.com^$script,domain=www.game3rb.com
+@@||static.doubleclick.net^$script,domain=www.game3rb.com
+@@||static.doubleclick.net^$xhr,domain=www.game3rb.com
+||*.biz^$xhr,domain=www.game3rb.com
+||*.biz^$subdocument,domain=www.game3rb.com
+||*.biz^$popup,domain=www.game3rb.com
+||*.club^$xhr,domain=www.game3rb.com
+||*.club^$subdocument,domain=www.game3rb.com
+||*.club^$popup,domain=www.game3rb.com
+||s.viitos.com^$xhr,domain=www.game3rb.com
+||s.viitos.com^$subdocument,domain=www.game3rb.com
+||s.viitos.com^$popup,domain=www.game3rb.com
+||www.game3rb.com/wp-content/themes/HaritGamer8/js/advertisement.js$script,domain=www.game3rb.com,important
+www.escapefromtarkov.com###legalLightBlock > .cont
+||*.cloudfront.net^$script,domain=uniformer.biz
+www.pneumaticshop.de##.as-oil-content-overlay
+||releaselog.net/uploads2/0ab2876fe2dc84b231e592a845f1e776.gif$image
+||qastack.com.de/static/CACHE/js/*$script,1p
+||www.filmdienst.de/ccm19/public/index.php/ccm19.js$script,domain=www.filmdienst.de,important
+www.revolt.tv##.m-privacy-consent
+www.revolt.tv##.c-toaster-stuck.c-toaster-active.c-toaster
+socialclub.rockstargames.com##.CookiesBanner__container__1rSHV
+www.rockstargames.com##.ANJBsOK
+www.windows-10-forum.com##.noticeContent.baseHtml
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
