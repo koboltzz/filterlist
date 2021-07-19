@@ -77,7 +77,11 @@ phoronix.com#@#.cookies
 @@||cdn.cookielaw.org^$script,domain=rp-online.de
 @@||cdn.cookielaw.org^$xhr,domain=rp-online.de
 @@||cdn.cookielaw.org/consent/*$script,domain=www.vichy.de
+prepostseo.com#@#+js(set-constant, adblocker, 0)
 vichy.de#@#.cookies
+onmeda.de#@#.cookies
+linola.com#@#.cookies
+tchibo.de#@#.cookies
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ##.info.popup-content
@@ -100,6 +104,7 @@ vichy.de#@#.cookies
 ##.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
 ##.cc-bottom.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+##.cc-top.cc-static.cc-theme-block.cc-type-info.cc-banner.cc-window
 ###cookie-notice
 ##.cookie-notice
 ##.cookie-notice-container
@@ -185,6 +190,14 @@ vichy.de#@#.cookies
 ##.notification.achtung
 ##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
 ##.bottom-position.scommerce-gdpr-cookienotice
+##.cookieLayerCollapse
+###cookiePolicy
+###b_notificationContainer_bop
+##.js-consent-banner
+###cookie-banner
+###module-cookies
+##.cookieLayoutBoundary
+##.gdpr-bottom-banner
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1336,6 +1349,26 @@ www.revolt.tv##.c-toaster-stuck.c-toaster-active.c-toaster
 socialclub.rockstargames.com##.CookiesBanner__container__1rSHV
 www.rockstargames.com##.ANJBsOK
 www.windows-10-forum.com##.noticeContent.baseHtml
+www.typografie.info##.ipsJS_hide.ipsPad_half
+www.planetkey.de##.alert-box.xmalert.survey
+www.airline2sim.com###privy-confetti-canvas
+www.airline2sim.com###privy-container
+www.airline2sim.com##.loox-pn-bottom_left.loox-pn--no-branding.loox-pn--shown.loox-pn
+www.pickupforum.de##.ipsJS_hide.ipsPad_half
+settlermania.wordpress.com###cmp-app-container > div > iframe
+wintual.wordpress.com###cmp-app-container > div > iframe
+tarnkappe.info###custom_html-131
+tarnkappe.info###custom_html-128
+kb.synology.com##.scb_header.syno_cookie_element
+kb.synology.com##.scb_header_placeholder
+www.netzsieger.de##.text-center.pad-sm
+www.spreadshirt.de##.ot-fade-in.onetrust-pc-dark-filter
+www.spreadshirt.de##.vertical-align-content.default.otCenterRounded
+www.fh-muenster.de###matomo-wrapper
+www.pilates-by-yvonne.de##.UBT7W
+www.pilates-by-yvonne.de##._2F466
+www.pilates-by-yvonne.de##.AbcSV
+||cdn-website-dish-co.metro.prod2.reblaze.com^$script,domain=www.beipeppe.de
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
