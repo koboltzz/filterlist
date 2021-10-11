@@ -98,13 +98,17 @@ tchibo.de#@#.cookies
 ##.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+##.cc-bottom.cc-theme-classic.cc-type-false.cc-banner.cc-window
+##.cc-theme-classic.cc-type-categories.cc-floating.cc-window.cmplz-tcf-banner-hidden
 ##.cc-bottom.cc-theme-epx.cc-type-opt-in.cc-floating.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-opt-in.cc-banner.cc-window
 ##.cc-bottom.cc-theme-block.cc-type-opt-out.cc-banner.cc-window
+##.cc-bottom.cc-theme-block.cc-type-false.cc-banner.cc-window
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-top.cc-static.cc-theme-block.cc-type-info.cc-banner.cc-window
+##.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
 ###cookie-notice
 ##.cookie-notice
 ##.cookie-notice-container
@@ -136,6 +140,9 @@ tchibo.de#@#.cookies
 ||sdk.privacy-center.org^$script
 ||cdn.opencmp.net^$script
 ||*/cookie.privacy.protection.js$script
+||app.usercentrics.eu^$script
+||app.usercentrics.eu^$subdocument
+||api.usercentrics.eu^$xhr
 ##.cookieBanner
 ##.cookiebanner
 ###cookieconsent
@@ -198,6 +205,12 @@ tchibo.de#@#.cookies
 ###module-cookies
 ##.cookieLayoutBoundary
 ##.gdpr-bottom-banner
+##.borlabsCookieShow.bcPositionCenter
+##.gdpr-cookie-notice
+###redim-cookiehint-modal
+##.blue.black.bottom.cookie.jb
+##.cookie-bar--active.canon-bg--grey-light.cookie-bar--bottom.cookie-bar.flex-global-style__old-template
+##.font-white.cookiesBanner
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1369,6 +1382,24 @@ www.pilates-by-yvonne.de##.UBT7W
 www.pilates-by-yvonne.de##._2F466
 www.pilates-by-yvonne.de##.AbcSV
 ||cdn-website-dish-co.metro.prod2.reblaze.com^$script,domain=www.beipeppe.de
+||www.mydealz.de/assets/js/modern/115_0105a6.js$script,domain=www.mydealz.de
+www.burosch.de##.white.cookie-bg.jb
+www.burosch.de##.blue.white.bottom.cookie.jb
+||c7923.cloudnet.cloud^$script,domain=www.seltenekrankheiten.de
+||www.kaffee-welt.net/wcf/js/3rdParty/jquery.cookie.lib.js$script,domain=www.kaffee-welt.net
+||5f3c395.ccm19.de^$script,domain=www.kaffee-welt.net
+www.myfitnesspal.de##.ccpa-banner-container
+www.myfitnesspal.de##.jss109
+alternative.me###footer > div
+twitter.com##.r-13qz1uu.r-tvv088.r-d9fdf6.r-1d7fvdj.r-18u37iz.r-1upvrn0.r-1m3jxhj.r-1awozwy.css-1dbjc4n
+ac-competizione.de###fhw_cookiehinweis > p
+www.germanscooterforum.de##.ipsJS_hide.ipsPad_half
+||www.tk.de/tk-tag-manager/delivery/tealium/utag.js$script,domain=www.tk.de
+reshade.me##.activebar-container
+||computerwelt.at/wp-content/cache/min/1/c/*/*/Ezz/banner.js$script,1p
+||global.ketchcdn.com/web/v1/config/patreon/patreon/boot.js$script,domain=www.patreon.com
+||cdn.iubenda.com/cookie_solution/*$script,domain=www.gamebyte.com
+www.vinett-video.de##.text-center.fixed-footer
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
