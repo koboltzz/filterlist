@@ -109,6 +109,7 @@ tchibo.de#@#.cookies
 ##.cc-static.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-top.cc-static.cc-theme-block.cc-type-info.cc-banner.cc-window
 ##.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+##.cc-top.cc-theme-classic.cc-type-info.cc-banner.cc-window
 ###cookie-notice
 ##.cookie-notice
 ##.cookie-notice-container
@@ -211,6 +212,16 @@ tchibo.de#@#.cookies
 ##.blue.black.bottom.cookie.jb
 ##.cookie-bar--active.canon-bg--grey-light.cookie-bar--bottom.cookie-bar.flex-global-style__old-template
 ##.font-white.cookiesBanner
+##.pea_cook_wrapper
+##.pr-cookie-policy
+###dgCookieNoteBar
+##.cookie-compliance__inner
+##mio-cookie-notice
+##.wp-gdpr-cookie-notice-wrap
+##.moove-gdpr-align-center
+###cookie-law-container
+##.cookieconsent--container
+##.as-oil-content-overlay
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1400,6 +1411,19 @@ reshade.me##.activebar-container
 ||global.ketchcdn.com/web/v1/config/patreon/patreon/boot.js$script,domain=www.patreon.com
 ||cdn.iubenda.com/cookie_solution/*$script,domain=www.gamebyte.com
 www.vinett-video.de##.text-center.fixed-footer
+||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=www.game3rb.com
+||scarfsmash.com^$script,domain=www.androidpolice.com
+www.zwischengas.com##.shadow-lg.border-light.border-top.pb-1.pt-3.px-3.text-white.text-center
+www.zwischengas.com##.shadow-lg.zg-border-2.border-primary.border-top.pb-1.pt-2.px-3
+||cdn.consentmanager.net/delivery/js/cmp_en.min.js$script
+||static.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*$script,important
+www.googlewatchblog.de##.cmplz-soft-cookiewall
+awesomemods.ml###myModal
+www.ionos.de##.svelte-xz7yrv.privacy-consent--modal
+www.ionos.de##.svelte-6wchuh.privacy-consent--backdrop
+dl.acm.org##.fadeInUp.cookiePolicy-popup
+||picimg.net/*.gif$image
+||www.gold.de/scripte.js$script,domain=www.gold.de
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
