@@ -138,6 +138,9 @@ tchibo.de#@#.cookies
 ||cdn.privacy-mgmt.com^$subdocument
 ||cdn.cookielaw.org^$xhr
 ||cdn.cookielaw.org^$script
+||cdn-ukwest.onetrust.com^$script
+||gdpr.mandarin-medien.de/manager.js$script
+||*/cookie-consent-config.js$script,1p
 ||sdk.privacy-center.org^$script
 ||cdn.opencmp.net^$script
 ||*/cookie.privacy.protection.js$script
@@ -222,6 +225,8 @@ tchibo.de#@#.cookies
 ###cookie-law-container
 ##.cookieconsent--container
 ##.as-oil-content-overlay
+##.shadowBox-light.noSelection
+##.DataPrivacyBanner
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
