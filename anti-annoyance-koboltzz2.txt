@@ -100,6 +100,7 @@ tchibo.de#@#.cookies
 ##.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
 ##.cc-bottom.cc-theme-classic.cc-type-false.cc-banner.cc-window
 ##.cc-theme-classic.cc-type-categories.cc-floating.cc-window.cmplz-tcf-banner-hidden
+##.cc-theme-minimal.cc-type-categories.cc-floating.cc-window.cmplz-tcf-banner-hidden
 ##.cc-bottom.cc-theme-epx.cc-type-opt-in.cc-floating.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
 ##.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
@@ -142,6 +143,8 @@ tchibo.de#@#.cookies
 ||gdpr.mandarin-medien.de/manager.js$script
 ||*/cookie-consent-config.js$script,1p
 ||sdk.privacy-center.org^$script
+||*/cookieOptIn.js$script
+||*cookie-wall/*$xhr
 ||cdn.opencmp.net^$script
 ||*/cookie.privacy.protection.js$script
 ||app.usercentrics.eu^$script
@@ -227,6 +230,16 @@ tchibo.de#@#.cookies
 ##.as-oil-content-overlay
 ##.shadowBox-light.noSelection
 ##.DataPrivacyBanner
+###cm-ov
+##.cc_div
+##.privacy-consent-banner__overlay
+###acceptcookiecontainer
+##devsite-snackbar
+###cookie-notice2
+##.ipsJS_hide.ipsPad_half
+##.cookie-modal
+##.js-cookiebar.cookiebar
+###cmp-app-container iframe
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1429,6 +1442,11 @@ www.ionos.de##.svelte-6wchuh.privacy-consent--backdrop
 dl.acm.org##.fadeInUp.cookiePolicy-popup
 ||picimg.net/*.gif$image
 ||www.gold.de/scripte.js$script,domain=www.gold.de
+stadt-bremerhaven.de##p > .wp-embedded-content
+||e3844.b.akamaiedge.net^$script,domain=accounts.nintendo.com
+||cdn.accounts.nintendo.com/account/js/common.js$script,domain=accounts.nintendo.com
+||nintendoeu-1.hs.llnwd.net^$script,domain=www.nintendo.co.uk
+www.ebay.co.uk###gdpr-banner
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
