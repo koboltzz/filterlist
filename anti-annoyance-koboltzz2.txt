@@ -150,6 +150,8 @@ tchibo.de#@#.cookies
 ||app.usercentrics.eu^$script
 ||app.usercentrics.eu^$subdocument
 ||api.usercentrics.eu^$xhr
+||static.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*$script
+||script.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*$script
 ##.cookieBanner
 ##.cookiebanner
 ###cookieconsent
@@ -241,6 +243,9 @@ tchibo.de#@#.cookies
 ##.js-cookiebar.cookiebar
 ###cmp-app-container iframe
 ##.cmplz-cookiebanner
+##.clearfy-cookie--bottom.clearfy-cookie
+##.ccpa-notification-text
+##.cookie-bar
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1435,7 +1440,6 @@ www.vinett-video.de##.text-center.fixed-footer
 www.zwischengas.com##.shadow-lg.border-light.border-top.pb-1.pt-3.px-3.text-white.text-center
 www.zwischengas.com##.shadow-lg.zg-border-2.border-primary.border-top.pb-1.pt-2.px-3
 ||cdn.consentmanager.net/delivery/js/cmp_en.min.js$script
-||static.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*$script,important
 www.googlewatchblog.de##.cmplz-soft-cookiewall
 awesomemods.ml###myModal
 www.ionos.de##.svelte-xz7yrv.privacy-consent--modal
@@ -1449,6 +1453,16 @@ stadt-bremerhaven.de##p > .wp-embedded-content
 ||nintendoeu-1.hs.llnwd.net^$script,domain=www.nintendo.co.uk
 www.ebay.co.uk###gdpr-banner
 datei.wiki##center
+gbatemp.net###zIframe_zeus-player-17
+gbatemp.net###zeus-player-17
+www.ebay-kleinanzeigen.de##.gdprBannerBackdrop.jsx-1433135011
+||www.my-radios.com/libs/or/cookieconsent.css$xhr,domain=www.my-radios.com
+www.frankonia.de##.fr-c-message-wrap
+pureinfotech.com##.mailmunch-topbar-iframe-17f28238553d7c9.mailmunch-topbar-iframe
+pureinfotech.com###mailmunch-topbar-pusher
+||www.online-pkv.de/wp-content/65ac91927a8ec0a650f47eb64132adca.js?ver=62129f980213359ac260ac5b1c6abcce$script,domain=www.online-pkv.de
+www.lds.sachsen.de##.ld_message
+www.lds.sachsen.de##.ld_container
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
