@@ -54,10 +54,29 @@ www.androidpolice.com##.bigsponsor
 www.androidpolice.com##.ains-33.ains
 www.rlslog.net###bottombanner
 uploadgig.com###freevid
+www.t-online.de##.css-1lb3bt5
+www.t-online.de##.e4w8jjj1.css-1drx9nw
+www.t-online.de##section.e1127bv80.css-t5ddf0:nth-of-type(6)
+www.t-online.de##section.e1127bv80.css-t5ddf0:nth-of-type(10)
+www.t-online.de##section.e1127bv80.css-t5ddf0:nth-of-type(16)
+www.t-online.de##section.e1127bv80.css-t5ddf0:nth-of-type(20)
+www.t-online.de##.e1127bv80.css-1igsv1p
+www.t-online.de##.e1127bv80.css-1vjrl0
+www.t-online.de##section.e1127bv80.css-t5ddf0:nth-of-type(5)
+www.t-online.de##.css-1jta44j
+www.t-online.de##div.eapweuz0.css-12udjpf:nth-of-type(7)
+www.t-online.de##.css-1gm9xpz
+www.t-online.de##.css-2k2lok
+www.t-online.de##.css-dah38e
+www.t-online.de##.css-1kwtfii
+www.t-online.de##.css-177s2tv
 
 ! 7/16/2018, 2:28:32 PM Block bad rules
 @@||privacy-mgmt.com^$script,domain=n-tv.de,badfilter
 @@||cdn.privacy-mgmt.com^$subdocument,domain=ekstrabladet.dk|giga.de|manager-magazin.de|spiegel.de|sport1.de|vtm.begmt.com|welt.de|sourcepoint.rtl.de,badfilter
+@@||ads.marl.de^$image,domain=ads.marl.de
+@@||ads.marl.de^$script,domain=ads.marl.de
+@@||ads.marl.de^$stylesheet,domain=ads.marl.de
 
 ! 7/16/2018, 2:28:32 PM Whitelist generic cookie rules
 @@||cdn.privacy-mgmt.com^$subdocument,domain=www.spiegel.de
@@ -82,6 +101,14 @@ vichy.de#@#.cookies
 onmeda.de#@#.cookies
 linola.com#@#.cookies
 tchibo.de#@#.cookies
+@@||cdn-*.privacy-mgmt.com^$script,domain=www.derstandard.de
+@@||cdn-*.privacy-mgmt.com^$xhr,domain=www.derstandard.de
+@@||cdn-*.privacy-mgmt.com^$script,domain=spcmp.r53.derstandard.de
+@@||cdn-*.privacy-mgmt.com^$script,domain=www.express.de
+@@||cdn-*.privacy-mgmt.com^$xhr,domain=www.express.de
+@@||cdn-*.privacy-mgmt.com^$script,domain=consent2.express.de
+@@||with.contentpass.net^$script,domain=www.spielfilm.de
+@@||consentmanager.mgr.consensu.org^$script,domain=www.spielfilm.de
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ##.info.popup-content
@@ -246,6 +273,10 @@ tchibo.de#@#.cookies
 ##.clearfy-cookie--bottom.clearfy-cookie
 ##.ccpa-notification-text
 ##.cookie-bar
+##.cookie-block
+###scnb-cookie-bar
+##.social-opt-in--visible
+##.cookies-notification
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1463,6 +1494,10 @@ pureinfotech.com###mailmunch-topbar-pusher
 ||www.online-pkv.de/wp-content/65ac91927a8ec0a650f47eb64132adca.js?ver=62129f980213359ac260ac5b1c6abcce$script,domain=www.online-pkv.de
 www.lds.sachsen.de##.ld_message
 www.lds.sachsen.de##.ld_container
+www.zib-militaria.de##.message-bar-inner
+www.eltern-bildung.at###notice
+galaxieregister.de##.recommendation-modal__backdrop
+galaxieregister.de##.recommendation-modal__container
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
