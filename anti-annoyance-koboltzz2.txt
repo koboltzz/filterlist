@@ -1498,6 +1498,24 @@ www.zib-militaria.de##.message-bar-inner
 www.eltern-bildung.at###notice
 galaxieregister.de##.recommendation-modal__backdrop
 galaxieregister.de##.recommendation-modal__container
+freegogpcgames.com##.wp-biqtznxsdgursb-wrapper
+freegogpcgames.com##.active.wp-biqtznxsdgursb-blackout
+||www.deichmann.com/de-de/main.*.js$script,domain=www.deichmann.com
+||www.deichmann.com/AT/de/shop/js/internal/common/consentLayer.js$script,domain=www.deichmann.com
+www.downloadcrew.com##.ginger_banner-wrapper
+mubi.com##.appear-enter-done.etv2fak0.css-4ds7w0
+www.t-online.de##section.e1127bv80.css-o23abs > .e1127bv80.css-18u87hy
+forum.team-mediaportal.com##.js-replyNewMessageContainer.block-body > div
+www.tapatalk.com###pp_b
+www.little-spot.com###cookie
+www.problogbooster.com###pbbfy-pro-cookie-ify
+remarkablemark.medium.com##.xa.wz.nn.ht.wy.wx.ww.wv.wu.wt.ws.wr.wq.wp.wo.wn.wm.aq.ap
+www.moddb.com##.cookie-bar.cookie-privacy
+www.film-rezensionen.de##.qc-cmp2-container
+www.t-online.de##.css-24a0jf
+reolink.com##.w-full.relative.explorer-n-privacy
+stadt-bremerhaven.de##[href="https://ndirect.ppro.de/click/bbqp"]
+stadt-bremerhaven.de##[href="https://ndirect.ppro.de/click/baZK"]
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
