@@ -79,6 +79,8 @@ www.t-online.de##.css-177s2tv
 @@||ads.marl.de^$stylesheet,domain=ads.marl.de
 
 ! 7/16/2018, 2:28:32 PM Whitelist generic cookie rules
+@@||sdk.privacy-center.org^$script,domain=www.gamestar.de
+@@||cdn-*.privacy-mgmt.com^$xhr,domain=consent.t-online.de
 @@||cdn.privacy-mgmt.com^$subdocument,domain=www.spiegel.de
 @@||cdn.privacy-mgmt.com^$script,domain=cdn.privacy-mgmt.com
 @@||cdn-*.privacy-mgmt.com^$script,domain=www.t-online.de
@@ -111,6 +113,8 @@ tchibo.de#@#.cookies
 @@||consentmanager.mgr.consensu.org^$script,domain=www.spielfilm.de
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
+###credential_picker_container
+##.consentToolWrapper
 ##.info.popup-content
 ##.cc_container--open.cc_container.cc_banner
 ###cookiehint
