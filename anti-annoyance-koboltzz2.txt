@@ -281,6 +281,8 @@ tchibo.de#@#.cookies
 ###scnb-cookie-bar
 ##.social-opt-in--visible
 ##.cookies-notification
+###acris--cookie-permission--modal-overlay
+##.is--modal.acris--page-wrap--cookie-permission
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
@@ -1529,6 +1531,10 @@ pingperfect.com###fullpage-overlay
 www.deutschesapothekenportal.de###staticBackdropCookieError
 www.deutschesapothekenportal.de##.show.fade.modal-backdrop
 dev.miuiflash.com###featuredimage
+@@||pagead2.googlesyndication.com^$xhr,domain=www.cybermania.ws
+@@||static.doubleclick.net^$xhr,domain=www.cybermania.ws
+||www.psd-tutorials.de/data/assets/sitebar/photoshop-461_1060x476.jpg$image
+||accounts.google.com/gsi/iframe/select$subdocument
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
