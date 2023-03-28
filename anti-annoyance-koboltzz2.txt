@@ -1520,6 +1520,15 @@ www.t-online.de##.css-24a0jf
 reolink.com##.w-full.relative.explorer-n-privacy
 stadt-bremerhaven.de##[href="https://ndirect.ppro.de/click/bbqp"]
 stadt-bremerhaven.de##[href="https://ndirect.ppro.de/click/baZK"]
+reolink.com##.w-full.relative.explorer-n-privacy
+www.pornhub.com##.cookiesBanner
+www.androidpolice.com##.is-visible.w-newsletter-popup
+www.shop-apotheke.com##.o-TopBanner.as-placeholder--optional.as-placeholder [src]
+www.shop-apotheke.com##.o-TopBanner.as-placeholder--optional.as-placeholder > div
+pingperfect.com###fullpage-overlay
+www.deutschesapothekenportal.de###staticBackdropCookieError
+www.deutschesapothekenportal.de##.show.fade.modal-backdrop
+dev.miuiflash.com###featuredimage
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
