@@ -28,6 +28,7 @@ www.glamour.de###AdblockerLayerContent
 kinox.*#@#+js(abort-on-property-read, AaDetector)
 kinox.*#@#+js(abort-on-property-read, decodeURI)
 apotheken-umschau.de#@#.cookies
+@@||pagead2.googlesyndication.com^$xhr
 
 ! 7/16/2018, 2:28:32 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -111,6 +112,8 @@ tchibo.de#@#.cookies
 @@||cdn-*.privacy-mgmt.com^$script,domain=consent2.express.de
 @@||with.contentpass.net^$script,domain=www.spielfilm.de
 @@||consentmanager.mgr.consensu.org^$script,domain=www.spielfilm.de
+@@||app.usercentrics.eu^$script,domain=www.rimondo.com
+@@||api.usercentrics.eu^$xhr,domain=www.rimondo.com
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ###credential_picker_container
@@ -1070,7 +1073,6 @@ moodle.org##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 @@||www.googletagmanager.com/gtag/js$script,domain=thehouseofportable.com
 @@||www.googletagmanager.com^$script,domain=thehouseofportable.com
 thehouseofportable.com#@#+js(aeld, /contextmenu|selectstart/)
-@@||pagead2.googlesyndication.com^$script,domain=thehouseofportable.com
 @@||www.google-analytics.com^$script,domain=thehouseofportable.com
 @@||www.googletagservices.com^$script,domain=thehouseofportable.com
 @@||feboni.info^$script,domain=thehouseofportable.com
@@ -1244,7 +1246,6 @@ tarnkappe.info##.gdpr-cookie-notice
 bild.online-convert.com##.show.consent-toast.qg-consent.toast
 www.online-convert.com##.show.consent-toast.qg-consent.toast
 www.img2go.com##.show.hidden.consent-toast.qg-consent.toast
-||api.usercentrics.eu^$xhr,important
 ||privacy.astrowoche.wunderweib.de^$xhr,domain=astrowoche.wunderweib.de,important
 www.hagebau.de##.js-cookie-hint.CookieHint-layer
 www.hagebau.de##.js-cookie-hint.CookieHint
@@ -1531,10 +1532,11 @@ pingperfect.com###fullpage-overlay
 www.deutschesapothekenportal.de###staticBackdropCookieError
 www.deutschesapothekenportal.de##.show.fade.modal-backdrop
 dev.miuiflash.com###featuredimage
-@@||pagead2.googlesyndication.com^$xhr,domain=www.cybermania.ws
 @@||static.doubleclick.net^$xhr,domain=www.cybermania.ws
 ||www.psd-tutorials.de/data/assets/sitebar/photoshop-461_1060x476.jpg$image
 ||accounts.google.com/gsi/iframe/select$subdocument
+www.garmin.com###trustarc-banner-overlay
+forum.joaoapps.com###awayMessage
 
 ! 7/16/2018, 2:28:32 PM Block annoying google messages
 !google.*###lb
