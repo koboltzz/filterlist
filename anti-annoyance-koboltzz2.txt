@@ -29,6 +29,10 @@ kinox.*#@#+js(abort-on-property-read, AaDetector)
 kinox.*#@#+js(abort-on-property-read, decodeURI)
 apotheken-umschau.de#@#.cookies
 @@||pagead2.googlesyndication.com^$xhr
+@@||app.usercentrics.eu^$subdocument,domain=www.rimondo.com
+@@||app.usercentrics.eu^$image,domain=www.rimondo.com
+@@||www.googletagmanager.com^$script,domain=www.rimondo.com
+||www.kodinerds.net/wcf/js/DarkwoodDesign/Consent/AdConsent.js$script,domain=www.kodinerds.net,important
 
 ! 7/16/2018, 2:28:32 PM Cosmetic filter for xda forum
 forum.xda-developers.com##.xda-box.postbit-wrapper
@@ -286,6 +290,7 @@ tchibo.de#@#.cookies
 ##.cookies-notification
 ###acris--cookie-permission--modal-overlay
 ##.is--modal.acris--page-wrap--cookie-permission
+##.exit-intent__background.exit-intent
 
 ! 7/16/2018, 2:28:32 PM Block cookie notices
 www.digital-eliteboard.com##.notice_-1.DismissParent.Notice.panel > .noticeContent.baseHtml
