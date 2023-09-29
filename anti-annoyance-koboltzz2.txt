@@ -118,6 +118,9 @@ tchibo.de#@#.cookies
 @@||consentmanager.mgr.consensu.org^$script,domain=www.spielfilm.de
 @@||app.usercentrics.eu^$script,domain=www.rimondo.com
 @@||api.usercentrics.eu^$xhr,domain=www.rimondo.com
+www.paypal.com#@#gdprCookieBanner
+@@||t.paypal.com^$image,domain=www.paypal.com
+@@||www.instagram.com^$xhr,domain=www.instagram.com
 
 ! 7/16/2018, 2:28:32 PM Generic cookie rules
 ###credential_picker_container
