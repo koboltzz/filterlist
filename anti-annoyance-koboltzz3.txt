@@ -1,6 +1,7 @@
 ! 6/16/2024, 2:28:32 PM Block annoying website elements
 www.morgenpost.de##.cmpstyleroot.cmpboxBG
 ||accounts.google.com/gsi/*$xhr,script,3p
+stadt-bremerhaven.de##p > .wp-embedded-content
 
 ! 6/16/2024, 2:28:32 PM Allow reddit despite using vpn
 reddit.com#%#//scriptlet('set-cookie-reload', 'reddit_session', '1')
