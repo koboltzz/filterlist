@@ -3,8 +3,8 @@ www.morgenpost.de##.cmpstyleroot.cmpboxBG
 ||accounts.google.com/gsi/*$xhr,script,3p
 stadt-bremerhaven.de##p > .wp-embedded-content
 
-! 6/16/2024, 2:28:32 PM Allow reddit despite using vpn
-reddit.com#%#//scriptlet('set-cookie-reload', 'reddit_session', '1')
+#! 6/16/2024, 2:28:32 PM Allow reddit despite using vpn
+#reddit.com#%#//scriptlet('set-cookie-reload', 'reddit_session', '1')
 
 ! 6/16/2024, 2:28:32 PM Disable adblock detection
 @@||static.doubleclick.net^$xhr,domain=www.cybermania.ws
